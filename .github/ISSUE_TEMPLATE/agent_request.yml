@@ -1,0 +1,136 @@
+name: エージェント間の作業依頼
+description: ある役割のエージェントから別の役割のエージェントへ、作業・確認・判断を依頼します。
+title: "[依頼][From: ][To: ] "
+labels:
+  - agent-request
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 記入ルール
+        Issueタイトルの `From` と `To` に役割名を入れてください。
+        例: `[依頼][From: 技術責任者][To: 校正者] 戦闘仕様の整合性確認`
+
+        本文の「依頼元」と「依頼先」が正式な依頼経路です。受領側はコメントで受領・着手・完了を報告してください。
+
+  - type: dropdown
+    id: from_role
+    attributes:
+      label: 依頼元エージェント（From）
+      description: このIssueを起票し、依頼内容に責任を持つ役割を選択してください。
+      options:
+        - 1. プロデューサー
+        - 2. デザインマネージャー
+        - 3. 技術責任者
+        - 4. マネージャー
+        - 5. 日時報告作成者
+        - 6. Qiita記事作成者
+        - 7. ストーリー作成者
+        - 8. 校正者
+    validations:
+      required: true
+
+  - type: dropdown
+    id: to_role
+    attributes:
+      label: 依頼先エージェント（To）
+      description: この依頼を受領し、回答または成果物に責任を持つ役割を選択してください。
+      options:
+        - 1. プロデューサー
+        - 2. デザインマネージャー
+        - 3. 技術責任者
+        - 4. マネージャー
+        - 5. 日時報告作成者
+        - 6. Qiita記事作成者
+        - 7. ストーリー作成者
+        - 8. 校正者
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: 優先度
+      description: 他の依頼との優先順位を判断できるように選択してください。
+      options:
+        - 緊急（他作業を止めて対応）
+        - 高（次に対応）
+        - 中（通常）
+        - 低（余裕があるとき）
+      default: 2
+    validations:
+      required: true
+
+  - type: textarea
+    id: request
+    attributes:
+      label: 依頼内容
+      description: 依頼先に実施してほしいことを、1つのIssueで完結する粒度で記載してください。
+      placeholder: |
+        - 実施してほしい作業
+        - 判断してほしい事項
+        - 作成または変更してほしい成果物
+    validations:
+      required: true
+
+  - type: textarea
+    id: purpose
+    attributes:
+      label: 背景・目的
+      description: なぜこの依頼が必要なのか、前提と目的を記載してください。
+    validations:
+      required: true
+
+  - type: textarea
+    id: acceptance_criteria
+    attributes:
+      label: 完了条件
+      description: 依頼を完了と判断できる、確認可能な条件を列挙してください。
+      placeholder: |
+        - [ ] 条件1
+        - [ ] 条件2
+    validations:
+      required: true
+
+  - type: textarea
+    id: scope
+    attributes:
+      label: 対象範囲・変更制約
+      description: 対象ファイル、変更可能な範囲、変更してはいけない事項、決定権限上の制約を記載してください。
+      placeholder: |
+        対象:
+        変更可能:
+        変更不可:
+        必要な承認:
+    validations:
+      required: true
+
+  - type: input
+    id: due_date
+    attributes:
+      label: 希望期限
+      description: 期限がある場合は、タイムゾーンを含めて記載してください。
+      placeholder: "例: 2026-08-22 20:00 JST／期限なし"
+
+  - type: textarea
+    id: references
+    attributes:
+      label: 関連資料
+      description: 関連Issue、PR、仕様書、ファイルパスなどを記載してください。
+      placeholder: |
+        - #123
+        - 001_設定資料/09_Game_Rules.md
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: 起票前の確認
+      options:
+        - label: Issueタイトルの `From` と `To` を記入しました。
+          required: true
+        - label: 依頼先の役割と権限に合う依頼であることを確認しました。
+          required: true
+        - label: パスワード、トークン、個人情報などの秘密情報を含めていません。
+          required: true
