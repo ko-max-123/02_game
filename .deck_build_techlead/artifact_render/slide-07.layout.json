@@ -1,0 +1,1307 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/vcqu52",
+    "id": "vcqu52",
+    "slide": 7,
+    "layoutId": "8481c467-1ac6-41e8-8a8a-badbefdbf4b1",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "f22cb2ed-40ea-4d03-ad8d-4c91449588e1",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Yu Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "8481c467-1ac6-41e8-8a8a-badbefdbf4b1",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "f22cb2ed-40ea-4d03-ad8d-4c91449588e1",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "f22cb2ed-40ea-4d03-ad8d-4c91449588e1",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0fitwjm9",
+      "id": "1",
+      "bbox": [
+        48,
+        34,
+        1060,
+        66
+      ],
+      "geometry": "rect",
+      "text": "戦闘は『生存資源』と『行動資源』を混ぜない",
+      "textPreview": "戦闘は『生存資源』と『行動資源』を混ぜない",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 38,
+        "typeface": "Yu Gothic",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "戦闘は『生存資源』と『行動資源』を混ぜない"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "戦闘は『生存資源』と『行動資源』を混ぜない",
+          "resolvedTextStyle": {
+            "fontSize": 38,
+            "typeface": "Yu Gothic",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "戦闘は『生存資源』と『行動資源』を混ぜない",
+              "fontSize": 38,
+              "typeface": "Yu Gothic",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ze9s3y5o",
+      "id": "2",
+      "bbox": [
+        1088,
+        42,
+        142,
+        28
+      ],
+      "geometry": "rect",
+      "text": "COMBAT MODEL",
+      "textPreview": "COMBAT MODEL",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Yu Gothic",
+        "color": "#5F6368",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "COMBAT MODEL"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "COMBAT MODEL",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5F6368",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "COMBAT MODEL",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5F6368",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/et0but43",
+      "id": "3",
+      "bbox": [
+        48,
+        116,
+        1184,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#B8BCC4",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dsra1oni",
+      "id": "4",
+      "bbox": [
+        1180,
+        674,
+        50,
+        22
+      ],
+      "geometry": "rect",
+      "text": "07",
+      "textPreview": "07",
+      "resolvedFontSize": 10.33,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Yu Gothic",
+        "color": "#5F6368",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.74,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "07"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "07",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Yu Gothic",
+            "color": "#5F6368",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "07",
+              "fontSize": 14,
+              "typeface": "Yu Gothic",
+              "color": "#5F6368",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/critsjmx",
+      "id": "5",
+      "bbox": [
+        56,
+        156,
+        8,
+        28
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C28",
+      "lineColor": "#F28C28",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rq9sze5s",
+      "id": "6",
+      "bbox": [
+        76,
+        152,
+        300,
+        38
+      ],
+      "geometry": "rect",
+      "text": "生存資源",
+      "textPreview": "生存資源",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 23,
+        "typeface": "Yu Gothic",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "生存資源"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "生存資源",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Yu Gothic",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "生存資源",
+              "fontSize": 23,
+              "typeface": "Yu Gothic",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qpgrq947",
+      "id": "7",
+      "bbox": [
+        56,
+        214,
+        470,
+        78
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FF",
+      "lineColor": "#3D8DFF",
+      "lineWidth": 2
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xobad832",
+      "id": "8",
+      "bbox": [
+        76,
+        231,
+        150,
+        34
+      ],
+      "geometry": "rect",
+      "text": "SHIELD",
+      "textPreview": "SHIELD",
+      "resolvedFontSize": 20.33,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 23,
+        "typeface": "Yu Gothic",
+        "color": "#3D8DFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.88,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SHIELD"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SHIELD",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Yu Gothic",
+            "color": "#3D8DFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SHIELD",
+              "fontSize": 23,
+              "typeface": "Yu Gothic",
+              "color": "#3D8DFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wn2t43mh",
+      "id": "9",
+      "bbox": [
+        228,
+        232,
+        276,
+        34
+      ],
+      "geometry": "rect",
+      "text": "4秒非被弾で回復",
+      "textPreview": "4秒非被弾で回復",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Yu Gothic",
+        "color": "#111111",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "4秒非被弾で回復"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "4秒非被弾で回復",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Yu Gothic",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "4秒非被弾で回復",
+              "fontSize": 18,
+              "typeface": "Yu Gothic",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/25kzu5o3",
+      "id": "10",
+      "bbox": [
+        266,
+        296,
+        48,
+        24
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n6t03apo",
+      "id": "11",
+      "bbox": [
+        56,
+        326,
+        470,
+        78
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFF1E3",
+      "lineColor": "#F28C28",
+      "lineWidth": 2
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o72hwf69",
+      "id": "12",
+      "bbox": [
+        76,
+        343,
+        150,
+        34
+      ],
+      "geometry": "rect",
+      "text": "ARMOR",
+      "textPreview": "ARMOR",
+      "resolvedFontSize": 20.33,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 23,
+        "typeface": "Yu Gothic",
+        "color": "#F28C28",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.88,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ARMOR"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ARMOR",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Yu Gothic",
+            "color": "#F28C28",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ARMOR",
+              "fontSize": 23,
+              "typeface": "Yu Gothic",
+              "color": "#F28C28",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p8bi5k7u",
+      "id": "13",
+      "bbox": [
+        228,
+        344,
+        276,
+        34
+      ],
+      "geometry": "rect",
+      "text": "自然回復なし／補修と補給",
+      "textPreview": "自然回復なし／補修と補給",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Yu Gothic",
+        "color": "#111111",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "自然回復なし／補修と補給"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "自然回復なし／補修と補給",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Yu Gothic",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "自然回復なし／補修と補給",
+              "fontSize": 18,
+              "typeface": "Yu Gothic",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e10zq5o7",
+      "id": "14",
+      "bbox": [
+        266,
+        408,
+        48,
+        24
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f290zapc",
+      "id": "15",
+      "bbox": [
+        56,
+        438,
+        470,
+        78
+      ],
+      "geometry": "rect",
+      "fillColor": "#FDECEA",
+      "lineColor": "#B42318",
+      "lineWidth": 2
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/032hsf6x",
+      "id": "16",
+      "bbox": [
+        76,
+        455,
+        150,
+        34
+      ],
+      "geometry": "rect",
+      "text": "HP",
+      "textPreview": "HP",
+      "resolvedFontSize": 20.33,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 23,
+        "typeface": "Yu Gothic",
+        "color": "#B42318",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.88,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HP"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HP",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Yu Gothic",
+            "color": "#B42318",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HP",
+              "fontSize": 23,
+              "typeface": "Yu Gothic",
+              "color": "#B42318",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/14bi1k7i",
+      "id": "17",
+      "bbox": [
+        228,
+        456,
+        276,
+        34
+      ],
+      "geometry": "rect",
+      "text": "医療と補給／0でDown",
+      "textPreview": "医療と補給／0でDown",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Yu Gothic",
+        "color": "#111111",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "医療と補給／0でDown"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "医療と補給／0でDown",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Yu Gothic",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "医療と補給／0でDown",
+              "fontSize": 18,
+              "typeface": "Yu Gothic",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yx4j2pob",
+      "id": "18",
+      "bbox": [
+        574,
+        150,
+        0,
+        430
+      ],
+      "geometry": "line",
+      "lineColor": "#B8BCC4",
+      "lineWidth": 2
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zyd0bupw",
+      "id": "19",
+      "bbox": [
+        618,
+        156,
+        8,
+        28
+      ],
+      "geometry": "rect",
+      "fillColor": "#3D8DFF",
+      "lineColor": "#3D8DFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vi5w3m58",
+      "id": "20",
+      "bbox": [
+        638,
+        152,
+        300,
+        38
+      ],
+      "geometry": "rect",
+      "text": "行動資源",
+      "textPreview": "行動資源",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 23,
+        "typeface": "Yu Gothic",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "行動資源"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "行動資源",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Yu Gothic",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "行動資源",
+              "fontSize": 23,
+              "typeface": "Yu Gothic",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/uhwfuh4n",
+      "id": "21",
+      "bbox": [
+        618,
+        220,
+        180,
+        36
+      ],
+      "geometry": "rect",
+      "text": "ENERGY",
+      "textPreview": "ENERGY",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "Yu Gothic",
+        "color": "#3D8DFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.88,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ENERGY"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ENERGY",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "Yu Gothic",
+            "color": "#3D8DFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ENERGY",
+              "fontSize": 25,
+              "typeface": "Yu Gothic",
+              "color": "#3D8DFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hk7e5wne",
+      "id": "22",
+      "bbox": [
+        618,
+        266,
+        560,
+        78
+      ],
+      "geometry": "rect",
+      "text": "ジェット・シールド・ビーム・支援機能で共有。0でも地上移動・実弾・近接は使用可能。",
+      "textPreview": "ジェット・シールド・ビーム・支援機能で共有。0でも地上移動・実弾・近接は使用可能。",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Yu Gothic",
+        "color": "#111111",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ジェット・シールド・ビーム・支援機能で共有。0でも地上移動"
+          },
+          {
+            "index": 2,
+            "text": "・実弾・近接は使用可能。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ジェット・シールド・ビーム・支援機能で共有。0でも地上移動・実弾・近接は使用可能。",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Yu Gothic",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ジェット・シールド・ビーム・支援機能で共有。0でも地上移動・実弾・近接は使用可能。",
+              "fontSize": 19,
+              "typeface": "Yu Gothic",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wjexwrmt",
+      "id": "23",
+      "bbox": [
+        618,
+        374,
+        180,
+        36
+      ],
+      "geometry": "rect",
+      "text": "HEAT",
+      "textPreview": "HEAT",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "Yu Gothic",
+        "color": "#F28C28",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.88,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HEAT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HEAT",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "Yu Gothic",
+            "color": "#F28C28",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HEAT",
+              "fontSize": 25,
+              "typeface": "Yu Gothic",
+              "color": "#F28C28",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jmpw7654",
+      "id": "24",
+      "bbox": [
+        618,
+        420,
+        560,
+        78
+      ],
+      "geometry": "rect",
+      "text": "高出力の継続を制限。100で5秒間、ジェット・ビーム・シールド回復が停止。",
+      "textPreview": "高出力の継続を制限。100で5秒間、ジェット・ビーム・シールド回復が停止。",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Yu Gothic",
+        "color": "#111111",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "高出力の継続を制限。100で5秒間、ジェット・ビーム・シール"
+          },
+          {
+            "index": 2,
+            "text": "ド回復が停止。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "高出力の継続を制限。100で5秒間、ジェット・ビーム・シールド回復が停止。",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Yu Gothic",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "高出力の継続を制限。100で5秒間、ジェット・ビーム・シールド回復が停止。",
+              "fontSize": 19,
+              "typeface": "Yu Gothic",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ilgfy14z",
+      "id": "25",
+      "bbox": [
+        618,
+        548,
+        560,
+        42
+      ],
+      "geometry": "rect",
+      "text": "射撃＝安全と継続　／　近接＝接近リスクと装甲破壊",
+      "textPreview": "射撃＝安全と継続　／　近接＝接近リスクと装甲破壊",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Yu Gothic",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "射撃＝安全と継続　／　近接＝接近リスクと装甲破壊"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "射撃＝安全と継続　／　近接＝接近リスクと装甲破壊",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Yu Gothic",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "射撃＝安全と継続　／　近接＝接近リスクと装甲破壊",
+              "fontSize": 21,
+              "typeface": "Yu Gothic",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

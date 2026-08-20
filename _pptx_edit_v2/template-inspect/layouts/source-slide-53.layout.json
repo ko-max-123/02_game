@@ -1,0 +1,1019 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/9w7yt8zy",
+    "id": "9w7yt8zy",
+    "slide": 53,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Helvetica Neue",
+      "Yu Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cjixknq1",
+      "id": "8",
+      "name": "Google-Shape-532-p58-2",
+      "bbox": [
+        1184.18,
+        659.24,
+        54.48,
+        25.33
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m9kfqxo3",
+      "id": "2",
+      "name": "Google-Shape-533-p58-3",
+      "bbox": [
+        41.33,
+        36.12,
+        1197.33,
+        109.97
+      ],
+      "geometry": "rect",
+      "text": "付録：武器・装備・アイテムの成長体系",
+      "textPreview": "付録：武器・装備・アイテムの成長体系",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "付録：武器・装備・アイテムの成長体系"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "付録：武器・装備・アイテムの成長体系",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 38.67,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "付録：武器・装備・アイテムの成長体系",
+              "fontSize": 48,
+              "typeface": "Yu Gothic",
+              "color": "#12171C",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/natwz2po",
+      "id": "3",
+      "name": "Content-Placeholder-15-4",
+      "bbox": [
+        42.09,
+        111.02,
+        1197.33,
+        106.27
+      ],
+      "geometry": "rect",
+      "text": "REFERENCE\n詳細数値は04〜08資料。数式・上限はGate 0後に再計算。",
+      "textPreview": "REFERENCE | 詳細数値は04〜08資料。数式・上限はGate 0後に再計算。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "REFERENCE"
+          },
+          {
+            "index": 2,
+            "text": "詳細数値は04〜08資料。数式・上限はGate 0後に再計算。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "REFERENCE",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "REFERENCE",
+              "fontSize": 17,
+              "typeface": "Yu Gothic",
+              "color": "#F28C28",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "詳細数値は04〜08資料。数式・上限はGate 0後に再計算。",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "詳細数値は04〜08資料。数式・上限はGate 0後に再計算。",
+              "fontSize": 20,
+              "typeface": "Yu Gothic",
+              "color": "#28323A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/4jmlo32x",
+      "id": "9",
+      "name": "Google-Shape-644-p93-5",
+      "bbox": [
+        41.33,
+        236.33,
+        1197,
+        412.87
+      ],
+      "text": "体系 | 内容 | 運用原則\n射撃武器 | AR／BR／SMG／SG／DMR／SR／LMG／GL／RL／Beam／Rail | 距離・装甲・資源で差別化\n近接武器 | Sword／Blade／Spear／Knife／Pile／Gauntlet／Wire／Beam | 実体長・予告・接近リスク\n弾薬MOD | 通常／徹甲／焼夷／電撃／非致死等 | 任務中の役割変更\n装備品質 | 5段階、Lv1〜10、ランダム特性 | 厳選疲れを検索・保護・天井で抑制\n武器改造 | 3系統 | 万能化でなくプレイスタイル選択\nドロップ | 通貨／素材／消耗品／装備／情報／証拠／収集品 | 重要品は売却・分解・紛失不可",
+      "textPreview": "体系 | 内容 | 運用原則 | 射撃武器 | AR／BR／SMG／SG／DMR／SR／LMG／GL／RL／Beam／Rail | 距離・装甲・資源で差別化 | 近接武器 | Sword／Blade／Spear／Knife／Pile／Gauntlet／Wire／Beam |...",
+      "rows": 7,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            41.33,
+            236.33,
+            220,
+            58.98
+          ],
+          "text": "体系",
+          "textPreview": "体系",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "体系",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "体系",
+                  "fontSize": 16,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            261.33,
+            236.33,
+            510,
+            58.98
+          ],
+          "text": "内容",
+          "textPreview": "内容",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "内容",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "内容",
+                  "fontSize": 16,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            771.33,
+            236.33,
+            467,
+            58.98
+          ],
+          "text": "運用原則",
+          "textPreview": "運用原則",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "運用原則",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "運用原則",
+                  "fontSize": 16,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            41.33,
+            295.31,
+            220,
+            58.98
+          ],
+          "text": "射撃武器",
+          "textPreview": "射撃武器",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "射撃武器",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "射撃武器",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            261.33,
+            295.31,
+            510,
+            58.98
+          ],
+          "text": "AR／BR／SMG／SG／DMR／SR／LMG／GL／RL／Beam／Rail",
+          "textPreview": "AR／BR／SMG／SG／DMR／SR／LMG／GL／RL／Beam／Rail",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "AR／BR／SMG／SG／DMR／SR／LMG／GL／RL／Beam／Rail",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "AR／BR／SMG／SG／DMR／SR／LMG／GL／RL／Beam／Rail",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            771.33,
+            295.31,
+            467,
+            58.98
+          ],
+          "text": "距離・装甲・資源で差別化",
+          "textPreview": "距離・装甲・資源で差別化",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "距離・装甲・資源で差別化",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "距離・装甲・資源で差別化",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            41.33,
+            354.29,
+            220,
+            58.98
+          ],
+          "text": "近接武器",
+          "textPreview": "近接武器",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "近接武器",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "近接武器",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            261.33,
+            354.29,
+            510,
+            58.98
+          ],
+          "text": "Sword／Blade／Spear／Knife／Pile／Gauntlet／Wire／Beam",
+          "textPreview": "Sword／Blade／Spear／Knife／Pile／Gauntlet／Wire／Beam",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Sword／Blade／Spear／Knife／Pile／Gauntlet／Wire／Beam",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Sword／Blade／Spear／Knife／Pile／Gauntlet／Wire／Beam",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            771.33,
+            354.29,
+            467,
+            58.98
+          ],
+          "text": "実体長・予告・接近リスク",
+          "textPreview": "実体長・予告・接近リスク",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "実体長・予告・接近リスク",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "実体長・予告・接近リスク",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            41.33,
+            413.27,
+            220,
+            58.98
+          ],
+          "text": "弾薬MOD",
+          "textPreview": "弾薬MOD",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "弾薬MOD",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "弾薬MOD",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            261.33,
+            413.27,
+            510,
+            58.98
+          ],
+          "text": "通常／徹甲／焼夷／電撃／非致死等",
+          "textPreview": "通常／徹甲／焼夷／電撃／非致死等",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "通常／徹甲／焼夷／電撃／非致死等",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "通常／徹甲／焼夷／電撃／非致死等",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            771.33,
+            413.27,
+            467,
+            58.98
+          ],
+          "text": "任務中の役割変更",
+          "textPreview": "任務中の役割変更",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "任務中の役割変更",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "任務中の役割変更",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            41.33,
+            472.26,
+            220,
+            58.98
+          ],
+          "text": "装備品質",
+          "textPreview": "装備品質",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "装備品質",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "装備品質",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            261.33,
+            472.26,
+            510,
+            58.98
+          ],
+          "text": "5段階、Lv1〜10、ランダム特性",
+          "textPreview": "5段階、Lv1〜10、ランダム特性",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5段階、Lv1〜10、ランダム特性",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5段階、Lv1〜10、ランダム特性",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            771.33,
+            472.26,
+            467,
+            58.98
+          ],
+          "text": "厳選疲れを検索・保護・天井で抑制",
+          "textPreview": "厳選疲れを検索・保護・天井で抑制",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "厳選疲れを検索・保護・天井で抑制",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "厳選疲れを検索・保護・天井で抑制",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            41.33,
+            531.24,
+            220,
+            58.98
+          ],
+          "text": "武器改造",
+          "textPreview": "武器改造",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "武器改造",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "武器改造",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            261.33,
+            531.24,
+            510,
+            58.98
+          ],
+          "text": "3系統",
+          "textPreview": "3系統",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3系統",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3系統",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            771.33,
+            531.24,
+            467,
+            58.98
+          ],
+          "text": "万能化でなくプレイスタイル選択",
+          "textPreview": "万能化でなくプレイスタイル選択",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "万能化でなくプレイスタイル選択",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "万能化でなくプレイスタイル選択",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            41.33,
+            590.22,
+            220,
+            58.98
+          ],
+          "text": "ドロップ",
+          "textPreview": "ドロップ",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ドロップ",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ドロップ",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            261.33,
+            590.22,
+            510,
+            58.98
+          ],
+          "text": "通貨／素材／消耗品／装備／情報／証拠／収集品",
+          "textPreview": "通貨／素材／消耗品／装備／情報／証拠／収集品",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "通貨／素材／消耗品／装備／情報／証拠／収集品",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "通貨／素材／消耗品／装備／情報／証拠／収集品",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            771.33,
+            590.22,
+            467,
+            58.98
+          ],
+          "text": "重要品は売却・分解・紛失不可",
+          "textPreview": "重要品は売却・分解・紛失不可",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "重要品は売却・分解・紛失不可",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "重要品は売却・分解・紛失不可",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1obexs7i",
+      "id": "5",
+      "bbox": [
+        42,
+        670,
+        350,
+        24
+      ],
+      "geometry": "rect",
+      "text": "YTC: Deliver Tomorrow",
+      "textPreview": "YTC: Deliver Tomorrow",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "YTC: Deliver Tomorrow"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "YTC: Deliver Tomorrow",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "YTC: Deliver Tomorrow",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/elkfmx87",
+      "id": "6",
+      "bbox": [
+        1178,
+        670,
+        60,
+        24
+      ],
+      "geometry": "rect",
+      "text": "53",
+      "textPreview": "53",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "53"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "53",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "53",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zmtwv2ps",
+      "id": "7",
+      "bbox": [
+        42,
+        660,
+        54,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C28"
+    }
+  ],
+  "composeRuns": []
+}

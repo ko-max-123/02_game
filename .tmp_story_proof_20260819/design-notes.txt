@@ -1,0 +1,8 @@
+Visual route: Codex Grid.
+Selected composition references:
+- slide-01: sparse cover hierarchy for the pass decision.
+- slide-14: table-led evidence for review scope.
+- slide-19-like metric rhythm: flat large-number evidence without UI cards.
+- slide-10 / slide-26: checklist and sparse handoff logic.
+
+Visual system: white canvas, black type, pale gray panels, thin rules, one blue accent, green only for pass status.

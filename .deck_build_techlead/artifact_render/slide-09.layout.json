@@ -1,0 +1,1200 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/0ygdi8",
+    "id": "0ygdi8",
+    "slide": 9,
+    "layoutId": "8481c467-1ac6-41e8-8a8a-badbefdbf4b1",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "f22cb2ed-40ea-4d03-ad8d-4c91449588e1",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Yu Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "8481c467-1ac6-41e8-8a8a-badbefdbf4b1",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "f22cb2ed-40ea-4d03-ad8d-4c91449588e1",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "f22cb2ed-40ea-4d03-ad8d-4c91449588e1",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d0r6d8fe",
+      "id": "1",
+      "bbox": [
+        48,
+        34,
+        1060,
+        66
+      ],
+      "geometry": "rect",
+      "text": "技術基盤は『コアがオンラインへ依存しない』構造にする",
+      "textPreview": "技術基盤は『コアがオンラインへ依存しない』構造にする",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 38,
+        "typeface": "Yu Gothic",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "技術基盤は『コアがオンラインへ依存しない』構造にする"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "技術基盤は『コアがオンラインへ依存しない』構造にする",
+          "resolvedTextStyle": {
+            "fontSize": 38,
+            "typeface": "Yu Gothic",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "技術基盤は『コアがオンラインへ依存しない』構造にする",
+              "fontSize": 38,
+              "typeface": "Yu Gothic",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qx07itgn",
+      "id": "2",
+      "bbox": [
+        1088,
+        42,
+        142,
+        28
+      ],
+      "geometry": "rect",
+      "text": "TARGET ARCHITECTURE",
+      "textPreview": "TARGET ARCHITECTURE",
+      "resolvedFontSize": 10.4,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Yu Gothic",
+        "color": "#5F6368",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.69,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "TARGET"
+          },
+          {
+            "index": 2,
+            "text": "ARCHITECTURE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "TARGET ARCHITECTURE",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5F6368",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "TARGET ARCHITECTURE",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5F6368",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ry9obyx8",
+      "id": "3",
+      "bbox": [
+        48,
+        116,
+        1184,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#B8BCC4",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4vypg3yx",
+      "id": "4",
+      "bbox": [
+        1180,
+        674,
+        50,
+        22
+      ],
+      "geometry": "rect",
+      "text": "09",
+      "textPreview": "09",
+      "resolvedFontSize": 10.33,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Yu Gothic",
+        "color": "#5F6368",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.74,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "09",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Yu Gothic",
+            "color": "#5F6368",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "09",
+              "fontSize": 14,
+              "typeface": "Yu Gothic",
+              "color": "#5F6368",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pwr698f2",
+      "id": "5",
+      "bbox": [
+        64,
+        144,
+        1152,
+        70
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FF",
+      "lineColor": "#3D8DFF",
+      "lineWidth": 1
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2tg7etgr",
+      "id": "6",
+      "bbox": [
+        64,
+        144,
+        14,
+        70
+      ],
+      "geometry": "rect",
+      "fillColor": "#3D8DFF",
+      "lineColor": "#3D8DFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3upo7yxc",
+      "id": "7",
+      "bbox": [
+        98,
+        158,
+        300,
+        32
+      ],
+      "geometry": "rect",
+      "text": "UX / PRESENTATION",
+      "textPreview": "UX / PRESENTATION",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Yu Gothic",
+        "color": "#3D8DFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.98,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "UX / PRESENTATION"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "UX / PRESENTATION",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Yu Gothic",
+            "color": "#3D8DFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "UX / PRESENTATION",
+              "fontSize": 19,
+              "typeface": "Yu Gothic",
+              "color": "#3D8DFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g7ypcjyl",
+      "id": "8",
+      "bbox": [
+        416,
+        158,
+        770,
+        40
+      ],
+      "geometry": "rect",
+      "text": "入力抽象化・カメラ・HUD・字幕・アクセシビリティ",
+      "textPreview": "入力抽象化・カメラ・HUD・字幕・アクセシビリティ",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Yu Gothic",
+        "color": "#111111",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "入力抽象化・カメラ・HUD・字幕・アクセシビリティ"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "入力抽象化・カメラ・HUD・字幕・アクセシビリティ",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Yu Gothic",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "入力抽象化・カメラ・HUD・字幕・アクセシビリティ",
+              "fontSize": 18,
+              "typeface": "Yu Gothic",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h8765of6",
+      "id": "9",
+      "bbox": [
+        64,
+        236,
+        1152,
+        70
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFF1E3",
+      "lineColor": "#F28C28",
+      "lineWidth": 1
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hs7mdcju",
+      "id": "10",
+      "bbox": [
+        64,
+        236,
+        14,
+        70
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C28",
+      "lineColor": "#F28C28",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wryl47i9",
+      "id": "11",
+      "bbox": [
+        98,
+        250,
+        300,
+        32
+      ],
+      "geometry": "rect",
+      "text": "GAMEPLAY RUNTIME",
+      "textPreview": "GAMEPLAY RUNTIME",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Yu Gothic",
+        "color": "#F28C28",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.98,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "GAMEPLAY RUNTIME"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "GAMEPLAY RUNTIME",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Yu Gothic",
+            "color": "#F28C28",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "GAMEPLAY RUNTIME",
+              "fontSize": 19,
+              "typeface": "Yu Gothic",
+              "color": "#F28C28",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vqp4b21o",
+      "id": "12",
+      "bbox": [
+        416,
+        250,
+        770,
+        40
+      ],
+      "geometry": "rect",
+      "text": "移動・戦闘・AI・任務・ドロップ・ハブ・進行",
+      "textPreview": "移動・戦闘・AI・任務・ドロップ・ハブ・進行",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Yu Gothic",
+        "color": "#111111",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "移動・戦闘・AI・任務・ドロップ・ハブ・進行"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "移動・戦闘・AI・任務・ドロップ・ハブ・進行",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Yu Gothic",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "移動・戦闘・AI・任務・ドロップ・ハブ・進行",
+              "fontSize": 18,
+              "typeface": "Yu Gothic",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/upg32x03",
+      "id": "13",
+      "bbox": [
+        64,
+        328,
+        1152,
+        70
+      ],
+      "geometry": "rect",
+      "fillColor": "#F7F7F7",
+      "lineColor": "#5F6368",
+      "lineWidth": 1
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9o7m9sji",
+      "id": "14",
+      "bbox": [
+        64,
+        328,
+        14,
+        70
+      ],
+      "geometry": "rect",
+      "fillColor": "#5F6368",
+      "lineColor": "#5F6368",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8nel07ix",
+      "id": "15",
+      "bbox": [
+        98,
+        342,
+        300,
+        32
+      ],
+      "geometry": "rect",
+      "text": "CONTENT DATA",
+      "textPreview": "CONTENT DATA",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Yu Gothic",
+        "color": "#5F6368",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.98,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CONTENT DATA"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CONTENT DATA",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Yu Gothic",
+            "color": "#5F6368",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CONTENT DATA",
+              "fontSize": 19,
+              "typeface": "Yu Gothic",
+              "color": "#5F6368",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7m54721s",
+      "id": "16",
+      "bbox": [
+        416,
+        342,
+        770,
+        40
+      ],
+      "geometry": "rect",
+      "text": "安定ID・マスターデータ・会話・ローカライズ・Addressable配信",
+      "textPreview": "安定ID・マスターデータ・会話・ローカライズ・Addressable配信",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Yu Gothic",
+        "color": "#111111",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "安定ID・マスターデータ・会話・ローカライズ・Addressable配信"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "安定ID・マスターデータ・会話・ローカライズ・Addressable配信",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Yu Gothic",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "安定ID・マスターデータ・会話・ローカライズ・Addressable配信",
+              "fontSize": 18,
+              "typeface": "Yu Gothic",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mlw3yx07",
+      "id": "17",
+      "bbox": [
+        64,
+        420,
+        1152,
+        70
+      ],
+      "geometry": "rect",
+      "fillColor": "#E7F5ED",
+      "lineColor": "#137A4A",
+      "lineWidth": 1
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lknm5sjm",
+      "id": "18",
+      "bbox": [
+        64,
+        420,
+        14,
+        70
+      ],
+      "geometry": "rect",
+      "fillColor": "#137A4A",
+      "lineColor": "#137A4A",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kjelwni1",
+      "id": "19",
+      "bbox": [
+        98,
+        434,
+        300,
+        32
+      ],
+      "geometry": "rect",
+      "text": "PERSISTENCE / PLATFORM",
+      "textPreview": "PERSISTENCE / PLATFORM",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Yu Gothic",
+        "color": "#137A4A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.98,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PERSISTENCE / PLATFORM"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PERSISTENCE / PLATFORM",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Yu Gothic",
+            "color": "#137A4A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PERSISTENCE / PLATFORM",
+              "fontSize": 19,
+              "typeface": "Yu Gothic",
+              "color": "#137A4A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cf2d8ru9",
+      "id": "20",
+      "bbox": [
+        416,
+        434,
+        770,
+        40
+      ],
+      "geometry": "rect",
+      "text": "版管理セーブ・設定・実績・任意テレメトリ・P5オンライン境界",
+      "textPreview": "版管理セーブ・設定・実績・任意テレメトリ・P5オンライン境界",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Yu Gothic",
+        "color": "#111111",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "版管理セーブ・設定・実績・任意テレメトリ・P5オンライン境界"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "版管理セーブ・設定・実績・任意テレメトリ・P5オンライン境界",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Yu Gothic",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "版管理セーブ・設定・実績・任意テレメトリ・P5オンライン境界",
+              "fontSize": 18,
+              "typeface": "Yu Gothic",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xgbe1wvu",
+      "id": "21",
+      "bbox": [
+        64,
+        512,
+        1152,
+        70
+      ],
+      "geometry": "rect",
+      "fillColor": "#111111",
+      "lineColor": "#111111",
+      "lineWidth": 1
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ad0v6hc3",
+      "id": "22",
+      "bbox": [
+        64,
+        512,
+        14,
+        70
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C28",
+      "lineColor": "#F28C28",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/be9czmdo",
+      "id": "23",
+      "bbox": [
+        98,
+        526,
+        300,
+        32
+      ],
+      "geometry": "rect",
+      "text": "ENGINE FOUNDATION",
+      "textPreview": "ENGINE FOUNDATION",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Yu Gothic",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.98,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ENGINE FOUNDATION"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ENGINE FOUNDATION",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Yu Gothic",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ENGINE FOUNDATION",
+              "fontSize": 19,
+              "typeface": "Yu Gothic",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/obid47ux",
+      "id": "24",
+      "bbox": [
+        416,
+        526,
+        770,
+        40
+      ],
+      "geometry": "rect",
+      "text": "Unity LTS / URP / C#　＋　Git・Git LFS・GitHub Actions",
+      "textPreview": "Unity LTS / URP / C#　＋　Git・Git LFS・GitHub Actions",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Yu Gothic",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Unity LTS / URP / C#　＋　Git・Git LFS・GitHub Actions"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Unity LTS / URP / C#　＋　Git・Git LFS・GitHub Actions",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Yu Gothic",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Unity LTS / URP / C#　＋　Git・Git LFS・GitHub Actions",
+              "fontSize": 18,
+              "typeface": "Yu Gothic",
+              "color": "#FFFFFF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pcruxcvi",
+      "id": "25",
+      "bbox": [
+        112,
+        622,
+        1050,
+        40
+      ],
+      "geometry": "rect",
+      "text": "P0–P4ではサーバー停止・未接続でも本編、セーブ、装備、再戦がすべて成立する。",
+      "textPreview": "P0–P4ではサーバー停止・未接続でも本編、セーブ、装備、再戦がすべて成立する。",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 21,
+        "typeface": "Yu Gothic",
+        "color": "#3D8DFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "P0–P4ではサーバー停止・未接続でも本編、セーブ、装備、再戦がすべて成立する。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "P0–P4ではサーバー停止・未接続でも本編、セーブ、装備、再戦がすべて成立する。",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Yu Gothic",
+            "color": "#3D8DFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "P0–P4ではサーバー停止・未接続でも本編、セーブ、装備、再戦がすべて成立する。",
+              "fontSize": 21,
+              "typeface": "Yu Gothic",
+              "color": "#3D8DFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

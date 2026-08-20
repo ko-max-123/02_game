@@ -1,0 +1,667 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/nkslg9",
+    "id": "nkslg9",
+    "slide": 7,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Yu Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fu9svihg",
+      "id": "13",
+      "bbox": [
+        42,
+        36,
+        1196,
+        80
+      ],
+      "geometry": "rect",
+      "text": "K1の未完成さは、人間が命令を拒める余白である",
+      "textPreview": "K1の未完成さは、人間が命令を拒める余白である",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "K1の未完成さは、人間が命令を拒める余白である"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "K1の未完成さは、人間が命令を拒める余白である",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Yu Gothic",
+            "color": "#12171C"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "K1の未完成さは、人間が命令を拒める余白である",
+              "fontSize": 48,
+              "typeface": "Yu Gothic",
+              "color": "#12171C",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p476xg7a",
+      "id": "2",
+      "bbox": [
+        42,
+        120,
+        100,
+        7
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C28"
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o3yp4b6p",
+      "id": "3",
+      "bbox": [
+        42,
+        160,
+        540,
+        45
+      ],
+      "geometry": "rect",
+      "text": "K1 / COURIER",
+      "textPreview": "K1 / COURIER",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "K1 / COURIER"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "K1 / COURIER",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Yu Gothic",
+            "color": "#F28C28"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "K1 / COURIER",
+              "fontSize": 24,
+              "typeface": "Yu Gothic",
+              "color": "#F28C28",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b6pozqp0",
+      "id": "4",
+      "bbox": [
+        42,
+        218,
+        535,
+        350
+      ],
+      "geometry": "rect",
+      "text": "• 山田専用の外部試験機。射撃・近接・飛行を統合\n• 修理痕と左右非対称の試験部品を残す実用品\n• Stage I〜IV、FINALで段階改修\n• 第13章以降、山田は正式な現場リーダー",
+      "textPreview": "• 山田専用の外部試験機。射撃・近接・飛行を統合 | • 修理痕と左右非対称の試験部品を残す実用品 | • Stage I〜IV、FINALで段階改修 | • 第13章以降、山田は正式な現場リーダー",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• 山田専用の外部試験機。射撃・近接・飛行を統合"
+          },
+          {
+            "index": 2,
+            "text": "• 修理痕と左右非対称の試験部品を残す実用品"
+          },
+          {
+            "index": 3,
+            "text": "• Stage I〜IV、FINALで段階改修"
+          },
+          {
+            "index": 4,
+            "text": "• 第13章以降、山田は正式な現場リーダー"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• 山田専用の外部試験機。射撃・近接・飛行を統合\n• 修理痕と左右非対称の試験部品を残す実用品\n• Stage I〜IV、FINALで段階改修\n• 第13章以降、山田は正式な現場リーダー",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Yu Gothic",
+            "color": "#28323A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 山田専用の外部試験機。射撃・近接・飛行を統合\n• 修理痕と左右非対称の試験部品を残す実用品\n• Stage I〜IV、FINALで段階改修\n• 第13章以降、山田は正式な現場リーダー",
+              "fontSize": 22,
+              "typeface": "Yu Gothic",
+              "color": "#28323A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3y9sz2hc",
+      "id": "17",
+      "bbox": [
+        620,
+        155,
+        1,
+        410
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "#E4E7EA",
+      "lineWidth": 2
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xs761076",
+      "id": "6",
+      "bbox": [
+        664,
+        160,
+        574,
+        45
+      ],
+      "geometry": "rect",
+      "text": "LARK / REFUSAL CORE",
+      "textPreview": "LARK / REFUSAL CORE",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "LARK / REFUSAL CORE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "LARK / REFUSAL CORE",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Yu Gothic",
+            "color": "#BDECCB"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LARK / REFUSAL CORE",
+              "fontSize": 24,
+              "typeface": "Yu Gothic",
+              "color": "#BDECCB",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cryp8v6l",
+      "id": "7",
+      "bbox": [
+        664,
+        218,
+        574,
+        350
+      ],
+      "geometry": "rect",
+      "text": "• 神楽美緒が設計した独立認証核\n• ORPHEUSに汚染されていない同系統コア\n• 外部停止命令を拒否し、不正命令を証明\n• 最終的に物理停止鍵を届ける媒体となる",
+      "textPreview": "• 神楽美緒が設計した独立認証核 | • ORPHEUSに汚染されていない同系統コア | • 外部停止命令を拒否し、不正命令を証明 | • 最終的に物理停止鍵を届ける媒体となる",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• 神楽美緒が設計した独立認証核"
+          },
+          {
+            "index": 2,
+            "text": "• ORPHEUSに汚染されていない同系統コア"
+          },
+          {
+            "index": 3,
+            "text": "• 外部停止命令を拒否し、不正命令を証明"
+          },
+          {
+            "index": 4,
+            "text": "• 最終的に物理停止鍵を届ける媒体となる"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• 神楽美緒が設計した独立認証核\n• ORPHEUSに汚染されていない同系統コア\n• 外部停止命令を拒否し、不正命令を証明\n• 最終的に物理停止鍵を届ける媒体となる",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Yu Gothic",
+            "color": "#28323A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 神楽美緒が設計した独立認証核\n• ORPHEUSに汚染されていない同系統コア\n• 外部停止命令を拒否し、不正命令を証明\n• 最終的に物理停止鍵を届ける媒体となる",
+              "fontSize": 22,
+              "typeface": "Yu Gothic",
+              "color": "#28323A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zu9o3qpc",
+      "id": "8",
+      "bbox": [
+        42,
+        585,
+        1196,
+        55
+      ],
+      "geometry": "rect",
+      "fillColor": "#F2F2F2"
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ytg7alor",
+      "id": "9",
+      "bbox": [
+        62,
+        599,
+        1156,
+        28
+      ],
+      "geometry": "rect",
+      "text": "最終操作は特殊QTEではなく、通常の『アイテム使用』。基本動作で物語を終える。",
+      "textPreview": "最終操作は特殊QTEではなく、通常の『アイテム使用』。基本動作で物語を終える。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "最終操作は特殊QTEではなく、通常の『アイテム使用』。基本動作で物語を終える。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "最終操作は特殊QTEではなく、通常の『アイテム使用』。基本動作で物語を終える。",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Yu Gothic",
+            "color": "#12171C",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "最終操作は特殊QTEではなく、通常の『アイテム使用』。基本動作で物語を終える。",
+              "fontSize": 19,
+              "typeface": "Yu Gothic",
+              "color": "#12171C",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gvi9oni1",
+      "id": "10",
+      "bbox": [
+        42,
+        670,
+        350,
+        24
+      ],
+      "geometry": "rect",
+      "text": "YTC: Deliver Tomorrow",
+      "textPreview": "YTC: Deliver Tomorrow",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "YTC: Deliver Tomorrow"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "YTC: Deliver Tomorrow",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "YTC: Deliver Tomorrow",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hwraxsz6",
+      "id": "11",
+      "bbox": [
+        1178,
+        670,
+        60,
+        24
+      ],
+      "geometry": "rect",
+      "text": "07",
+      "textPreview": "07",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "07"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "07",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "07",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ut0rmd0v",
+      "id": "12",
+      "bbox": [
+        42,
+        660,
+        54,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C28"
+    }
+  ],
+  "composeRuns": []
+}

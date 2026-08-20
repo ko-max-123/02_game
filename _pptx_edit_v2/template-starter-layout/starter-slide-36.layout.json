@@ -1,0 +1,825 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/9tk3vu",
+    "id": "9tk3vu",
+    "slide": 36,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Helvetica Neue",
+      "Yu Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l4rep0jm",
+      "id": "8",
+      "name": "Google-Shape-532-p58-2",
+      "bbox": [
+        1184.18,
+        659.24,
+        54.48,
+        25.33
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vutgfa1o",
+      "id": "2",
+      "name": "Google-Shape-533-p58-3",
+      "bbox": [
+        41.33,
+        36.12,
+        1197.33,
+        109.97
+      ],
+      "geometry": "rect",
+      "text": "難易度とアシストは、物語・報酬を奪わない",
+      "textPreview": "難易度とアシストは、物語・報酬を奪わない",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "難易度とアシストは、物語・報酬を奪わない"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "難易度とアシストは、物語・報酬を奪わない",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 38.67,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "難易度とアシストは、物語・報酬を奪わない",
+              "fontSize": 48,
+              "typeface": "Yu Gothic",
+              "color": "#12171C",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/utkfm5kj",
+      "id": "3",
+      "name": "Content-Placeholder-15-4",
+      "bbox": [
+        42.09,
+        111.02,
+        1197.33,
+        106.27
+      ],
+      "geometry": "rect",
+      "text": "REFERENCE\nプレイヤーが判断へ集中できるよう、挑戦強度と情報支援を分離する。",
+      "textPreview": "REFERENCE | プレイヤーが判断へ集中できるよう、挑戦強度と情報支援を分離する。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "REFERENCE"
+          },
+          {
+            "index": 2,
+            "text": "プレイヤーが判断へ集中できるよう、挑戦強度と情報支援を分離する。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "REFERENCE",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "REFERENCE",
+              "fontSize": 17,
+              "typeface": "Yu Gothic",
+              "color": "#F28C28",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "プレイヤーが判断へ集中できるよう、挑戦強度と情報支援を分離する。",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "プレイヤーが判断へ集中できるよう、挑戦強度と情報支援を分離する。",
+              "fontSize": 20,
+              "typeface": "Yu Gothic",
+              "color": "#28323A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/t83m9svm",
+      "id": "9",
+      "name": "Google-Shape-644-p93-5",
+      "bbox": [
+        41.33,
+        236.33,
+        1197,
+        412.87
+      ],
+      "text": "領域 | 仕様\n難易度 | Story／Standard／Veteran／ORPHEUS。物語・装備・結末の制限なし\n入力 | 全入力変更、主要PCコントローラー、現在デバイス表示へ自動切替\n視覚 | 色覚設定、任意色、揺れ・点滅・ブラー調整、色＋形＋音\n字幕 | サイズ、話者名、背景濃度。画像へ文字を焼き込まない\n操作支援 | 照準吸着、近接自動振向き、予告延長、長押し代替、落下軽減\n速度 | オフライン80%。ポーズは完全停止",
+      "textPreview": "領域 | 仕様 | 難易度 | Story／Standard／Veteran／ORPHEUS。物語・装備・結末の制限なし | 入力 | 全入力変更、主要PCコントローラー、現在デバイス表示へ自動切替 | 視覚 | 色覚設定、任意色、揺れ・点滅・ブラー調整、色＋形＋音 | 字...",
+      "rows": 7,
+      "cols": 2,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            41.33,
+            236.33,
+            240,
+            58.98
+          ],
+          "text": "領域",
+          "textPreview": "領域",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "領域",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "領域",
+                  "fontSize": 18,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            281.33,
+            236.33,
+            957,
+            58.98
+          ],
+          "text": "仕様",
+          "textPreview": "仕様",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "仕様",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "仕様",
+                  "fontSize": 18,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            41.33,
+            295.31,
+            240,
+            58.98
+          ],
+          "text": "難易度",
+          "textPreview": "難易度",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "難易度",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "難易度",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            281.33,
+            295.31,
+            957,
+            58.98
+          ],
+          "text": "Story／Standard／Veteran／ORPHEUS。物語・装備・結末の制限なし",
+          "textPreview": "Story／Standard／Veteran／ORPHEUS。物語・装備・結末の制限なし",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Story／Standard／Veteran／ORPHEUS。物語・装備・結末の制限なし",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Story／Standard／Veteran／ORPHEUS。物語・装備・結末の制限なし",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            41.33,
+            354.29,
+            240,
+            58.98
+          ],
+          "text": "入力",
+          "textPreview": "入力",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "入力",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "入力",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            281.33,
+            354.29,
+            957,
+            58.98
+          ],
+          "text": "全入力変更、主要PCコントローラー、現在デバイス表示へ自動切替",
+          "textPreview": "全入力変更、主要PCコントローラー、現在デバイス表示へ自動切替",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "全入力変更、主要PCコントローラー、現在デバイス表示へ自動切替",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "全入力変更、主要PCコントローラー、現在デバイス表示へ自動切替",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            41.33,
+            413.27,
+            240,
+            58.98
+          ],
+          "text": "視覚",
+          "textPreview": "視覚",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "視覚",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "視覚",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            281.33,
+            413.27,
+            957,
+            58.98
+          ],
+          "text": "色覚設定、任意色、揺れ・点滅・ブラー調整、色＋形＋音",
+          "textPreview": "色覚設定、任意色、揺れ・点滅・ブラー調整、色＋形＋音",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "色覚設定、任意色、揺れ・点滅・ブラー調整、色＋形＋音",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "色覚設定、任意色、揺れ・点滅・ブラー調整、色＋形＋音",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            41.33,
+            472.26,
+            240,
+            58.98
+          ],
+          "text": "字幕",
+          "textPreview": "字幕",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "字幕",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "字幕",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            281.33,
+            472.26,
+            957,
+            58.98
+          ],
+          "text": "サイズ、話者名、背景濃度。画像へ文字を焼き込まない",
+          "textPreview": "サイズ、話者名、背景濃度。画像へ文字を焼き込まない",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "サイズ、話者名、背景濃度。画像へ文字を焼き込まない",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "サイズ、話者名、背景濃度。画像へ文字を焼き込まない",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            41.33,
+            531.24,
+            240,
+            58.98
+          ],
+          "text": "操作支援",
+          "textPreview": "操作支援",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "操作支援",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "操作支援",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            281.33,
+            531.24,
+            957,
+            58.98
+          ],
+          "text": "照準吸着、近接自動振向き、予告延長、長押し代替、落下軽減",
+          "textPreview": "照準吸着、近接自動振向き、予告延長、長押し代替、落下軽減",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "照準吸着、近接自動振向き、予告延長、長押し代替、落下軽減",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "照準吸着、近接自動振向き、予告延長、長押し代替、落下軽減",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            41.33,
+            590.22,
+            240,
+            58.98
+          ],
+          "text": "速度",
+          "textPreview": "速度",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "速度",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "速度",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            281.33,
+            590.22,
+            957,
+            58.98
+          ],
+          "text": "オフライン80%。ポーズは完全停止",
+          "textPreview": "オフライン80%。ポーズは完全停止",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "オフライン80%。ポーズは完全停止",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "オフライン80%。ポーズは完全停止",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4z2xsf2l",
+      "id": "5",
+      "bbox": [
+        42,
+        670,
+        350,
+        24
+      ],
+      "geometry": "rect",
+      "text": "YTC: Deliver Tomorrow",
+      "textPreview": "YTC: Deliver Tomorrow",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "YTC: Deliver Tomorrow"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "YTC: Deliver Tomorrow",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "YTC: Deliver Tomorrow",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jytgja10",
+      "id": "6",
+      "bbox": [
+        1178,
+        670,
+        60,
+        24
+      ],
+      "geometry": "rect",
+      "text": "36",
+      "textPreview": "36",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "36"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "36",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "36",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ixkfq5kf",
+      "id": "7",
+      "bbox": [
+        42,
+        660,
+        54,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C28"
+    }
+  ],
+  "composeRuns": []
+}

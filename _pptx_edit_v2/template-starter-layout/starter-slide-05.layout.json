@@ -1,0 +1,667 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/x0bw58",
+    "id": "x0bw58",
+    "slide": 5,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Yu Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p8zqp8r6",
+      "id": "13",
+      "bbox": [
+        42,
+        36,
+        1196,
+        80
+      ],
+      "geometry": "rect",
+      "text": "2091年、民間武力が日常業務になった世界",
+      "textPreview": "2091年、民間武力が日常業務になった世界",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2091年、民間武力が日常業務になった世界"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2091年、民間武力が日常業務になった世界",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Yu Gothic",
+            "color": "#12171C"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2091年、民間武力が日常業務になった世界",
+              "fontSize": 48,
+              "typeface": "Yu Gothic",
+              "color": "#12171C",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ritozqd8",
+      "id": "2",
+      "bbox": [
+        42,
+        120,
+        100,
+        7
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C28"
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qh0n6lcn",
+      "id": "3",
+      "bbox": [
+        42,
+        160,
+        540,
+        45
+      ],
+      "geometry": "rect",
+      "text": "WORLD",
+      "textPreview": "WORLD",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "WORLD"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "WORLD",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Yu Gothic",
+            "color": "#28323A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "WORLD",
+              "fontSize": 24,
+              "typeface": "Yu Gothic",
+              "color": "#28323A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1ob65kva",
+      "id": "4",
+      "bbox": [
+        42,
+        218,
+        535,
+        350
+      ],
+      "geometry": "rect",
+      "text": "• 国家・企業・PMCが都市防衛、輸送、救助を分担\n• 攻殻装甲と無人兵器は高価だが一般化\n• 物流と武器データが紛争の規模を決める\n• 巨大企業の効率と、小組織の責任が対立",
+      "textPreview": "• 国家・企業・PMCが都市防衛、輸送、救助を分担 | • 攻殻装甲と無人兵器は高価だが一般化 | • 物流と武器データが紛争の規模を決める | • 巨大企業の効率と、小組織の責任が対立",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• 国家・企業・PMCが都市防衛、輸送、救助を分担"
+          },
+          {
+            "index": 2,
+            "text": "• 攻殻装甲と無人兵器は高価だが一般化"
+          },
+          {
+            "index": 3,
+            "text": "• 物流と武器データが紛争の規模を決める"
+          },
+          {
+            "index": 4,
+            "text": "• 巨大企業の効率と、小組織の責任が対立"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• 国家・企業・PMCが都市防衛、輸送、救助を分担\n• 攻殻装甲と無人兵器は高価だが一般化\n• 物流と武器データが紛争の規模を決める\n• 巨大企業の効率と、小組織の責任が対立",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Yu Gothic",
+            "color": "#28323A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 国家・企業・PMCが都市防衛、輸送、救助を分担\n• 攻殻装甲と無人兵器は高価だが一般化\n• 物流と武器データが紛争の規模を決める\n• 巨大企業の効率と、小組織の責任が対立",
+              "fontSize": 22,
+              "typeface": "Yu Gothic",
+              "color": "#28323A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dwzqt8r2",
+      "id": "17",
+      "bbox": [
+        620,
+        155,
+        1,
+        410
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "#E4E7EA",
+      "lineWidth": 2
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zmto3ad4",
+      "id": "6",
+      "bbox": [
+        664,
+        160,
+        574,
+        45
+      ],
+      "geometry": "rect",
+      "text": "PLAYER PROMISE",
+      "textPreview": "PLAYER PROMISE",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PLAYER PROMISE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PLAYER PROMISE",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Yu Gothic",
+            "color": "#F28C28"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PLAYER PROMISE",
+              "fontSize": 24,
+              "typeface": "Yu Gothic",
+              "color": "#F28C28",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/elk7a5cz",
+      "id": "7",
+      "bbox": [
+        664,
+        218,
+        574,
+        350
+      ],
+      "geometry": "rect",
+      "text": "• 英雄ではなく、依頼を完遂して全員で帰る職業人\n• 敵を倒すだけでなく、救助・護衛・非致死を評価\n• 暗い軍事世界でも日常の温かさを失わない\n• 最終決戦後も、小さな配送依頼へ戻る",
+      "textPreview": "• 英雄ではなく、依頼を完遂して全員で帰る職業人 | • 敵を倒すだけでなく、救助・護衛・非致死を評価 | • 暗い軍事世界でも日常の温かさを失わない | • 最終決戦後も、小さな配送依頼へ戻る",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• 英雄ではなく、依頼を完遂して全員で帰る職業人"
+          },
+          {
+            "index": 2,
+            "text": "• 敵を倒すだけでなく、救助・護衛・非致死を評価"
+          },
+          {
+            "index": 3,
+            "text": "• 暗い軍事世界でも日常の温かさを失わない"
+          },
+          {
+            "index": 4,
+            "text": "• 最終決戦後も、小さな配送依頼へ戻る"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• 英雄ではなく、依頼を完遂して全員で帰る職業人\n• 敵を倒すだけでなく、救助・護衛・非致死を評価\n• 暗い軍事世界でも日常の温かさを失わない\n• 最終決戦後も、小さな配送依頼へ戻る",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Yu Gothic",
+            "color": "#28323A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 英雄ではなく、依頼を完遂して全員で帰る職業人\n• 敵を倒すだけでなく、救助・護衛・非致死を評価\n• 暗い軍事世界でも日常の温かさを失わない\n• 最終決戦後も、小さな配送依頼へ戻る",
+              "fontSize": 22,
+              "typeface": "Yu Gothic",
+              "color": "#28323A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hsr6tgv6",
+      "id": "8",
+      "bbox": [
+        42,
+        585,
+        1196,
+        55
+      ],
+      "geometry": "rect",
+      "fillColor": "#F2F2F2"
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gri50bel",
+      "id": "9",
+      "bbox": [
+        62,
+        599,
+        1156,
+        28
+      ],
+      "geometry": "rect",
+      "text": "世界の大きさより、『誰が責任を取るか』が物語の温度を決める。",
+      "textPreview": "世界の大きさより、『誰が責任を取るか』が物語の温度を決める。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "世界の大きさより、『誰が責任を取るか』が物語の温度を決める。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "世界の大きさより、『誰が責任を取るか』が物語の温度を決める。",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Yu Gothic",
+            "color": "#12171C",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "世界の大きさより、『誰が責任を取るか』が物語の温度を決める。",
+              "fontSize": 19,
+              "typeface": "Yu Gothic",
+              "color": "#12171C",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/25o7etsf",
+      "id": "10",
+      "bbox": [
+        42,
+        670,
+        350,
+        24
+      ],
+      "geometry": "rect",
+      "text": "YTC: Deliver Tomorrow",
+      "textPreview": "YTC: Deliver Tomorrow",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "YTC: Deliver Tomorrow"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "YTC: Deliver Tomorrow",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "YTC: Deliver Tomorrow",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/36x8ny90",
+      "id": "11",
+      "bbox": [
+        1178,
+        670,
+        60,
+        24
+      ],
+      "geometry": "rect",
+      "text": "05",
+      "textPreview": "05",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "05"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "05",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "05",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47qpg3al",
+      "id": "12",
+      "bbox": [
+        42,
+        660,
+        54,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C28"
+    }
+  ],
+  "composeRuns": []
+}

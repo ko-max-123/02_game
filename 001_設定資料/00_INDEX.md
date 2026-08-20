@@ -72,7 +72,12 @@
 | ボス | `BOSS_` | `BOSS_KOMEGA` |
 | 武器 | `WPN_` | `WPN_AR_K11` |
 | 装備 | `EQP_` | `EQP_FRAME_K1` |
-| アイテム | `ITM_` | `ITM_ANTI_ARMOR_ROUND` |
+| 通貨 | `CUR_` | `CUR_CREDIT` |
+| 素材 | `MAT_` | `MAT_K8_CORE` |
+| 消耗品 | `CON_` | `CON_REPAIR_KIT` |
+| 情報 | `DAT_` | `DAT_ORPHEUS_FRAGMENT` |
+| 収集品 | `COL_` | `COL_WHITE_OWL_PATCH` |
 | 状態異常 | `STS_` | `STS_JAMMED` |
 | クエスト証拠 | `EVD_` | `EVD_BLACK_RAIL_TAG` |
 
+`ITM_`はアイテム全般を指す抽象カテゴリ名としてのみ用い、具体マスターIDには使わない。

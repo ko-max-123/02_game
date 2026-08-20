@@ -1,0 +1,1137 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/rqtr9y",
+    "id": "rqtr9y",
+    "slide": 11,
+    "layoutId": "8481c467-1ac6-41e8-8a8a-badbefdbf4b1",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "f22cb2ed-40ea-4d03-ad8d-4c91449588e1",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Yu Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "8481c467-1ac6-41e8-8a8a-badbefdbf4b1",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "f22cb2ed-40ea-4d03-ad8d-4c91449588e1",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "f22cb2ed-40ea-4d03-ad8d-4c91449588e1",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9szqpg32",
+      "id": "1",
+      "bbox": [
+        48,
+        34,
+        1060,
+        66
+      ],
+      "geometry": "rect",
+      "text": "解放時期と例外ルールも、実装可能な形へ固定する",
+      "textPreview": "解放時期と例外ルールも、実装可能な形へ固定する",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 38,
+        "typeface": "Yu Gothic",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "解放時期と例外ルールも、実装可能な形へ固定する"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "解放時期と例外ルールも、実装可能な形へ固定する",
+          "resolvedTextStyle": {
+            "fontSize": 38,
+            "typeface": "Yu Gothic",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "解放時期と例外ルールも、実装可能な形へ固定する",
+              "fontSize": 38,
+              "typeface": "Yu Gothic",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m587u1kb",
+      "id": "2",
+      "bbox": [
+        1088,
+        42,
+        142,
+        28
+      ],
+      "geometry": "rect",
+      "text": "PROGRESSION CONTRACTS",
+      "textPreview": "PROGRESSION CONTRACTS",
+      "resolvedFontSize": 9.15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Yu Gothic",
+        "color": "#5F6368",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.61,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PROGRESSION CONTRACTS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PROGRESSION CONTRACTS",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5F6368",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PROGRESSION CONTRACTS",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5F6368",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nqh8n6lw",
+      "id": "3",
+      "bbox": [
+        48,
+        116,
+        1184,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#B8BCC4",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wvqp0b2d",
+      "id": "4",
+      "bbox": [
+        1180,
+        674,
+        50,
+        22
+      ],
+      "geometry": "rect",
+      "text": "11",
+      "textPreview": "11",
+      "resolvedFontSize": 10.33,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Yu Gothic",
+        "color": "#5F6368",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.74,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "11"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "11",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Yu Gothic",
+            "color": "#5F6368",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "11",
+              "fontSize": 14,
+              "typeface": "Yu Gothic",
+              "color": "#5F6368",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/g3qhk7it",
+      "id": "5",
+      "bbox": [
+        84,
+        150,
+        1112,
+        490
+      ],
+      "text": "対象 | 確定仕様 | 更新先\nK1コスト | Stage I 100 → II 110 → III 125 → IV 140 | 05 / 07\n環境枠 | 第5章で1枠、第18章で2枠目 | 01 / 05\nソロ蘇生 | HP0はチェックポイント。緊急蘇生器はP5協力専用 | 05 / 07 / 09\nロケット | 第9章は爆発MOD、第13章でP6本体 | 01 / 04\n電撃 | E14は第8章、第13章で水面伝播／共闘応用 | 01 / 04\nフレア | 基本版を第7章前、8章報酬は強化版 | 01 / 10\nLARKスキャン | 第16章開始時に任務限定、クリア後に恒常化 | 01 / 05",
+      "textPreview": "対象 | 確定仕様 | 更新先 | K1コスト | Stage I 100 → II 110 → III 125 → IV 140 | 05 / 07 | 環境枠 | 第5章で1枠、第18章で2枠目 | 01 / 05 | ソロ蘇生 | HP0はチェックポイント。緊急蘇生器...",
+      "rows": 8,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            84,
+            150,
+            210,
+            61.25
+          ],
+          "text": "対象",
+          "textPreview": "対象",
+          "fillColor": "#111111",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "対象",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "対象",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            294,
+            150,
+            700,
+            61.25
+          ],
+          "text": "確定仕様",
+          "textPreview": "確定仕様",
+          "fillColor": "#111111",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "確定仕様",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "確定仕様",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            994,
+            150,
+            202,
+            61.25
+          ],
+          "text": "更新先",
+          "textPreview": "更新先",
+          "fillColor": "#111111",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "更新先",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "更新先",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            84,
+            211.25,
+            210,
+            61.25
+          ],
+          "text": "K1コスト",
+          "textPreview": "K1コスト",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "K1コスト",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "K1コスト",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            294,
+            211.25,
+            700,
+            61.25
+          ],
+          "text": "Stage I 100 → II 110 → III 125 → IV 140",
+          "textPreview": "Stage I 100 → II 110 → III 125 → IV 140",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Stage I 100 → II 110 → III 125 → IV 140",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Stage I 100 → II 110 → III 125 → IV 140",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            994,
+            211.25,
+            202,
+            61.25
+          ],
+          "text": "05 / 07",
+          "textPreview": "05 / 07",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "05 / 07",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "05 / 07",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            84,
+            272.5,
+            210,
+            61.25
+          ],
+          "text": "環境枠",
+          "textPreview": "環境枠",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "環境枠",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "環境枠",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            294,
+            272.5,
+            700,
+            61.25
+          ],
+          "text": "第5章で1枠、第18章で2枠目",
+          "textPreview": "第5章で1枠、第18章で2枠目",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第5章で1枠、第18章で2枠目",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第5章で1枠、第18章で2枠目",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            994,
+            272.5,
+            202,
+            61.25
+          ],
+          "text": "01 / 05",
+          "textPreview": "01 / 05",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "01 / 05",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "01 / 05",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            84,
+            333.75,
+            210,
+            61.25
+          ],
+          "text": "ソロ蘇生",
+          "textPreview": "ソロ蘇生",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ソロ蘇生",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ソロ蘇生",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            294,
+            333.75,
+            700,
+            61.25
+          ],
+          "text": "HP0はチェックポイント。緊急蘇生器はP5協力専用",
+          "textPreview": "HP0はチェックポイント。緊急蘇生器はP5協力専用",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "HP0はチェックポイント。緊急蘇生器はP5協力専用",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "HP0はチェックポイント。緊急蘇生器はP5協力専用",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            994,
+            333.75,
+            202,
+            61.25
+          ],
+          "text": "05 / 07 / 09",
+          "textPreview": "05 / 07 / 09",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "05 / 07 / 09",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "05 / 07 / 09",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            84,
+            395,
+            210,
+            61.25
+          ],
+          "text": "ロケット",
+          "textPreview": "ロケット",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ロケット",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ロケット",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            294,
+            395,
+            700,
+            61.25
+          ],
+          "text": "第9章は爆発MOD、第13章でP6本体",
+          "textPreview": "第9章は爆発MOD、第13章でP6本体",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第9章は爆発MOD、第13章でP6本体",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第9章は爆発MOD、第13章でP6本体",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            994,
+            395,
+            202,
+            61.25
+          ],
+          "text": "01 / 04",
+          "textPreview": "01 / 04",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "01 / 04",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "01 / 04",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            84,
+            456.25,
+            210,
+            61.25
+          ],
+          "text": "電撃",
+          "textPreview": "電撃",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "電撃",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "電撃",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            294,
+            456.25,
+            700,
+            61.25
+          ],
+          "text": "E14は第8章、第13章で水面伝播／共闘応用",
+          "textPreview": "E14は第8章、第13章で水面伝播／共闘応用",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "E14は第8章、第13章で水面伝播／共闘応用",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "E14は第8章、第13章で水面伝播／共闘応用",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            994,
+            456.25,
+            202,
+            61.25
+          ],
+          "text": "01 / 04",
+          "textPreview": "01 / 04",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "01 / 04",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "01 / 04",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            84,
+            517.5,
+            210,
+            61.25
+          ],
+          "text": "フレア",
+          "textPreview": "フレア",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "フレア",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "フレア",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            294,
+            517.5,
+            700,
+            61.25
+          ],
+          "text": "基本版を第7章前、8章報酬は強化版",
+          "textPreview": "基本版を第7章前、8章報酬は強化版",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "基本版を第7章前、8章報酬は強化版",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "基本版を第7章前、8章報酬は強化版",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            994,
+            517.5,
+            202,
+            61.25
+          ],
+          "text": "01 / 10",
+          "textPreview": "01 / 10",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "01 / 10",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "01 / 10",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 8,
+          "column": 1,
+          "bbox": [
+            84,
+            578.75,
+            210,
+            61.25
+          ],
+          "text": "LARKスキャン",
+          "textPreview": "LARKスキャン",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "LARKスキャン",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "LARKスキャン",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 8,
+          "column": 2,
+          "bbox": [
+            294,
+            578.75,
+            700,
+            61.25
+          ],
+          "text": "第16章開始時に任務限定、クリア後に恒常化",
+          "textPreview": "第16章開始時に任務限定、クリア後に恒常化",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第16章開始時に任務限定、クリア後に恒常化",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第16章開始時に任務限定、クリア後に恒常化",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 8,
+          "column": 3,
+          "bbox": [
+            994,
+            578.75,
+            202,
+            61.25
+          ],
+          "text": "01 / 05",
+          "textPreview": "01 / 05",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "01 / 05",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "01 / 05",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

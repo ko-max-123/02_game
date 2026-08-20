@@ -1,0 +1,1019 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/p8tmg5",
+    "id": "p8tmg5",
+    "slide": 47,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Helvetica Neue",
+      "Yu Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/edsbqdcf",
+      "id": "8",
+      "name": "Google-Shape-532-p58-2",
+      "bbox": [
+        1184.18,
+        659.24,
+        54.48,
+        25.33
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c7ed07ut",
+      "id": "2",
+      "name": "Google-Shape-533-p58-3",
+      "bbox": [
+        41.33,
+        36.12,
+        1197.33,
+        109.97
+      ],
+      "geometry": "rect",
+      "text": "P0着手前に閉じる、優先度・高の仕様ゲート",
+      "textPreview": "P0着手前に閉じる、優先度・高の仕様ゲート",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "P0着手前に閉じる、優先度・高の仕様ゲート"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "P0着手前に閉じる、優先度・高の仕様ゲート",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 38.67,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "P0着手前に閉じる、優先度・高の仕様ゲート",
+              "fontSize": 48,
+              "typeface": "Yu Gothic",
+              "color": "#12171C",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x8nu9svy",
+      "id": "3",
+      "name": "Content-Placeholder-15-4",
+      "bbox": [
+        42.09,
+        111.02,
+        1197.33,
+        106.27
+      ],
+      "geometry": "rect",
+      "text": "REFERENCE\n決定待ちを確定仕様として実装しない。責任者ごとに閉じる。",
+      "textPreview": "REFERENCE | 決定待ちを確定仕様として実装しない。責任者ごとに閉じる。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "REFERENCE"
+          },
+          {
+            "index": 2,
+            "text": "決定待ちを確定仕様として実装しない。責任者ごとに閉じる。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "REFERENCE",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "REFERENCE",
+              "fontSize": 17,
+              "typeface": "Yu Gothic",
+              "color": "#F28C28",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "決定待ちを確定仕様として実装しない。責任者ごとに閉じる。",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "決定待ちを確定仕様として実装しない。責任者ごとに閉じる。",
+              "fontSize": 20,
+              "typeface": "Yu Gothic",
+              "color": "#28323A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/u5w7ylkr",
+      "id": "9",
+      "name": "Google-Shape-644-p93-5",
+      "bbox": [
+        41.33,
+        236.33,
+        1197,
+        412.87
+      ],
+      "text": "責任者 | ブロッカー | 完了条件\n技術 | STAT150式／DPS帯／Penetration／刺突／部位倍率 | 計算表・ゲーム・テストが同じ結果\n技術 | ITM接頭辞／装備・消耗品参照／組織ID・勢力ID | 単一スキーマと移行規則を承認\n技術 | K1コスト／環境枠／ソロ蘇生／JET_EFF | 名称・値方向・上限・初期数を定義\n共同 | ロケット／電撃／フレア／LARK解放時期 | 章別アンロック表を単一正典化\n制作 | 第18章第五都市／第19章K7・報酬／第3章決着 | 本資料の決定を章資料へ反映\n校正 | 参照パス／誤字／表記／相互参照 | 全変更後に章・敵・報酬・IDを再監査",
+      "textPreview": "責任者 | ブロッカー | 完了条件 | 技術 | STAT150式／DPS帯／Penetration／刺突／部位倍率 | 計算表・ゲーム・テストが同じ結果 | 技術 | ITM接頭辞／装備・消耗品参照／組織ID・勢力ID | 単一スキーマと移行規則を承認 | 技術 | K...",
+      "rows": 7,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            41.33,
+            236.33,
+            180,
+            58.98
+          ],
+          "text": "責任者",
+          "textPreview": "責任者",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "責任者",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "責任者",
+                  "fontSize": 16,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            221.33,
+            236.33,
+            590,
+            58.98
+          ],
+          "text": "ブロッカー",
+          "textPreview": "ブロッカー",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ブロッカー",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ブロッカー",
+                  "fontSize": 16,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            811.33,
+            236.33,
+            427,
+            58.98
+          ],
+          "text": "完了条件",
+          "textPreview": "完了条件",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "完了条件",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "完了条件",
+                  "fontSize": 16,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            41.33,
+            295.31,
+            180,
+            58.98
+          ],
+          "text": "技術",
+          "textPreview": "技術",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "技術",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "技術",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            221.33,
+            295.31,
+            590,
+            58.98
+          ],
+          "text": "STAT150式／DPS帯／Penetration／刺突／部位倍率",
+          "textPreview": "STAT150式／DPS帯／Penetration／刺突／部位倍率",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "STAT150式／DPS帯／Penetration／刺突／部位倍率",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "STAT150式／DPS帯／Penetration／刺突／部位倍率",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            811.33,
+            295.31,
+            427,
+            58.98
+          ],
+          "text": "計算表・ゲーム・テストが同じ結果",
+          "textPreview": "計算表・ゲーム・テストが同じ結果",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "計算表・ゲーム・テストが同じ結果",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "計算表・ゲーム・テストが同じ結果",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            41.33,
+            354.29,
+            180,
+            58.98
+          ],
+          "text": "技術",
+          "textPreview": "技術",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "技術",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "技術",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            221.33,
+            354.29,
+            590,
+            58.98
+          ],
+          "text": "ITM接頭辞／装備・消耗品参照／組織ID・勢力ID",
+          "textPreview": "ITM接頭辞／装備・消耗品参照／組織ID・勢力ID",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ITM接頭辞／装備・消耗品参照／組織ID・勢力ID",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ITM接頭辞／装備・消耗品参照／組織ID・勢力ID",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            811.33,
+            354.29,
+            427,
+            58.98
+          ],
+          "text": "単一スキーマと移行規則を承認",
+          "textPreview": "単一スキーマと移行規則を承認",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "単一スキーマと移行規則を承認",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "単一スキーマと移行規則を承認",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            41.33,
+            413.27,
+            180,
+            58.98
+          ],
+          "text": "技術",
+          "textPreview": "技術",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "技術",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "技術",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            221.33,
+            413.27,
+            590,
+            58.98
+          ],
+          "text": "K1コスト／環境枠／ソロ蘇生／JET_EFF",
+          "textPreview": "K1コスト／環境枠／ソロ蘇生／JET_EFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "K1コスト／環境枠／ソロ蘇生／JET_EFF",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "K1コスト／環境枠／ソロ蘇生／JET_EFF",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            811.33,
+            413.27,
+            427,
+            58.98
+          ],
+          "text": "名称・値方向・上限・初期数を定義",
+          "textPreview": "名称・値方向・上限・初期数を定義",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "名称・値方向・上限・初期数を定義",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "名称・値方向・上限・初期数を定義",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            41.33,
+            472.26,
+            180,
+            58.98
+          ],
+          "text": "共同",
+          "textPreview": "共同",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "共同",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "共同",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            221.33,
+            472.26,
+            590,
+            58.98
+          ],
+          "text": "ロケット／電撃／フレア／LARK解放時期",
+          "textPreview": "ロケット／電撃／フレア／LARK解放時期",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ロケット／電撃／フレア／LARK解放時期",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ロケット／電撃／フレア／LARK解放時期",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            811.33,
+            472.26,
+            427,
+            58.98
+          ],
+          "text": "章別アンロック表を単一正典化",
+          "textPreview": "章別アンロック表を単一正典化",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "章別アンロック表を単一正典化",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "章別アンロック表を単一正典化",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            41.33,
+            531.24,
+            180,
+            58.98
+          ],
+          "text": "制作",
+          "textPreview": "制作",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "制作",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "制作",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            221.33,
+            531.24,
+            590,
+            58.98
+          ],
+          "text": "第18章第五都市／第19章K7・報酬／第3章決着",
+          "textPreview": "第18章第五都市／第19章K7・報酬／第3章決着",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第18章第五都市／第19章K7・報酬／第3章決着",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第18章第五都市／第19章K7・報酬／第3章決着",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            811.33,
+            531.24,
+            427,
+            58.98
+          ],
+          "text": "本資料の決定を章資料へ反映",
+          "textPreview": "本資料の決定を章資料へ反映",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "本資料の決定を章資料へ反映",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "本資料の決定を章資料へ反映",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            41.33,
+            590.22,
+            180,
+            58.98
+          ],
+          "text": "校正",
+          "textPreview": "校正",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "校正",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "校正",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            221.33,
+            590.22,
+            590,
+            58.98
+          ],
+          "text": "参照パス／誤字／表記／相互参照",
+          "textPreview": "参照パス／誤字／表記／相互参照",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "参照パス／誤字／表記／相互参照",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "参照パス／誤字／表記／相互参照",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            811.33,
+            590.22,
+            427,
+            58.98
+          ],
+          "text": "全変更後に章・敵・報酬・IDを再監査",
+          "textPreview": "全変更後に章・敵・報酬・IDを再監査",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "全変更後に章・敵・報酬・IDを再監査",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "全変更後に章・敵・報酬・IDを再監査",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ilc3idw",
+      "id": "5",
+      "bbox": [
+        42,
+        670,
+        350,
+        24
+      ],
+      "geometry": "rect",
+      "text": "YTC: Deliver Tomorrow",
+      "textPreview": "YTC: Deliver Tomorrow",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "YTC: Deliver Tomorrow"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "YTC: Deliver Tomorrow",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "YTC: Deliver Tomorrow",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ojutwnuh",
+      "id": "6",
+      "bbox": [
+        1178,
+        670,
+        60,
+        24
+      ],
+      "geometry": "rect",
+      "text": "47",
+      "textPreview": "47",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "47"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "47",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "47",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p43u5sv2",
+      "id": "7",
+      "bbox": [
+        42,
+        660,
+        54,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C28"
+    }
+  ],
+  "composeRuns": []
+}

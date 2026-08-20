@@ -1,0 +1,1021 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/wr7e6x",
+    "id": "wr7e6x",
+    "slide": 16,
+    "layoutId": "8481c467-1ac6-41e8-8a8a-badbefdbf4b1",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "f22cb2ed-40ea-4d03-ad8d-4c91449588e1",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Yu Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "8481c467-1ac6-41e8-8a8a-badbefdbf4b1",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "f22cb2ed-40ea-4d03-ad8d-4c91449588e1",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "f22cb2ed-40ea-4d03-ad8d-4c91449588e1",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ril4rat8",
+      "id": "1",
+      "bbox": [
+        48,
+        34,
+        1060,
+        66
+      ],
+      "geometry": "rect",
+      "text": "最大リスクは機能不足ではなく、相互作用の暴走にある",
+      "textPreview": "最大リスクは機能不足ではなく、相互作用の暴走にある",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 38,
+        "typeface": "Yu Gothic",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "最大リスクは機能不足ではなく、相互作用の暴走にある"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "最大リスクは機能不足ではなく、相互作用の暴走にある",
+          "resolvedTextStyle": {
+            "fontSize": 38,
+            "typeface": "Yu Gothic",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "最大リスクは機能不足ではなく、相互作用の暴走にある",
+              "fontSize": 38,
+              "typeface": "Yu Gothic",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cju5kfat",
+      "id": "2",
+      "bbox": [
+        1088,
+        42,
+        142,
+        28
+      ],
+      "geometry": "rect",
+      "text": "TOP RISKS",
+      "textPreview": "TOP RISKS",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Yu Gothic",
+        "color": "#5F6368",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "TOP RISKS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "TOP RISKS",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5F6368",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "TOP RISKS",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5F6368",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dk3mtkbe",
+      "id": "3",
+      "bbox": [
+        48,
+        116,
+        1184,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#B8BCC4",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/elwnmpsz",
+      "id": "4",
+      "bbox": [
+        1180,
+        674,
+        50,
+        22
+      ],
+      "geometry": "rect",
+      "text": "16",
+      "textPreview": "16",
+      "resolvedFontSize": 10.33,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Yu Gothic",
+        "color": "#5F6368",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.74,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "16"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "16",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Yu Gothic",
+            "color": "#5F6368",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "16",
+              "fontSize": 14,
+              "typeface": "Yu Gothic",
+              "color": "#5F6368",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/6xcjy1or",
+      "id": "5",
+      "bbox": [
+        48,
+        150,
+        1184,
+        490
+      ],
+      "text": "リスク | 兆候 | 技術対策\n飛行で地上戦を無視 | 敵と地形を越える | 対空・Energy・空中報酬。見えない壁を減らす\n射撃だけが最適 | 近接を使わない | 重装甲・弾薬・Break・切替攻撃で回答\n100面が薄くなる | 反復とQA遅延 | 部品化・代表ギミック・品質未達なら面数削減\n装備整理が主時間 | 倉庫疲れ | 特性上限・フィルター・確定品・保護・天井\n固有名詞が追えない | 物語離脱 | 各章2つまで・証拠ボード・章末自動要約\nオンラインが本編を遅延 | 同期都合で設計変更 | P5分離・境界インターフェース・本編依存禁止",
+      "textPreview": "リスク | 兆候 | 技術対策 | 飛行で地上戦を無視 | 敵と地形を越える | 対空・Energy・空中報酬。見えない壁を減らす | 射撃だけが最適 | 近接を使わない | 重装甲・弾薬・Break・切替攻撃で回答 | 100面が薄くなる | 反復とQA遅延 | 部品化・...",
+      "rows": 7,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            48,
+            150,
+            300,
+            70
+          ],
+          "text": "リスク",
+          "textPreview": "リスク",
+          "fillColor": "#111111",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "リスク",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "リスク",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            348,
+            150,
+            280,
+            70
+          ],
+          "text": "兆候",
+          "textPreview": "兆候",
+          "fillColor": "#111111",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "兆候",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "兆候",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            628,
+            150,
+            604,
+            70
+          ],
+          "text": "技術対策",
+          "textPreview": "技術対策",
+          "fillColor": "#111111",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "技術対策",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "技術対策",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            48,
+            220,
+            300,
+            70
+          ],
+          "text": "飛行で地上戦を無視",
+          "textPreview": "飛行で地上戦を無視",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "飛行で地上戦を無視",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "飛行で地上戦を無視",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            348,
+            220,
+            280,
+            70
+          ],
+          "text": "敵と地形を越える",
+          "textPreview": "敵と地形を越える",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "敵と地形を越える",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "敵と地形を越える",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            628,
+            220,
+            604,
+            70
+          ],
+          "text": "対空・Energy・空中報酬。見えない壁を減らす",
+          "textPreview": "対空・Energy・空中報酬。見えない壁を減らす",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "対空・Energy・空中報酬。見えない壁を減らす",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "対空・Energy・空中報酬。見えない壁を減らす",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            48,
+            290,
+            300,
+            70
+          ],
+          "text": "射撃だけが最適",
+          "textPreview": "射撃だけが最適",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "射撃だけが最適",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "射撃だけが最適",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            348,
+            290,
+            280,
+            70
+          ],
+          "text": "近接を使わない",
+          "textPreview": "近接を使わない",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "近接を使わない",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "近接を使わない",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            628,
+            290,
+            604,
+            70
+          ],
+          "text": "重装甲・弾薬・Break・切替攻撃で回答",
+          "textPreview": "重装甲・弾薬・Break・切替攻撃で回答",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "重装甲・弾薬・Break・切替攻撃で回答",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "重装甲・弾薬・Break・切替攻撃で回答",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            48,
+            360,
+            300,
+            70
+          ],
+          "text": "100面が薄くなる",
+          "textPreview": "100面が薄くなる",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "100面が薄くなる",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "100面が薄くなる",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            348,
+            360,
+            280,
+            70
+          ],
+          "text": "反復とQA遅延",
+          "textPreview": "反復とQA遅延",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "反復とQA遅延",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "反復とQA遅延",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            628,
+            360,
+            604,
+            70
+          ],
+          "text": "部品化・代表ギミック・品質未達なら面数削減",
+          "textPreview": "部品化・代表ギミック・品質未達なら面数削減",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "部品化・代表ギミック・品質未達なら面数削減",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "部品化・代表ギミック・品質未達なら面数削減",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            48,
+            430,
+            300,
+            70
+          ],
+          "text": "装備整理が主時間",
+          "textPreview": "装備整理が主時間",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "装備整理が主時間",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "装備整理が主時間",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            348,
+            430,
+            280,
+            70
+          ],
+          "text": "倉庫疲れ",
+          "textPreview": "倉庫疲れ",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "倉庫疲れ",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "倉庫疲れ",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            628,
+            430,
+            604,
+            70
+          ],
+          "text": "特性上限・フィルター・確定品・保護・天井",
+          "textPreview": "特性上限・フィルター・確定品・保護・天井",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "特性上限・フィルター・確定品・保護・天井",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "特性上限・フィルター・確定品・保護・天井",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            48,
+            500,
+            300,
+            70
+          ],
+          "text": "固有名詞が追えない",
+          "textPreview": "固有名詞が追えない",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "固有名詞が追えない",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "固有名詞が追えない",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            348,
+            500,
+            280,
+            70
+          ],
+          "text": "物語離脱",
+          "textPreview": "物語離脱",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "物語離脱",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "物語離脱",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            628,
+            500,
+            604,
+            70
+          ],
+          "text": "各章2つまで・証拠ボード・章末自動要約",
+          "textPreview": "各章2つまで・証拠ボード・章末自動要約",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "各章2つまで・証拠ボード・章末自動要約",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "各章2つまで・証拠ボード・章末自動要約",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            48,
+            570,
+            300,
+            70
+          ],
+          "text": "オンラインが本編を遅延",
+          "textPreview": "オンラインが本編を遅延",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "オンラインが本編を遅延",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "オンラインが本編を遅延",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            348,
+            570,
+            280,
+            70
+          ],
+          "text": "同期都合で設計変更",
+          "textPreview": "同期都合で設計変更",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "同期都合で設計変更",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "同期都合で設計変更",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            628,
+            570,
+            604,
+            70
+          ],
+          "text": "P5分離・境界インターフェース・本編依存禁止",
+          "textPreview": "P5分離・境界インターフェース・本編依存禁止",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "P5分離・境界インターフェース・本編依存禁止",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "P5分離・境界インターフェース・本編依存禁止",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,879 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/knve42",
+    "id": "knve42",
+    "slide": 42,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Helvetica Neue",
+      "Yu Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5k7qhwfi",
+      "id": "8",
+      "name": "Google-Shape-532-p58-2",
+      "bbox": [
+        1184.18,
+        659.24,
+        54.48,
+        25.33
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7a5872x4",
+      "id": "2",
+      "name": "Google-Shape-533-p58-3",
+      "bbox": [
+        41.33,
+        36.12,
+        1197.33,
+        109.97
+      ],
+      "geometry": "rect",
+      "text": "非機能要件：性能と信頼性",
+      "textPreview": "非機能要件：性能と信頼性",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "非機能要件：性能と信頼性"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "非機能要件：性能と信頼性",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 38.67,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "非機能要件：性能と信頼性",
+              "fontSize": 48,
+              "typeface": "Yu Gothic",
+              "color": "#12171C",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6pw7yxgj",
+      "id": "3",
+      "name": "Content-Placeholder-15-4",
+      "bbox": [
+        42.09,
+        111.02,
+        1197.33,
+        106.27
+      ],
+      "geometry": "rect",
+      "text": "REFERENCE\n暫定目標。フレーム依存を排除し、オフライン本編を壊さない。",
+      "textPreview": "REFERENCE | 暫定目標。フレーム依存を排除し、オフライン本編を壊さない。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "REFERENCE"
+          },
+          {
+            "index": 2,
+            "text": "暫定目標。フレーム依存を排除し、オフライン本編を壊さない。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "REFERENCE",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "REFERENCE",
+              "fontSize": 17,
+              "typeface": "Yu Gothic",
+              "color": "#F28C28",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "暫定目標。フレーム依存を排除し、オフライン本編を壊さない。",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "暫定目標。フレーム依存を排除し、オフライン本編を壊さない。",
+              "fontSize": 20,
+              "typeface": "Yu Gothic",
+              "color": "#28323A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/9kzi5onq",
+      "id": "9",
+      "name": "Google-Shape-644-p93-5",
+      "bbox": [
+        41.33,
+        236.33,
+        1197,
+        412.87
+      ],
+      "text": "領域 | 要求\n基準 | Windows PC、1920×1080。推奨60fps／16.7ms、最低30fps／33.3ms\n非依存 | 攻撃、回避無敵、AI思考、継続ダメージをフレーム数へ依存させない\n負荷 | 敵・弾・ドロップ・VFXをプール。CPU/GPU/メモリ予算はP1で固定\nロード | 推奨SSD：初回15秒以内、チェックポイント再開5秒以内（暫定）\nセーブ | 原子的保存、1世代バックアップ、スキーマ版と移行処理\n復旧 | 落下・挟まり・護衛停止・進行不能から共通復帰\n耐久 | P2以降、4時間連続プレイを定例試験",
+      "textPreview": "領域 | 要求 | 基準 | Windows PC、1920×1080。推奨60fps／16.7ms、最低30fps／33.3ms | 非依存 | 攻撃、回避無敵、AI思考、継続ダメージをフレーム数へ依存させない | 負荷 | 敵・弾・ドロップ・VFXをプール。CPU/GP...",
+      "rows": 8,
+      "cols": 2,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            41.33,
+            236.33,
+            250,
+            51.61
+          ],
+          "text": "領域",
+          "textPreview": "領域",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "領域",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "領域",
+                  "fontSize": 17,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            291.33,
+            236.33,
+            947,
+            51.61
+          ],
+          "text": "要求",
+          "textPreview": "要求",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "要求",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "要求",
+                  "fontSize": 17,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            41.33,
+            287.94,
+            250,
+            51.61
+          ],
+          "text": "基準",
+          "textPreview": "基準",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "基準",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "基準",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            291.33,
+            287.94,
+            947,
+            51.61
+          ],
+          "text": "Windows PC、1920×1080。推奨60fps／16.7ms、最低30fps／33.3ms",
+          "textPreview": "Windows PC、1920×1080。推奨60fps／16.7ms、最低30fps／33.3ms",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Windows PC、1920×1080。推奨60fps／16.7ms、最低30fps／33.3ms",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Windows PC、1920×1080。推奨60fps／16.7ms、最低30fps／33.3ms",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            41.33,
+            339.55,
+            250,
+            51.61
+          ],
+          "text": "非依存",
+          "textPreview": "非依存",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "非依存",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "非依存",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            291.33,
+            339.55,
+            947,
+            51.61
+          ],
+          "text": "攻撃、回避無敵、AI思考、継続ダメージをフレーム数へ依存させない",
+          "textPreview": "攻撃、回避無敵、AI思考、継続ダメージをフレーム数へ依存させない",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "攻撃、回避無敵、AI思考、継続ダメージをフレーム数へ依存させない",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "攻撃、回避無敵、AI思考、継続ダメージをフレーム数へ依存させない",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            41.33,
+            391.16,
+            250,
+            51.61
+          ],
+          "text": "負荷",
+          "textPreview": "負荷",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "負荷",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "負荷",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            291.33,
+            391.16,
+            947,
+            51.61
+          ],
+          "text": "敵・弾・ドロップ・VFXをプール。CPU/GPU/メモリ予算はP1で固定",
+          "textPreview": "敵・弾・ドロップ・VFXをプール。CPU/GPU/メモリ予算はP1で固定",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "敵・弾・ドロップ・VFXをプール。CPU/GPU/メモリ予算はP1で固定",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "敵・弾・ドロップ・VFXをプール。CPU/GPU/メモリ予算はP1で固定",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            41.33,
+            442.76,
+            250,
+            51.61
+          ],
+          "text": "ロード",
+          "textPreview": "ロード",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ロード",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ロード",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            291.33,
+            442.76,
+            947,
+            51.61
+          ],
+          "text": "推奨SSD：初回15秒以内、チェックポイント再開5秒以内（暫定）",
+          "textPreview": "推奨SSD：初回15秒以内、チェックポイント再開5秒以内（暫定）",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "推奨SSD：初回15秒以内、チェックポイント再開5秒以内（暫定）",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "推奨SSD：初回15秒以内、チェックポイント再開5秒以内（暫定）",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            41.33,
+            494.37,
+            250,
+            51.61
+          ],
+          "text": "セーブ",
+          "textPreview": "セーブ",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "セーブ",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "セーブ",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            291.33,
+            494.37,
+            947,
+            51.61
+          ],
+          "text": "原子的保存、1世代バックアップ、スキーマ版と移行処理",
+          "textPreview": "原子的保存、1世代バックアップ、スキーマ版と移行処理",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "原子的保存、1世代バックアップ、スキーマ版と移行処理",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "原子的保存、1世代バックアップ、スキーマ版と移行処理",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            41.33,
+            545.98,
+            250,
+            51.61
+          ],
+          "text": "復旧",
+          "textPreview": "復旧",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "復旧",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "復旧",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            291.33,
+            545.98,
+            947,
+            51.61
+          ],
+          "text": "落下・挟まり・護衛停止・進行不能から共通復帰",
+          "textPreview": "落下・挟まり・護衛停止・進行不能から共通復帰",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "落下・挟まり・護衛停止・進行不能から共通復帰",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "落下・挟まり・護衛停止・進行不能から共通復帰",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 8,
+          "column": 1,
+          "bbox": [
+            41.33,
+            597.59,
+            250,
+            51.61
+          ],
+          "text": "耐久",
+          "textPreview": "耐久",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "耐久",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "耐久",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 8,
+          "column": 2,
+          "bbox": [
+            291.33,
+            597.59,
+            947,
+            51.61
+          ],
+          "text": "P2以降、4時間連続プレイを定例試験",
+          "textPreview": "P2以降、4時間連続プレイを定例試験",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "P2以降、4時間連続プレイを定例試験",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "P2以降、4時間連続プレイを定例試験",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gfyp4ryl",
+      "id": "5",
+      "bbox": [
+        42,
+        670,
+        350,
+        24
+      ],
+      "geometry": "rect",
+      "text": "YTC: Deliver Tomorrow",
+      "textPreview": "YTC: Deliver Tomorrow",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "YTC: Deliver Tomorrow"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "YTC: Deliver Tomorrow",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "YTC: Deliver Tomorrow",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vep8bmxg",
+      "id": "6",
+      "bbox": [
+        1178,
+        670,
+        60,
+        24
+      ],
+      "geometry": "rect",
+      "text": "42",
+      "textPreview": "42",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "42"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "42",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "42",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/udw72hgv",
+      "id": "7",
+      "bbox": [
+        42,
+        660,
+        54,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C28"
+    }
+  ],
+  "composeRuns": []
+}

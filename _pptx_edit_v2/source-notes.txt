@@ -1,0 +1,4 @@
+制作正典：001_設定資料/01_Story_20_Chapters.md、02_Characters.md、03_Enemies_and_Encounters.md、04_Weapons.md、05_Equipment.md、06_Loot_and_Items.md、07_Player_Stats.md、08_Weapon_Stats.md、09_Game_Rules.md、10_Fields.md、12_ID_and_Terminology.md。
+技術責任者正式成果物：002_スライド/03_技術責任者_技術要件定義_v1.pptx。
+校正指摘：002_校正者成果物/09_校正者_YTC統合企画要件定義v1_校正報告_20260819.md。
+デザイン方針：000_エージェント共有読み物の役割設定およびデザインマネージャー引継ぎ。

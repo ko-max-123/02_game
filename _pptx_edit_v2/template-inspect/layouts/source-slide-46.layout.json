@@ -1,0 +1,1100 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/zixsf2ps",
+    "id": "zixsf2ps",
+    "slide": 46,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Helvetica Neue",
+      "Yu Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s3ul4bu9",
+      "id": "8",
+      "name": "Google-Shape-532-p58-2",
+      "bbox": [
+        1184.18,
+        659.24,
+        54.48,
+        25.33
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a9s3uhcv",
+      "id": "2",
+      "name": "Google-Shape-533-p58-3",
+      "bbox": [
+        41.33,
+        36.12,
+        1197.33,
+        109.97
+      ],
+      "geometry": "rect",
+      "text": "主要リスクは、P0〜P3の検証順で減らす",
+      "textPreview": "主要リスクは、P0〜P3の検証順で減らす",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "主要リスクは、P0〜P3の検証順で減らす"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "主要リスクは、P0〜P3の検証順で減らす",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 38.67,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "主要リスクは、P0〜P3の検証順で減らす",
+              "fontSize": 48,
+              "typeface": "Yu Gothic",
+              "color": "#12171C",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/va14nmtg",
+      "id": "3",
+      "name": "Content-Placeholder-15-4",
+      "bbox": [
+        42.09,
+        111.02,
+        1197.33,
+        106.27
+      ],
+      "geometry": "rect",
+      "text": "REFERENCE\n物量より先に、戦闘・飛行・数式・データの破綻を止める。",
+      "textPreview": "REFERENCE | 物量より先に、戦闘・飛行・数式・データの破綻を止める。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "REFERENCE"
+          },
+          {
+            "index": 2,
+            "text": "物量より先に、戦闘・飛行・数式・データの破綻を止める。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "REFERENCE",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "REFERENCE",
+              "fontSize": 17,
+              "typeface": "Yu Gothic",
+              "color": "#F28C28",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "物量より先に、戦闘・飛行・数式・データの破綻を止める。",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "物量より先に、戦闘・飛行・数式・データの破綻を止める。",
+              "fontSize": 20,
+              "typeface": "Yu Gothic",
+              "color": "#28323A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/4fe18ze1",
+      "id": "9",
+      "name": "Google-Shape-644-p93-5",
+      "bbox": [
+        41.33,
+        236.33,
+        1197,
+        412.87
+      ],
+      "text": "リスク | 影響 | 対策\n2.5D＋飛行 | 飛び越し／画面外被弾 | 移動平面、対空AI、境界、警告をP0で検証\n射撃のみ最適 | 近接ピラー崩壊 | 装甲破壊、弾薬、距離別ログで比較\n近接の理不尽 | 離脱 | 予告、キャンセル、ヒットボックス、30/60fps比較\n資源競合 | 飛行・ビーム・盾が使えない | 消費ログとビルド別シミュレーター\n100ステージ | 反復・納期・品質低下 | 再利用部品、品質ゲート、必要なら削減\n数式・ID矛盾 | 入手不能・進行不能 | P0前仕様ゲート＋自動検証\n将来オンライン | 本編遅延・セーブ侵食 | P5隔離、オフラインへ依存させない",
+      "textPreview": "リスク | 影響 | 対策 | 2.5D＋飛行 | 飛び越し／画面外被弾 | 移動平面、対空AI、境界、警告をP0で検証 | 射撃のみ最適 | 近接ピラー崩壊 | 装甲破壊、弾薬、距離別ログで比較 | 近接の理不尽 | 離脱 | 予告、キャンセル、ヒットボックス、30/60...",
+      "rows": 8,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            41.33,
+            236.33,
+            300,
+            51.61
+          ],
+          "text": "リスク",
+          "textPreview": "リスク",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "リスク",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "リスク",
+                  "fontSize": 15,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            341.33,
+            236.33,
+            330,
+            51.61
+          ],
+          "text": "影響",
+          "textPreview": "影響",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "影響",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "影響",
+                  "fontSize": 15,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            671.33,
+            236.33,
+            567,
+            51.61
+          ],
+          "text": "対策",
+          "textPreview": "対策",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "対策",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "対策",
+                  "fontSize": 15,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            41.33,
+            287.94,
+            300,
+            51.61
+          ],
+          "text": "2.5D＋飛行",
+          "textPreview": "2.5D＋飛行",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2.5D＋飛行",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2.5D＋飛行",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            341.33,
+            287.94,
+            330,
+            51.61
+          ],
+          "text": "飛び越し／画面外被弾",
+          "textPreview": "飛び越し／画面外被弾",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "飛び越し／画面外被弾",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "飛び越し／画面外被弾",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            671.33,
+            287.94,
+            567,
+            51.61
+          ],
+          "text": "移動平面、対空AI、境界、警告をP0で検証",
+          "textPreview": "移動平面、対空AI、境界、警告をP0で検証",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "移動平面、対空AI、境界、警告をP0で検証",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "移動平面、対空AI、境界、警告をP0で検証",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            41.33,
+            339.55,
+            300,
+            51.61
+          ],
+          "text": "射撃のみ最適",
+          "textPreview": "射撃のみ最適",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "射撃のみ最適",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "射撃のみ最適",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            341.33,
+            339.55,
+            330,
+            51.61
+          ],
+          "text": "近接ピラー崩壊",
+          "textPreview": "近接ピラー崩壊",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "近接ピラー崩壊",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "近接ピラー崩壊",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            671.33,
+            339.55,
+            567,
+            51.61
+          ],
+          "text": "装甲破壊、弾薬、距離別ログで比較",
+          "textPreview": "装甲破壊、弾薬、距離別ログで比較",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "装甲破壊、弾薬、距離別ログで比較",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "装甲破壊、弾薬、距離別ログで比較",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            41.33,
+            391.16,
+            300,
+            51.61
+          ],
+          "text": "近接の理不尽",
+          "textPreview": "近接の理不尽",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "近接の理不尽",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "近接の理不尽",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            341.33,
+            391.16,
+            330,
+            51.61
+          ],
+          "text": "離脱",
+          "textPreview": "離脱",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "離脱",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "離脱",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            671.33,
+            391.16,
+            567,
+            51.61
+          ],
+          "text": "予告、キャンセル、ヒットボックス、30/60fps比較",
+          "textPreview": "予告、キャンセル、ヒットボックス、30/60fps比較",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "予告、キャンセル、ヒットボックス、30/60fps比較",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "予告、キャンセル、ヒットボックス、30/60fps比較",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            41.33,
+            442.76,
+            300,
+            51.61
+          ],
+          "text": "資源競合",
+          "textPreview": "資源競合",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "資源競合",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "資源競合",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            341.33,
+            442.76,
+            330,
+            51.61
+          ],
+          "text": "飛行・ビーム・盾が使えない",
+          "textPreview": "飛行・ビーム・盾が使えない",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "飛行・ビーム・盾が使えない",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "飛行・ビーム・盾が使えない",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            671.33,
+            442.76,
+            567,
+            51.61
+          ],
+          "text": "消費ログとビルド別シミュレーター",
+          "textPreview": "消費ログとビルド別シミュレーター",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "消費ログとビルド別シミュレーター",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "消費ログとビルド別シミュレーター",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            41.33,
+            494.37,
+            300,
+            51.61
+          ],
+          "text": "100ステージ",
+          "textPreview": "100ステージ",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "100ステージ",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "100ステージ",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            341.33,
+            494.37,
+            330,
+            51.61
+          ],
+          "text": "反復・納期・品質低下",
+          "textPreview": "反復・納期・品質低下",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "反復・納期・品質低下",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "反復・納期・品質低下",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            671.33,
+            494.37,
+            567,
+            51.61
+          ],
+          "text": "再利用部品、品質ゲート、必要なら削減",
+          "textPreview": "再利用部品、品質ゲート、必要なら削減",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "再利用部品、品質ゲート、必要なら削減",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "再利用部品、品質ゲート、必要なら削減",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            41.33,
+            545.98,
+            300,
+            51.61
+          ],
+          "text": "数式・ID矛盾",
+          "textPreview": "数式・ID矛盾",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "数式・ID矛盾",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "数式・ID矛盾",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            341.33,
+            545.98,
+            330,
+            51.61
+          ],
+          "text": "入手不能・進行不能",
+          "textPreview": "入手不能・進行不能",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "入手不能・進行不能",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "入手不能・進行不能",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            671.33,
+            545.98,
+            567,
+            51.61
+          ],
+          "text": "P0前仕様ゲート＋自動検証",
+          "textPreview": "P0前仕様ゲート＋自動検証",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "P0前仕様ゲート＋自動検証",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "P0前仕様ゲート＋自動検証",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 8,
+          "column": 1,
+          "bbox": [
+            41.33,
+            597.59,
+            300,
+            51.61
+          ],
+          "text": "将来オンライン",
+          "textPreview": "将来オンライン",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "将来オンライン",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "将来オンライン",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 8,
+          "column": 2,
+          "bbox": [
+            341.33,
+            597.59,
+            330,
+            51.61
+          ],
+          "text": "本編遅延・セーブ侵食",
+          "textPreview": "本編遅延・セーブ侵食",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "本編遅延・セーブ侵食",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "本編遅延・セーブ侵食",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 8,
+          "column": 3,
+          "bbox": [
+            671.33,
+            597.59,
+            567,
+            51.61
+          ],
+          "text": "P5隔離、オフラインへ依存させない",
+          "textPreview": "P5隔離、オフラインへ依存させない",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "P5隔離、オフラインへ依存させない",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "P5隔離、オフラインへ依存させない",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5g3mtwbi",
+      "id": "5",
+      "bbox": [
+        42,
+        670,
+        350,
+        24
+      ],
+      "geometry": "rect",
+      "text": "YTC: Deliver Tomorrow",
+      "textPreview": "YTC: Deliver Tomorrow",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "YTC: Deliver Tomorrow"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "YTC: Deliver Tomorrow",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "YTC: Deliver Tomorrow",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ids3yhc7",
+      "id": "6",
+      "bbox": [
+        1178,
+        670,
+        60,
+        24
+      ],
+      "geometry": "rect",
+      "text": "46",
+      "textPreview": "46",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "46"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "46",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "46",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/je14rmts",
+      "id": "7",
+      "bbox": [
+        42,
+        660,
+        54,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C28"
+    }
+  ],
+  "composeRuns": []
+}

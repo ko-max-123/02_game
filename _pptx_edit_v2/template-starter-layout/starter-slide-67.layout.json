@@ -1,0 +1,935 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/7i7af7",
+    "id": "7i7af7",
+    "slide": 67,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Helvetica Neue",
+      "Yu Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/elgv2tcz",
+      "id": "8",
+      "name": "Google-Shape-532-p58-2",
+      "bbox": [
+        1184.18,
+        659.24,
+        54.48,
+        25.33
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cf2dc3ux",
+      "id": "2",
+      "name": "Google-Shape-533-p58-3",
+      "bbox": [
+        41.33,
+        36.12,
+        1197.33,
+        109.97
+      ],
+      "geometry": "rect",
+      "text": "付録：第1〜5章の敵とステージギミック",
+      "textPreview": "付録：第1〜5章の敵とステージギミック",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "付録：第1〜5章の敵とステージギミック"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "付録：第1〜5章の敵とステージギミック",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 38.67,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "付録：第1〜5章の敵とステージギミック",
+              "fontSize": 48,
+              "typeface": "Yu Gothic",
+              "color": "#12171C",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xgbel8bi",
+      "id": "3",
+      "name": "Content-Placeholder-15-4",
+      "bbox": [
+        42.09,
+        111.02,
+        1197.33,
+        106.27
+      ],
+      "geometry": "rect",
+      "text": "REFERENCE\n章ごとの敵・ボス・ギミックを、学習内容と物語上の役割に結び付ける。",
+      "textPreview": "REFERENCE | 章ごとの敵・ボス・ギミックを、学習内容と物語上の役割に結び付ける。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "REFERENCE"
+          },
+          {
+            "index": 2,
+            "text": "章ごとの敵・ボス・ギミックを、学習内容と物語上の役割に結び付ける。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "REFERENCE",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "REFERENCE",
+              "fontSize": 17,
+              "typeface": "Yu Gothic",
+              "color": "#F28C28",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "章ごとの敵・ボス・ギミックを、学習内容と物語上の役割に結び付ける。",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "章ごとの敵・ボス・ギミックを、学習内容と物語上の役割に結び付ける。",
+              "fontSize": 20,
+              "typeface": "Yu Gothic",
+              "color": "#28323A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/utwvapkr",
+      "id": "9",
+      "name": "Google-Shape-644-p93-5",
+      "bbox": [
+        41.33,
+        236.33,
+        1197,
+        412.87
+      ],
+      "text": "章 | 主な敵／ボス | 主なギミック\n1 笑顔の試験機 | 訓練ドローン／ゴライアスT | 訓練ゲート、落下復帰、射撃→近接\n2 間違った口径 | 赤錆／ガンゾ | 輸送耐久、道路封鎖、対機甲弾警告\n3 静かな病棟 | 灰鐘／逃走装甲車 | 民間人、非武装、車両追跡、初回決着\n4 誰もいない救出地点 | 灰鐘／ブルータス | 崩れる床、暗所、発電機、装甲剥離\n5 地下に残る声 | 地下漁り／モール | 水位、ガス、列車、壁破壊誘導",
+      "textPreview": "章 | 主な敵／ボス | 主なギミック | 1 笑顔の試験機 | 訓練ドローン／ゴライアスT | 訓練ゲート、落下復帰、射撃→近接 | 2 間違った口径 | 赤錆／ガンゾ | 輸送耐久、道路封鎖、対機甲弾警告 | 3 静かな病棟 | 灰鐘／逃走装甲車 | 民間人、非武装、車...",
+      "rows": 6,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            41.33,
+            236.33,
+            300,
+            68.81
+          ],
+          "text": "章",
+          "textPreview": "章",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "章",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "章",
+                  "fontSize": 16,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            341.33,
+            236.33,
+            340,
+            68.81
+          ],
+          "text": "主な敵／ボス",
+          "textPreview": "主な敵／ボス",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "主な敵／ボス",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "主な敵／ボス",
+                  "fontSize": 16,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            681.33,
+            236.33,
+            557,
+            68.81
+          ],
+          "text": "主なギミック",
+          "textPreview": "主なギミック",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "主なギミック",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "主なギミック",
+                  "fontSize": 16,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            41.33,
+            305.14,
+            300,
+            68.81
+          ],
+          "text": "1 笑顔の試験機",
+          "textPreview": "1 笑顔の試験機",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1 笑顔の試験機",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1 笑顔の試験機",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            341.33,
+            305.14,
+            340,
+            68.81
+          ],
+          "text": "訓練ドローン／ゴライアスT",
+          "textPreview": "訓練ドローン／ゴライアスT",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "訓練ドローン／ゴライアスT",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "訓練ドローン／ゴライアスT",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            681.33,
+            305.14,
+            557,
+            68.81
+          ],
+          "text": "訓練ゲート、落下復帰、射撃→近接",
+          "textPreview": "訓練ゲート、落下復帰、射撃→近接",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "訓練ゲート、落下復帰、射撃→近接",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "訓練ゲート、落下復帰、射撃→近接",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            41.33,
+            373.95,
+            300,
+            68.81
+          ],
+          "text": "2 間違った口径",
+          "textPreview": "2 間違った口径",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2 間違った口径",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2 間違った口径",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            341.33,
+            373.95,
+            340,
+            68.81
+          ],
+          "text": "赤錆／ガンゾ",
+          "textPreview": "赤錆／ガンゾ",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "赤錆／ガンゾ",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "赤錆／ガンゾ",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            681.33,
+            373.95,
+            557,
+            68.81
+          ],
+          "text": "輸送耐久、道路封鎖、対機甲弾警告",
+          "textPreview": "輸送耐久、道路封鎖、対機甲弾警告",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "輸送耐久、道路封鎖、対機甲弾警告",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "輸送耐久、道路封鎖、対機甲弾警告",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            41.33,
+            442.76,
+            300,
+            68.81
+          ],
+          "text": "3 静かな病棟",
+          "textPreview": "3 静かな病棟",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3 静かな病棟",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3 静かな病棟",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            341.33,
+            442.76,
+            340,
+            68.81
+          ],
+          "text": "灰鐘／逃走装甲車",
+          "textPreview": "灰鐘／逃走装甲車",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "灰鐘／逃走装甲車",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "灰鐘／逃走装甲車",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            681.33,
+            442.76,
+            557,
+            68.81
+          ],
+          "text": "民間人、非武装、車両追跡、初回決着",
+          "textPreview": "民間人、非武装、車両追跡、初回決着",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "民間人、非武装、車両追跡、初回決着",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "民間人、非武装、車両追跡、初回決着",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            41.33,
+            511.58,
+            300,
+            68.81
+          ],
+          "text": "4 誰もいない救出地点",
+          "textPreview": "4 誰もいない救出地点",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4 誰もいない救出地点",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4 誰もいない救出地点",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            341.33,
+            511.58,
+            340,
+            68.81
+          ],
+          "text": "灰鐘／ブルータス",
+          "textPreview": "灰鐘／ブルータス",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "灰鐘／ブルータス",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "灰鐘／ブルータス",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            681.33,
+            511.58,
+            557,
+            68.81
+          ],
+          "text": "崩れる床、暗所、発電機、装甲剥離",
+          "textPreview": "崩れる床、暗所、発電機、装甲剥離",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "崩れる床、暗所、発電機、装甲剥離",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "崩れる床、暗所、発電機、装甲剥離",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            41.33,
+            580.39,
+            300,
+            68.81
+          ],
+          "text": "5 地下に残る声",
+          "textPreview": "5 地下に残る声",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5 地下に残る声",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5 地下に残る声",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            341.33,
+            580.39,
+            340,
+            68.81
+          ],
+          "text": "地下漁り／モール",
+          "textPreview": "地下漁り／モール",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "地下漁り／モール",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "地下漁り／モール",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            681.33,
+            580.39,
+            557,
+            68.81
+          ],
+          "text": "水位、ガス、列車、壁破壊誘導",
+          "textPreview": "水位、ガス、列車、壁破壊誘導",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "水位、ガス、列車、壁破壊誘導",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "水位、ガス、列車、壁破壊誘導",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zitwnito",
+      "id": "5",
+      "bbox": [
+        42,
+        670,
+        350,
+        24
+      ],
+      "geometry": "rect",
+      "text": "YTC: Deliver Tomorrow",
+      "textPreview": "YTC: Deliver Tomorrow",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "YTC: Deliver Tomorrow"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "YTC: Deliver Tomorrow",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "YTC: Deliver Tomorrow",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k32dgna9",
+      "id": "6",
+      "bbox": [
+        1178,
+        670,
+        60,
+        24
+      ],
+      "geometry": "rect",
+      "text": "49",
+      "textPreview": "49",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "49"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "49",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "49",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l4bepsbu",
+      "id": "7",
+      "bbox": [
+        42,
+        660,
+        54,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C28"
+    }
+  ],
+  "composeRuns": []
+}

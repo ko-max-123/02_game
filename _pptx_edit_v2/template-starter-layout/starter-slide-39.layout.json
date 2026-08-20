@@ -1,0 +1,1265 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/bht8yv",
+    "id": "bht8yv",
+    "slide": 39,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Helvetica Neue",
+      "Yu Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o3qxcfy9",
+      "id": "8",
+      "name": "Google-Shape-532-p58-2",
+      "bbox": [
+        1184.18,
+        659.24,
+        54.48,
+        25.33
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q9ov2lgv",
+      "id": "2",
+      "name": "Google-Shape-533-p58-3",
+      "bbox": [
+        41.33,
+        36.12,
+        1197.33,
+        109.97
+      ],
+      "geometry": "rect",
+      "text": "機能要件：進行とUI",
+      "textPreview": "機能要件：進行とUI",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "機能要件：進行とUI"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "機能要件：進行とUI",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 38.67,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "機能要件：進行とUI",
+              "fontSize": 48,
+              "typeface": "Yu Gothic",
+              "color": "#12171C",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/raxwvqxg",
+      "id": "3",
+      "name": "Content-Placeholder-15-4",
+      "bbox": [
+        42.09,
+        111.02,
+        1197.33,
+        106.27
+      ],
+      "geometry": "rect",
+      "text": "REFERENCE\nFR-11〜FR-21。オンライン協力は将来スコープ。",
+      "textPreview": "REFERENCE | FR-11〜FR-21。オンライン協力は将来スコープ。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "REFERENCE"
+          },
+          {
+            "index": 2,
+            "text": "FR-11〜FR-21。オンライン協力は将来スコープ。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "REFERENCE",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "REFERENCE",
+              "fontSize": 17,
+              "typeface": "Yu Gothic",
+              "color": "#F28C28",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "FR-11〜FR-21。オンライン協力は将来スコープ。",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "FR-11〜FR-21。オンライン協力は将来スコープ。",
+              "fontSize": 20,
+              "typeface": "Yu Gothic",
+              "color": "#28323A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/svm9gbe9",
+      "id": "9",
+      "name": "Google-Shape-644-p93-5",
+      "bbox": [
+        41.33,
+        236.33,
+        1197,
+        412.87
+      ],
+      "text": "ID | 領域 | 必須要件\nFR-11 | 戦利品 | 通貨、素材、消耗品、装備、情報、証拠の取得・処理\nFR-12 | 証拠 | 売却不可、証拠ボード、自動接続、会話・章解放\nFR-13 | 本社 | 任務、装備、強化、倉庫、店、会話、訓練、図鑑\nFR-14 | 進行 | 20章、10フィールド、100ステージ目標、記録再生\nFR-15/16 | 難易度・評価 | 4難易度、C〜S、救助・非致死・証拠・護衛\nFR-17 | セーブ | オート1、手動3、一時保存、設定・証拠・会話を保持\nFR-18/19 | UI・アクセシビリティ | 優先HUD、予告、環境、全入力、字幕、速度\nFR-20 | オフライン | 本編、装備、セーブ、New Game+をサーバーなしで利用\nFR-21 | 将来協力 | 1〜4人、個別ドロップ、蘇生、AI代替、5分再接続",
+      "textPreview": "ID | 領域 | 必須要件 | FR-11 | 戦利品 | 通貨、素材、消耗品、装備、情報、証拠の取得・処理 | FR-12 | 証拠 | 売却不可、証拠ボード、自動接続、会話・章解放 | FR-13 | 本社 | 任務、装備、強化、倉庫、店、会話、訓練、図鑑 | FR-...",
+      "rows": 10,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            41.33,
+            236.33,
+            110,
+            41.29
+          ],
+          "text": "ID",
+          "textPreview": "ID",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ID",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ID",
+                  "fontSize": 15,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            151.33,
+            236.33,
+            220,
+            41.29
+          ],
+          "text": "領域",
+          "textPreview": "領域",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "領域",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "領域",
+                  "fontSize": 15,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            371.33,
+            236.33,
+            867,
+            41.29
+          ],
+          "text": "必須要件",
+          "textPreview": "必須要件",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "必須要件",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "必須要件",
+                  "fontSize": 15,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            41.33,
+            277.62,
+            110,
+            41.29
+          ],
+          "text": "FR-11",
+          "textPreview": "FR-11",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "FR-11",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "FR-11",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            151.33,
+            277.62,
+            220,
+            41.29
+          ],
+          "text": "戦利品",
+          "textPreview": "戦利品",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "戦利品",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "戦利品",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            371.33,
+            277.62,
+            867,
+            41.29
+          ],
+          "text": "通貨、素材、消耗品、装備、情報、証拠の取得・処理",
+          "textPreview": "通貨、素材、消耗品、装備、情報、証拠の取得・処理",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "通貨、素材、消耗品、装備、情報、証拠の取得・処理",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "通貨、素材、消耗品、装備、情報、証拠の取得・処理",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            41.33,
+            318.9,
+            110,
+            41.29
+          ],
+          "text": "FR-12",
+          "textPreview": "FR-12",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "FR-12",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "FR-12",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            151.33,
+            318.9,
+            220,
+            41.29
+          ],
+          "text": "証拠",
+          "textPreview": "証拠",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "証拠",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "証拠",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            371.33,
+            318.9,
+            867,
+            41.29
+          ],
+          "text": "売却不可、証拠ボード、自動接続、会話・章解放",
+          "textPreview": "売却不可、証拠ボード、自動接続、会話・章解放",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "売却不可、証拠ボード、自動接続、会話・章解放",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "売却不可、証拠ボード、自動接続、会話・章解放",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            41.33,
+            360.19,
+            110,
+            41.29
+          ],
+          "text": "FR-13",
+          "textPreview": "FR-13",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "FR-13",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "FR-13",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            151.33,
+            360.19,
+            220,
+            41.29
+          ],
+          "text": "本社",
+          "textPreview": "本社",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "本社",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "本社",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            371.33,
+            360.19,
+            867,
+            41.29
+          ],
+          "text": "任務、装備、強化、倉庫、店、会話、訓練、図鑑",
+          "textPreview": "任務、装備、強化、倉庫、店、会話、訓練、図鑑",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "任務、装備、強化、倉庫、店、会話、訓練、図鑑",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "任務、装備、強化、倉庫、店、会話、訓練、図鑑",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            41.33,
+            401.48,
+            110,
+            41.29
+          ],
+          "text": "FR-14",
+          "textPreview": "FR-14",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "FR-14",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "FR-14",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            151.33,
+            401.48,
+            220,
+            41.29
+          ],
+          "text": "進行",
+          "textPreview": "進行",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "進行",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "進行",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            371.33,
+            401.48,
+            867,
+            41.29
+          ],
+          "text": "20章、10フィールド、100ステージ目標、記録再生",
+          "textPreview": "20章、10フィールド、100ステージ目標、記録再生",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "20章、10フィールド、100ステージ目標、記録再生",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "20章、10フィールド、100ステージ目標、記録再生",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            41.33,
+            442.77,
+            110,
+            41.29
+          ],
+          "text": "FR-15/16",
+          "textPreview": "FR-15/16",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "FR-15/16",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "FR-15/16",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            151.33,
+            442.77,
+            220,
+            41.29
+          ],
+          "text": "難易度・評価",
+          "textPreview": "難易度・評価",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "難易度・評価",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "難易度・評価",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            371.33,
+            442.77,
+            867,
+            41.29
+          ],
+          "text": "4難易度、C〜S、救助・非致死・証拠・護衛",
+          "textPreview": "4難易度、C〜S、救助・非致死・証拠・護衛",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4難易度、C〜S、救助・非致死・証拠・護衛",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4難易度、C〜S、救助・非致死・証拠・護衛",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            41.33,
+            484.05,
+            110,
+            41.29
+          ],
+          "text": "FR-17",
+          "textPreview": "FR-17",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "FR-17",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "FR-17",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            151.33,
+            484.05,
+            220,
+            41.29
+          ],
+          "text": "セーブ",
+          "textPreview": "セーブ",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "セーブ",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "セーブ",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            371.33,
+            484.05,
+            867,
+            41.29
+          ],
+          "text": "オート1、手動3、一時保存、設定・証拠・会話を保持",
+          "textPreview": "オート1、手動3、一時保存、設定・証拠・会話を保持",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "オート1、手動3、一時保存、設定・証拠・会話を保持",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "オート1、手動3、一時保存、設定・証拠・会話を保持",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 8,
+          "column": 1,
+          "bbox": [
+            41.33,
+            525.34,
+            110,
+            41.29
+          ],
+          "text": "FR-18/19",
+          "textPreview": "FR-18/19",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "FR-18/19",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "FR-18/19",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 8,
+          "column": 2,
+          "bbox": [
+            151.33,
+            525.34,
+            220,
+            41.29
+          ],
+          "text": "UI・アクセシビリティ",
+          "textPreview": "UI・アクセシビリティ",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "UI・アクセシビリティ",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "UI・アクセシビリティ",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 8,
+          "column": 3,
+          "bbox": [
+            371.33,
+            525.34,
+            867,
+            41.29
+          ],
+          "text": "優先HUD、予告、環境、全入力、字幕、速度",
+          "textPreview": "優先HUD、予告、環境、全入力、字幕、速度",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "優先HUD、予告、環境、全入力、字幕、速度",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "優先HUD、予告、環境、全入力、字幕、速度",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 9,
+          "column": 1,
+          "bbox": [
+            41.33,
+            566.63,
+            110,
+            41.29
+          ],
+          "text": "FR-20",
+          "textPreview": "FR-20",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "FR-20",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "FR-20",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 9,
+          "column": 2,
+          "bbox": [
+            151.33,
+            566.63,
+            220,
+            41.29
+          ],
+          "text": "オフライン",
+          "textPreview": "オフライン",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "オフライン",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "オフライン",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 9,
+          "column": 3,
+          "bbox": [
+            371.33,
+            566.63,
+            867,
+            41.29
+          ],
+          "text": "本編、装備、セーブ、New Game+をサーバーなしで利用",
+          "textPreview": "本編、装備、セーブ、New Game+をサーバーなしで利用",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "本編、装備、セーブ、New Game+をサーバーなしで利用",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "本編、装備、セーブ、New Game+をサーバーなしで利用",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 10,
+          "column": 1,
+          "bbox": [
+            41.33,
+            607.91,
+            110,
+            41.29
+          ],
+          "text": "FR-21",
+          "textPreview": "FR-21",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "FR-21",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "FR-21",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 29,
+          "row": 10,
+          "column": 2,
+          "bbox": [
+            151.33,
+            607.91,
+            220,
+            41.29
+          ],
+          "text": "将来協力",
+          "textPreview": "将来協力",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "将来協力",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "将来協力",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "row": 10,
+          "column": 3,
+          "bbox": [
+            371.33,
+            607.91,
+            867,
+            41.29
+          ],
+          "text": "1〜4人、個別ドロップ、蘇生、AI代替、5分再接続",
+          "textPreview": "1〜4人、個別ドロップ、蘇生、AI代替、5分再接続",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1〜4人、個別ドロップ、蘇生、AI代替、5分再接続",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1〜4人、個別ドロップ、蘇生、AI代替、5分再接続",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p8fetgfa",
+      "id": "5",
+      "bbox": [
+        42,
+        670,
+        350,
+        24
+      ],
+      "geometry": "rect",
+      "text": "YTC: Deliver Tomorrow",
+      "textPreview": "YTC: Deliver Tomorrow",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "YTC: Deliver Tomorrow"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "YTC: Deliver Tomorrow",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "YTC: Deliver Tomorrow",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2lovylgz",
+      "id": "6",
+      "bbox": [
+        1178,
+        670,
+        60,
+        24
+      ],
+      "geometry": "rect",
+      "text": "39",
+      "textPreview": "39",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "39"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "39",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "39",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3mxwr6x4",
+      "id": "7",
+      "bbox": [
+        42,
+        660,
+        54,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C28"
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,735 @@
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"YTC: Deliver Tomorrow","textShapes":4}
+{"kind":"textbox","id":"sh/sryl4zqx","slide":1,"name":"Title-3-1","text":"YTC: Deliver Tomorrow\n統合企画・要件定義","textPreview":"YTC: Deliver Tomorrow | 統合企画・要件定義","textChars":31,"textLines":2,"bbox":[41.33,182.55,992,261.57]}
+{"kind":"textbox","id":"sh/547294r6","slide":1,"name":"Subtitle-4-2","text":"物語・ゲームシステム・想定技術・機能／非機能要件\nProducer Final Draft v1","textPreview":"物語・ゲームシステム・想定技術・機能／非機能要件 | Producer Final Draft v1","textChars":48,"textLines":2,"bbox":[41.33,497.87,598.67,113.41]}
+{"kind":"textbox","id":"sh/k3yl0zql","slide":1,"name":"Subtitle-4-3","text":"INTEGRATED PROJECT DEFINITION / 2026.08.19","textPreview":"INTEGRATED PROJECT DEFINITION / 2026.08.19","textChars":42,"textLines":1,"bbox":[41.33,41.18,598.67,68.15]}
+{"kind":"shape","id":"sh/7qp4be9c","slide":1,"bbox":[1125,0,155,720]}
+{"kind":"shape","id":"sh/65g3298r","slide":1,"bbox":[1166,0,114,720]}
+{"kind":"textbox","id":"sh/ts7md4r2","slide":1,"text":"YOUR\nTOMORROW,\nCARRIED.","textPreview":"YOUR | TOMORROW, | CARRIED.","textChars":23,"textLines":3,"bbox":[1146,520,105,120]}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"本資料を、制作判断の共通基準にする","textShapes":7}
+{"kind":"shape","id":"sh/ahwrqhgj","slide":2,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/9072xkry","slide":2,"name":"Google-Shape-533-p58-3","text":"本資料を、制作判断の共通基準にする","textPreview":"本資料を、制作判断の共通基準にする","textChars":17,"textLines":1,"bbox":[41.33,36.17,1197.33,134.7]}
+{"kind":"shape","id":"sh/ozy1ofad","slide":2,"name":"Rounded-Rectangle-9-4","bbox":[452.38,353.33,374.67,276]}
+{"kind":"shape","id":"sh/b29kza94","slide":2,"name":"Rounded-Rectangle-10-5","bbox":[864,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/a10jqpsj","slide":2,"name":"Content-Placeholder-9-6","text":"技術推奨\n技術責任者がUE5系・データ駆動・オフライン優先を採択。","textPreview":"技術推奨 | 技術責任者がUE5系・データ駆動・オフライン優先を採択。","textChars":33,"textLines":2,"bbox":[485.23,435.29,309.64,150.43]}
+{"kind":"textbox","id":"sh/x4r21kru","slide":2,"name":"Content-Placeholder-10-7","text":"仕様ゲート\n数式・ID・装備枠・章解放の矛盾はP0前に閉じる。","textPreview":"仕様ゲート | 数式・ID・装備枠・章解放の矛盾はP0前に閉じる。","textChars":31,"textLines":2,"bbox":[896.18,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/w3i1sfa9","slide":2,"name":"Google-Shape-340-p61-8","bbox":[485.84,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/r65knqtk","slide":2,"name":"Google-Shape-340-p61-9","bbox":[895.88,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/q5wjelsz","slide":2,"name":"Rounded-Rectangle-5-10","bbox":[40.77,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/ove9o7yd","slide":2,"name":"Content-Placeholder-9-11","text":"確定\n世界観、20章の因果、ytcの価値観、ソロ完結の体験。","textPreview":"確定 | 世界観、20章の因果、ytcの価値観、ソロ完結の体験。","textChars":30,"textLines":2,"bbox":[73.61,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/9wnqhczy","slide":2,"name":"Google-Shape-340-p61-12","bbox":[74.23,387.83,24.55,24.54]}
+{"kind":"textbox","id":"sh/mtwrmxg7","slide":2,"name":"Content-Placeholder-15-13","text":"DOCUMENT STATUS\n緊急指示の必須範囲を一冊に統合。確定／暫定／将来／責任者決定待ちを混同しない。\n","textPreview":"DOCUMENT STATUS | 緊急指示の必須範囲を一冊に統合。確定／暫定／将来／責任者決定待ちを混同しない。 |","textChars":56,"textLines":3,"bbox":[41.33,152.29,1197.33,171.05]}
+{"kind":"textbox","id":"sh/nu58f2hs","slide":2,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/wjy9sry9","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/xk7qlczu","slide":2,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"ONE-LINE PRODUCT DEFINITION","textShapes":5}
+{"kind":"textbox","id":"sh/m5cra54z","slide":3,"text":"ONE-LINE PRODUCT DEFINITION","textPreview":"ONE-LINE PRODUCT DEFINITION","textChars":27,"textLines":1,"bbox":[42,42,1060,32]}
+{"kind":"textbox","id":"sh/cza94vmx","slide":3,"text":"小さなPMCが、\n人間の拒否権を明日へ届ける。","textPreview":"小さなPMCが、 | 人間の拒否権を明日へ届ける。","textChars":23,"textLines":2,"bbox":[42,145,1125,260]}
+{"kind":"shape","id":"sh/d0jax03i","slide":3,"bbox":[42,452,120,8]}
+{"kind":"textbox","id":"sh/298ryl4v","slide":3,"text":"Windows PC向け2.5D装備収集メカアクション。射撃／近接／飛行／環境攻略と、戦利品／証拠収集を一つのループへ束ねる。","textPreview":"Windows PC向け2.5D装備収集メカアクション。射撃／近接／飛行／環境攻略と、戦利品／証拠収集を一つのループへ束ねる。","textChars":63,"textLines":1,"bbox":[42,495,1000,100]}
+{"kind":"textbox","id":"sh/3ah8rqlg","slide":3,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/obq90bml","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/pcjqtg36","slide":3,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"5つの体験ピラーが、同じ判断を別の角度から問う","textShapes":19}
+{"kind":"textbox","id":"sh/fu9sn2p0","slide":4,"text":"5つの体験ピラーが、同じ判断を別の角度から問う","textPreview":"5つの体験ピラーが、同じ判断を別の角度から問う","textChars":23,"textLines":1,"bbox":[42,36,1196,82]}
+{"kind":"textbox","id":"sh/1cj2d8b6","slide":4,"text":"中心価値は『最適解』ではなく、守る相手の顔を見て決める権利。","textPreview":"中心価値は『最適解』ではなく、守る相手の顔を見て決める権利。","textChars":30,"textLines":1,"bbox":[42,126,1196,60]}
+{"kind":"shape","id":"sh/0ba143al","slide":4,"bbox":[42,228,226.4,12]}
+{"kind":"textbox","id":"sh/rm1k7yt4","slide":4,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[42,264,226.4,26]}
+{"kind":"textbox","id":"sh/ql8jytsj","slide":4,"text":"読める\n2.5D戦闘","textPreview":"読める | 2.5D戦闘","textChars":10,"textLines":2,"bbox":[42,306,226.4,70]}
+{"kind":"textbox","id":"sh/doj29oba","slide":4,"text":"3Dメカの重量感を、横方向の明快な視点で提供。","textPreview":"3Dメカの重量感を、横方向の明快な視点で提供。","textChars":23,"textLines":1,"bbox":[42,388,226.4,220]}
+{"kind":"shape","id":"sh/sna103ap","slide":4,"bbox":[284.4,228,226.4,12]}
+{"kind":"textbox","id":"sh/3ihk3et8","slide":4,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[284.4,264,226.4,26]}
+{"kind":"textbox","id":"sh/ih8ju9sn","slide":4,"text":"射撃と近接の\n往復","textPreview":"射撃と近接の | 往復","textChars":9,"textLines":2,"bbox":[284.4,306,226.4,70]}
+{"kind":"textbox","id":"sh/kbm987y5","slide":4,"text":"安全な射撃と高リスク・高効果の近接を切り替える。","textPreview":"安全な射撃と高リスク・高効果の近接を切り替える。","textChars":24,"textLines":1,"bbox":[284.4,388,226.4,220]}
+{"kind":"shape","id":"sh/5cva1cfq","slide":4,"bbox":[526.8,228,226.4,12]}
+{"kind":"textbox","id":"sh/i94r6xgz","slide":4,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[526.8,264,226.4,26]}
+{"kind":"textbox","id":"sh/jadsz2xk","slide":4,"text":"任務へ答える\n装備","textPreview":"任務へ答える | 装備","textChars":9,"textLines":2,"bbox":[526.8,306,226.4,70]}
+{"kind":"textbox","id":"sh/w72947yt","slide":4,"text":"数値だけでなく寒冷・高熱・浸水・妨害へ回答する。","textPreview":"数値だけでなく寒冷・高熱・浸水・妨害へ回答する。","textChars":24,"textLines":1,"bbox":[526.8,388,226.4,220]}
+{"kind":"shape","id":"sh/x8vaxsfe","slide":4,"bbox":[769.2,228,226.4,12]}
+{"kind":"textbox","id":"sh/a5kr2xg3","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[769.2,264,226.4,26]}
+{"kind":"textbox","id":"sh/v6tsv2xo","slide":4,"text":"戦利品が\n証拠になる","textPreview":"戦利品が | 証拠になる","textChars":10,"textLines":2,"bbox":[769.2,306,226.4,70]}
+{"kind":"textbox","id":"sh/g36tgryd","slide":4,"text":"回収・強化・売却と陰謀追跡が同じ行為から進む。","textPreview":"回収・強化・売却と陰謀追跡が同じ行為から進む。","textChars":23,"textLines":1,"bbox":[769.2,388,226.4,220]}
+{"kind":"shape","id":"sh/h4fa9wfy","slide":4,"bbox":[1011.6,228,226.4,12]}
+{"kind":"textbox","id":"sh/p0batw72","slide":4,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1011.6,264,226.4,26]}
+{"kind":"textbox","id":"sh/oz29krqh","slide":4,"text":"15人の会社を\n守る","textPreview":"15人の会社を | 守る","textChars":10,"textLines":2,"bbox":[1011.6,306,226.4,70]}
+{"kind":"textbox","id":"sh/3ytsrmpw","slide":4,"text":"顔と責任が見える組織で、誰を守るかを決める。","textPreview":"顔と責任が見える組織で、誰を守るかを決める。","textChars":22,"textLines":1,"bbox":[1011.6,388,226.4,220]}
+{"kind":"textbox","id":"sh/2xkrih8b","slide":4,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/1wbapc7q","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/gv29g7q5","slide":4,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"2091年、民間武力が日常業務になった世界","textShapes":8}
+{"kind":"textbox","id":"sh/v2twb6dw","slide":5,"text":"2091年、民間武力が日常業務になった世界","textPreview":"2091年、民間武力が日常業務になった世界","textChars":21,"textLines":1,"bbox":[42,36,1196,80]}
+{"kind":"shape","id":"sh/dgbulwnm","slide":5,"bbox":[42,120,100,7]}
+{"kind":"textbox","id":"sh/cf2tcr61","slide":5,"text":"WORLD","textPreview":"WORLD","textChars":5,"textLines":1,"bbox":[42,160,540,45]}
+{"kind":"textbox","id":"sh/z2tcnm5s","slide":5,"text":"• 国家・企業・PMCが都市防衛、輸送、救助を分担\n• 攻殻装甲と無人兵器は高価だが一般化\n• 物流と武器データが紛争の規模を決める\n• 巨大企業の効率と、小組織の責任が対立","textPreview":"• 国家・企業・PMCが都市防衛、輸送、救助を分担 | • 攻殻装甲と無人兵器は高価だが一般化 | • 物流と武器データが紛争の規模を決める | • 巨大企業の効率と、小組織の責任が対立","textChars":87,"textLines":4,"bbox":[42,218,535,350]}
+{"kind":"shape","id":"sh/j6dwfqds","slide":5,"bbox":[620,155,1,410]}
+{"kind":"textbox","id":"sh/l4bupwny","slide":5,"text":"PLAYER PROMISE","textPreview":"PLAYER PROMISE","textChars":14,"textLines":1,"bbox":[664,160,574,45]}
+{"kind":"textbox","id":"sh/032tgr6d","slide":5,"text":"• 英雄ではなく、依頼を完遂して全員で帰る職業人\n• 敵を倒すだけでなく、救助・護衛・非致死を評価\n• 暗い軍事世界でも日常の温かさを失わない\n• 最終決戦後も、小さな配送依頼へ戻る","textPreview":"• 英雄ではなく、依頼を完遂して全員で帰る職業人 | • 敵を倒すだけでなく、救助・護衛・非致死を評価 | • 暗い軍事世界でも日常の温かさを失わない | • 最終決戦後も、小さな配送依頼へ戻る","textChars":91,"textLines":4,"bbox":[664,218,574,350]}
+{"kind":"shape","id":"sh/n6dcr65o","slide":5,"bbox":[42,585,1196,55]}
+{"kind":"textbox","id":"sh/m5kbi1oj","slide":5,"text":"世界の大きさより、『誰が責任を取るか』が物語の温度を決める。","textPreview":"世界の大きさより、『誰が責任を取るか』が物語の温度を決める。","textChars":30,"textLines":1,"bbox":[62,599,1156,28]}
+{"kind":"textbox","id":"sh/w32dkbuh","slide":5,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/x4vedgvm","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/ahkvi1cb","slide":5,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"ytcは、15人全員の専門性で巨大組織へ対抗する","textShapes":7}
+{"kind":"shape","id":"sh/j6dcr65c","slide":6,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/yhg7epsj","slide":6,"name":"Google-Shape-533-p58-3","text":"ytcは、15人全員の専門性で巨大組織へ対抗する","textPreview":"ytcは、15人全員の専門性で巨大組織へ対抗する","textChars":24,"textLines":1,"bbox":[41.33,36.17,1197.33,134.7]}
+{"kind":"shape","id":"sh/zi98nu94","slide":6,"name":"Rounded-Rectangle-9-4","bbox":[452.38,353.33,374.67,276]}
+{"kind":"shape","id":"sh/87ipkzal","slide":6,"name":"Rounded-Rectangle-10-5","bbox":[864,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/98rqt4r6","slide":6,"name":"Content-Placeholder-9-6","text":"弱み\n予備人員・補給・政治力・同時展開能力に乏しい。","textPreview":"弱み | 予備人員・補給・政治力・同時展開能力に乏しい。","textChars":26,"textLines":2,"bbox":[485.23,435.29,309.64,150.43]}
+{"kind":"textbox","id":"sh/ml07i9sv","slide":6,"name":"Content-Placeholder-10-7","text":"標語\nYour Tomorrow, Carried.\n『今日も笑顔を届けよう』","textPreview":"標語 | Your Tomorrow, Carried. | 『今日も笑顔を届けよう』","textChars":39,"textLines":3,"bbox":[896.18,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/7m98ru9g","slide":6,"name":"Google-Shape-340-p61-8","bbox":[485.84,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/oryp8fah","slide":6,"name":"Google-Shape-340-p61-9","bbox":[895.88,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/pc76hkr2","slide":6,"name":"Rounded-Rectangle-5-10","bbox":[40.77,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/h4bupgn6","slide":6,"name":"Content-Placeholder-9-11","text":"強み\n意思決定が速い。機密経路が少ない。全員の専門が見える。","textPreview":"強み | 意思決定が速い。機密経路が少ない。全員の専門が見える。","textChars":30,"textLines":2,"bbox":[73.61,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/w32twb6l","slide":6,"name":"Google-Shape-340-p61-12","bbox":[74.23,387.83,24.55,24.54]}
+{"kind":"textbox","id":"sh/v2tcn650","slide":6,"name":"Content-Placeholder-15-13","text":"ORG_YTC\nYTC Risk Management 合同会社。護衛・輸送・救助・危険地域評価を担う、小型倉庫本社のPMC。\n","textPreview":"ORG_YTC | YTC Risk Management 合同会社。護衛・輸送・救助・危険地域評価を担う、小型倉庫本社のPMC。 |","textChars":64,"textLines":3,"bbox":[41.33,152.29,1197.33,171.05]}
+{"kind":"textbox","id":"sh/u1kbu1ov","slide":6,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/5svutgni","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/47mt0b6x","slide":6,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"K1の未完成さは、人間が命令を拒める余白である","textShapes":8}
+{"kind":"textbox","id":"sh/cbq1sv25","slide":7,"text":"K1の未完成さは、人間が命令を拒める余白である","textPreview":"K1の未完成さは、人間が命令を拒める余白である","textChars":23,"textLines":1,"bbox":[42,36,1196,80]}
+{"kind":"shape","id":"sh/cb2tkvap","slide":7,"bbox":[42,120,100,7]}
+{"kind":"textbox","id":"sh/dcbud0ra","slide":7,"text":"K1 / COURIER","textPreview":"K1 / COURIER","textChars":12,"textLines":1,"bbox":[42,160,540,45]}
+{"kind":"textbox","id":"sh/ydkbm5sv","slide":7,"text":"• 山田専用の外部試験機。射撃・近接・飛行を統合\n• 修理痕と左右非対称の試験部品を残す実用品\n• Stage I〜IV、FINALで段階改修\n• 第13章以降、山田は正式な現場リーダー","textPreview":"• 山田専用の外部試験機。射撃・近接・飛行を統合 | • 修理痕と左右非対称の試験部品を残す実用品 | • Stage I〜IV、FINALで段階改修 | • 第13章以降、山田は正式な現場リーダー","textChars":93,"textLines":4,"bbox":[42,218,535,350]}
+{"kind":"shape","id":"sh/o761ov2t","slide":7,"bbox":[620,155,1,410]}
+{"kind":"textbox","id":"sh/kzmdova1","slide":7,"text":"LARK / REFUSAL CORE","textPreview":"LARK / REFUSAL CORE","textChars":19,"textLines":1,"bbox":[664,160,574,45]}
+{"kind":"textbox","id":"sh/l0vuh0rm","slide":7,"text":"• 神楽美緒が設計した独立認証核\n• ORPHEUSに汚染されていない同系統コア\n• 外部停止命令を拒否し、不正命令を証明\n• 最終的に物理停止鍵を届ける媒体となる","textPreview":"• 神楽美緒が設計した独立認証核 | • ORPHEUSに汚染されていない同系統コア | • 外部停止命令を拒否し、不正命令を証明 | • 最終的に物理停止鍵を届ける媒体となる","textChars":82,"textLines":4,"bbox":[664,218,574,350]}
+{"kind":"shape","id":"sh/eh0ba1sr","slide":7,"bbox":[42,585,1196,55]}
+{"kind":"textbox","id":"sh/fi9c369c","slide":7,"text":"最終操作は特殊QTEではなく、通常の『アイテム使用』。基本動作で物語を終える。","textPreview":"最終操作は特殊QTEではなく、通常の『アイテム使用』。基本動作で物語を終える。","textChars":39,"textLines":1,"bbox":[62,599,1156,28]}
+{"kind":"textbox","id":"sh/baxkjqlk","slide":7,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/a9ojq5kz","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/xcz2l03q","slide":7,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"対立は、兵器ではなく『誰が判断するか』にある","textShapes":7}
+{"kind":"shape","id":"sh/ehgvihwr","slide":8,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/18byd4zy","slide":8,"name":"Google-Shape-533-p58-3","text":"対立は、兵器ではなく『誰が判断するか』にある","textPreview":"対立は、兵器ではなく『誰が判断するか』にある","textChars":22,"textLines":1,"bbox":[41.33,36.17,1197.33,134.7]}
+{"kind":"shape","id":"sh/g72x4zyd","slide":8,"name":"Rounded-Rectangle-9-4","bbox":[452.38,353.33,374.67,276]}
+{"kind":"shape","id":"sh/ri9g7uhw","slide":8,"name":"Rounded-Rectangle-10-5","bbox":[864,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/6h0fypgb","slide":8,"name":"Content-Placeholder-9-6","text":"ORPHEUS\n実戦データを集め、需要が落ちた地域へ武器と偽情報を流す。","textPreview":"ORPHEUS | 実戦データを集め、需要が落ちた地域へ武器と偽情報を流す。","textChars":36,"textLines":2,"bbox":[485.23,435.29,309.64,150.43]}
+{"kind":"textbox","id":"sh/tkby9kzm","slide":8,"name":"Content-Placeholder-10-7","text":"真壁 宗一\n人の拒否権を欠陥とみなし、K2〜K8とKΩを完成させる。","textPreview":"真壁 宗一 | 人の拒否権を欠陥とみなし、K2〜K8とKΩを完成させる。","textChars":34,"textLines":2,"bbox":[896.18,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/sjix0zy1","slide":8,"name":"Google-Shape-340-p61-8","bbox":[485.84,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/je9g3ahk","slide":8,"name":"Google-Shape-340-p61-9","bbox":[895.88,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/id0fu50z","slide":8,"name":"Rounded-Rectangle-5-10","bbox":[40.77,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/o7ydoret","slide":8,"name":"Content-Placeholder-9-11","text":"BLACK RAIL\n兵器物流・資金洗浄・偽装契約。戦争を運ぶ黒い流通網。","textPreview":"BLACK RAIL | 兵器物流・資金洗浄・偽装契約。戦争を運ぶ黒い流通網。","textChars":37,"textLines":2,"bbox":[73.61,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/98rehwve","slide":8,"name":"Google-Shape-340-p61-12","bbox":[74.23,387.83,24.55,24.54]}
+{"kind":"textbox","id":"sh/m5gvmhwn","slide":8,"name":"Content-Placeholder-15-13","text":"ANTAGONISTIC SYSTEM\n真壁宗一は戦争需要生成システムORPHEUSを通じ、効率のために人間の迷いを排除する。\n","textPreview":"ANTAGONISTIC SYSTEM | 真壁宗一は戦争需要生成システムORPHEUSを通じ、効率のために人間の迷いを排除する。 |","textChars":64,"textLines":3,"bbox":[41.33,152.29,1197.33,171.05]}
+{"kind":"textbox","id":"sh/n6pwfmd8","slide":8,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/0jydkreh","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/1k7edwv2","slide":8,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"一発の違法弾から、世界規模の戦争需要生成へ至る","textShapes":19}
+{"kind":"textbox","id":"sh/va103ep4","slide":9,"text":"一発の違法弾から、世界規模の戦争需要生成へ至る","textPreview":"一発の違法弾から、世界規模の戦争需要生成へ至る","textChars":23,"textLines":1,"bbox":[42,36,1196,82]}
+{"kind":"textbox","id":"sh/1cfmhgne","slide":9,"text":"調査の進行とシステム解放を同期させ、伏線がゲーム機能へ変わる。","textPreview":"調査の進行とシステム解放を同期させ、伏線がゲーム機能へ変わる。","textChars":31,"textLines":1,"bbox":[42,126,1196,60]}
+{"kind":"shape","id":"sh/0b65obm9","slide":9,"bbox":[42,228,226.4,12]}
+{"kind":"textbox","id":"sh/nex4jq5k","slide":9,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[42,264,226.4,26]}
+{"kind":"textbox","id":"sh/mdonql4z","slide":9,"text":"違法弾","textPreview":"違法弾","textChars":3,"textLines":1,"bbox":[42,306,226.4,70]}
+{"kind":"textbox","id":"sh/9gzml0nq","slide":9,"text":"第2章。削られた製造番号が最初の火種。","textPreview":"第2章。削られた製造番号が最初の火種。","textChars":19,"textLines":1,"bbox":[42,388,226.4,220]}
+{"kind":"shape","id":"sh/ofq5svm5","slide":9,"bbox":[284.4,228,226.4,12]}
+{"kind":"textbox","id":"sh/bih4na5w","slide":9,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[284.4,264,226.4,26]}
+{"kind":"textbox","id":"sh/ah8nu54b","slide":9,"text":"誘拐","textPreview":"誘拐","textChars":2,"textLines":1,"bbox":[284.4,306,226.4,70]}
+{"kind":"textbox","id":"sh/oza1gfyh","slide":9,"text":"第3章。美緒とLARKを確保しようとする。","textPreview":"第3章。美緒とLARKを確保しようとする。","textChars":21,"textLines":1,"bbox":[284.4,388,226.4,220]}
+{"kind":"shape","id":"sh/p0ji9kf2","slide":9,"bbox":[526.8,228,226.4,12]}
+{"kind":"textbox","id":"sh/2xsjepgb","slide":9,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[526.8,264,226.4,26]}
+{"kind":"textbox","id":"sh/3y107axw","slide":9,"text":"流通網","textPreview":"流通網","textChars":3,"textLines":1,"bbox":[526.8,306,226.4,70]}
+{"kind":"textbox","id":"sh/cnu1kzyd","slide":9,"text":"第4〜8章。荷札・港・地下線・承認鍵を追う。","textPreview":"第4〜8章。荷札・港・地下線・承認鍵を追う。","textChars":22,"textLines":1,"bbox":[526.8,388,226.4,220]}
+{"kind":"shape","id":"sh/do3id4fy","slide":9,"bbox":[769.2,228,226.4,12]}
+{"kind":"textbox","id":"sh/qlcjipgn","slide":9,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[769.2,264,226.4,26]}
+{"kind":"textbox","id":"sh/bml0buxs","slide":9,"text":"需要生成","textPreview":"需要生成","textChars":4,"textLines":1,"bbox":[769.2,306,226.4,70]}
+{"kind":"textbox","id":"sh/0ru1ozyp","slide":9,"text":"第9〜16章。偽旗・濡れ衣・遠隔暴走の全貌。","textPreview":"第9〜16章。偽旗・濡れ衣・遠隔暴走の全貌。","textChars":22,"textLines":1,"bbox":[769.2,388,226.4,220]}
+{"kind":"shape","id":"sh/lsn2h4fa","slide":9,"bbox":[1011.6,228,226.4,12]}
+{"kind":"textbox","id":"sh/98ji147e","slide":9,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1011.6,264,226.4,26]}
+{"kind":"textbox","id":"sh/87a18zqt","slide":9,"text":"停止配送","textPreview":"停止配送","textChars":4,"textLines":1,"bbox":[1011.6,306,226.4,70]}
+{"kind":"textbox","id":"sh/76h0zup8","slide":9,"text":"第17〜20章。物流、命令、中枢を順に止める。","textPreview":"第17〜20章。物流、命令、中枢を順に止める。","textChars":23,"textLines":1,"bbox":[1011.6,388,226.4,220]}
+{"kind":"textbox","id":"sh/ml8j6p8n","slide":9,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/hcji5o7a","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/wba1cjqp","slide":9,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"全20章は、5幕で緊張と主体性を上げる","textShapes":19}
+{"kind":"textbox","id":"sh/jypcrqd4","slide":10,"text":"全20章は、5幕で緊張と主体性を上げる","textPreview":"全20章は、5幕で緊張と主体性を上げる","textChars":19,"textLines":1,"bbox":[42,36,1196,82]}
+{"kind":"textbox","id":"sh/xc3mho32","slide":10,"text":"日常の夕景 → 地下と雪 → 砂漠と封鎖都市 → 青空と救助 → 夜明けの橙。","textPreview":"日常の夕景 → 地下と雪 → 砂漠と封鎖都市 → 青空と救助 → 夜明けの橙。","textChars":39,"textLines":1,"bbox":[42,126,1196,60]}
+{"kind":"shape","id":"sh/cbu58j2h","slide":10,"bbox":[42,228,226.4,12]}
+{"kind":"textbox","id":"sh/zelojyl8","slide":10,"text":"CH 01–04","textPreview":"CH 01–04","textChars":8,"textLines":1,"bbox":[42,264,226.4,26]}
+{"kind":"textbox","id":"sh/ydcnatkn","slide":10,"text":"拾った火種","textPreview":"拾った火種","textChars":5,"textLines":1,"bbox":[42,306,226.4,70]}
+{"kind":"textbox","id":"sh/l036l83y","slide":10,"text":"K1試験／違法弾／美緒誘拐／空の救出地点","textPreview":"K1試験／違法弾／美緒誘拐／空の救出地点","textChars":20,"textLines":1,"bbox":[42,388,226.4,220]}
+{"kind":"shape","id":"sh/kzu5c32t","slide":10,"bbox":[284.4,228,226.4,12]}
+{"kind":"textbox","id":"sh/725onyl4","slide":10,"text":"CH 05–08","textPreview":"CH 05–08","textChars":8,"textLines":1,"bbox":[284.4,264,226.4,26]}
+{"kind":"textbox","id":"sh/m1cnetkj","slide":10,"text":"黒い流通網","textPreview":"黒い流通網","textChars":5,"textLines":1,"bbox":[284.4,306,226.4,70]}
+{"kind":"textbox","id":"sh/s7yt4b21","slide":10,"text":"地下線／偽旗港／雪山護衛／囚われ人の放送","textPreview":"地下線／偽旗港／雪山護衛／囚われ人の放送","textChars":20,"textLines":1,"bbox":[284.4,388,226.4,220]}
+{"kind":"shape","id":"sh/d87uxg3m","slide":10,"bbox":[526.8,228,226.4,12]}
+{"kind":"textbox","id":"sh/q5gb21kb","slide":10,"text":"CH 09–12","textPreview":"CH 09–12","textChars":8,"textLines":1,"bbox":[526.8,264,226.4,26]}
+{"kind":"textbox","id":"sh/r6pcv6lw","slide":10,"text":"鎧の値段","textPreview":"鎧の値段","textChars":4,"textLines":1,"bbox":[526.8,306,226.4,70]}
+{"kind":"textbox","id":"sh/0bit8b2d","slide":10,"text":"兵器市場／K1停止／濡れ衣／本社防衛","textPreview":"兵器市場／K1停止／濡れ衣／本社防衛","textChars":18,"textLines":1,"bbox":[526.8,388,226.4,220]}
+{"kind":"shape","id":"sh/1cru1g3y","slide":10,"bbox":[769.2,228,226.4,12]}
+{"kind":"textbox","id":"sh/e9gb61k7","slide":10,"text":"CH 13–16","textPreview":"CH 13–16","textChars":8,"textLines":1,"bbox":[769.2,264,226.4,26]}
+{"kind":"textbox","id":"sh/fapcz6ls","slide":10,"text":"誰に届けるか","textPreview":"誰に届けるか","textChars":6,"textLines":1,"bbox":[769.2,306,226.4,70]}
+{"kind":"textbox","id":"sh/ozitcv29","slide":10,"text":"共闘／空中戦／美緒救出／民間人救助","textPreview":"共闘／空中戦／美緒救出／民間人救助","textChars":17,"textLines":1,"bbox":[769.2,388,226.4,220]}
+{"kind":"shape","id":"sh/p0ru503u","slide":10,"bbox":[1011.6,228,226.4,12]}
+{"kind":"textbox","id":"sh/xwnupgvy","slide":10,"text":"CH 17–20","textPreview":"CH 17–20","textChars":8,"textLines":1,"bbox":[1011.6,264,226.4,26]}
+{"kind":"textbox","id":"sh/wvetgbud","slide":10,"text":"明日を届ける","textPreview":"明日を届ける","textChars":6,"textLines":1,"bbox":[1011.6,306,226.4,70]}
+{"kind":"textbox","id":"sh/bu5cnqd8","slide":10,"text":"物流停止／五都市／Kの系譜／ORPHEUS停止","textPreview":"物流停止／五都市／Kの系譜／ORPHEUS停止","textChars":23,"textLines":1,"bbox":[1011.6,388,226.4,220]}
+{"kind":"textbox","id":"sh/atwbelcn","slide":10,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/lk7ut0va","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/kjytkvup","slide":10,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"第一幕：拾った火種 — 仕事の延長で陰謀へ触れる","textShapes":7}
+{"kind":"shape","id":"sh/epobatgr","slide":11,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/xcryxg7y","slide":11,"name":"Google-Shape-533-p58-3","text":"第一幕：拾った火種 — 仕事の延長で陰謀へ触れる","textPreview":"第一幕：拾った火種 — 仕事の延長で陰謀へ触れる","textChars":24,"textLines":1,"bbox":[41.33,36.17,1197.33,134.7]}
+{"kind":"shape","id":"sh/wbih4b6d","slide":11,"name":"Rounded-Rectangle-9-4","bbox":[452.38,353.33,374.67,276]}
+{"kind":"shape","id":"sh/n69grmpw","slide":11,"name":"Rounded-Rectangle-10-5","bbox":[864,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/250zy18b","slide":11,"name":"Content-Placeholder-9-6","text":"CH 03\n病院から美緒を精密誘拐。非武装救助と車両チェイス。","textPreview":"CH 03 | 病院から美緒を精密誘拐。非武装救助と車両チェイス。","textChars":31,"textLines":2,"bbox":[485.23,435.29,309.64,150.43]}
+{"kind":"textbox","id":"sh/98rytw72","slide":11,"name":"Content-Placeholder-10-7","text":"CH 04\n空の拠点で旧式機甲兵。黒いレール荷札を発見。","textPreview":"CH 04 | 空の拠点で旧式機甲兵。黒いレール荷札を発見。","textChars":28,"textLines":2,"bbox":[896.18,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/o7ih0r6h","slide":11,"name":"Google-Shape-340-p61-8","bbox":[485.84,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/72t03qp0","slide":11,"name":"Google-Shape-340-p61-9","bbox":[895.88,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/61kzalof","slide":11,"name":"Rounded-Rectangle-5-10","bbox":[40.77,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/ofqtgnyt","slide":11,"name":"Content-Placeholder-9-11","text":"CH 01–02\nK1試験と初仕事。安全な射撃／装甲を剥がす近接／ドロップ。","textPreview":"CH 01–02 | K1試験と初仕事。安全な射撃／装甲を剥がす近接／ドロップ。","textChars":38,"textLines":2,"bbox":[73.61,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/9gza9sze","slide":11,"name":"Google-Shape-340-p61-12","bbox":[74.23,387.83,24.55,24.54]}
+{"kind":"textbox","id":"sh/mdobedg3","slide":11,"name":"Content-Placeholder-15-13","text":"ACT THESIS\n基本操作を学ぶほど、K1と違法弾の異常性が見えてくる。\n","textPreview":"ACT THESIS | 基本操作を学ぶほど、K1と違法弾の異常性が見えてくる。 |","textChars":39,"textLines":3,"bbox":[41.33,152.29,1197.33,171.05]}
+{"kind":"textbox","id":"sh/nehs7iho","slide":11,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/0b6tc3yx","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/1cfa58zi","slide":11,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"第二幕：黒い流通網 — 環境を越え、兵器の声を拾う","textShapes":7}
+{"kind":"shape","id":"sh/mps7a5or","slide":12,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/1gbm9s3a","slide":12,"name":"Google-Shape-533-p58-3","text":"第二幕：黒い流通網 — 環境を越え、兵器の声を拾う","textPreview":"第二幕：黒い流通網 — 環境を越え、兵器の声を拾う","textChars":25,"textLines":1,"bbox":[41.33,36.17,1197.33,134.7]}
+{"kind":"shape","id":"sh/0f2lgnmp","slide":12,"name":"Rounded-Rectangle-9-4","bbox":[452.38,353.33,374.67,276]}
+{"kind":"shape","id":"sh/ra943il8","slide":12,"name":"Rounded-Rectangle-10-5","bbox":[864,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/q903ad4n","slide":12,"name":"Content-Placeholder-9-6","text":"CH 07\n雨宮透を護衛。寒冷・吹雪・狙撃。ORPHEUS名を復号。","textPreview":"CH 07 | 雨宮透を護衛。寒冷・吹雪・狙撃。ORPHEUS名を復号。","textChars":34,"textLines":2,"bbox":[485.23,435.29,309.64,150.43]}
+{"kind":"textbox","id":"sh/dcbm583y","slide":12,"name":"Content-Placeholder-10-7","text":"CH 08\n美緒の分割通信。ジャミング下で防衛し、真相を聞く。","textPreview":"CH 08 | 美緒の分割通信。ジャミング下で防衛し、真相を聞く。","textChars":31,"textLines":2,"bbox":[896.18,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/sb2lcnmd","slide":12,"name":"Google-Shape-340-p61-8","bbox":[485.84,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/b6d4f2lc","slide":12,"name":"Google-Shape-340-p61-9","bbox":[895.88,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/a543mx4r","slide":12,"name":"Rounded-Rectangle-5-10","bbox":[40.77,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/wvupgz6t","slide":12,"name":"Content-Placeholder-9-11","text":"CH 05–06\n浸水・ガス・列車・警報。BLACK RAILの物理物流を可視化。","textPreview":"CH 05–06 | 浸水・ガス・列車・警報。BLACK RAILの物理物流を可視化。","textChars":41,"textLines":2,"bbox":[73.61,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/xw3q94ne","slide":12,"name":"Google-Shape-340-p61-12","bbox":[74.23,387.83,24.55,24.54]}
+{"kind":"textbox","id":"sh/atc7epon","slide":12,"name":"Content-Placeholder-15-13","text":"ACT THESIS\n地下・港・雪山・通信所を進み、物流と社内承認鍵を結ぶ。\n","textPreview":"ACT THESIS | 地下・港・雪山・通信所を進み、物流と社内承認鍵を結ぶ。 |","textChars":39,"textLines":3,"bbox":[41.33,152.29,1197.33,171.05]}
+{"kind":"textbox","id":"sh/bulo7u58","slide":12,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/orapcf6h","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/9sj65kn2","slide":12,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"第三幕：鎧の値段 — 力を失い、会社の価値を選ぶ","textShapes":7}
+{"kind":"shape","id":"sh/7mdg3als","slide":13,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/q50nydsj","slide":13,"name":"Google-Shape-533-p58-3","text":"第三幕：鎧の値段 — 力を失い、会社の価値を選ぶ","textPreview":"第三幕：鎧の値段 — 力を失い、会社の価値を選ぶ","textChars":24,"textLines":1,"bbox":[41.33,36.17,1197.33,134.7]}
+{"kind":"shape","id":"sh/bq9orito","slide":13,"name":"Rounded-Rectangle-9-4","bbox":[452.38,353.33,374.67,276]}
+{"kind":"shape","id":"sh/o3i5w3ad","slide":13,"name":"Rounded-Rectangle-10-5","bbox":[864,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/p4r6p8by","slide":13,"name":"Content-Placeholder-9-6","text":"CH 11\nytcへ濡れ衣。非致死・同行支援で全員を退避。","textPreview":"CH 11 | ytcへ濡れ衣。非致死・同行支援で全員を退避。","textChars":29,"textLines":2,"bbox":[485.23,435.29,309.64,150.43]}
+{"kind":"textbox","id":"sh/21gnuts7","slide":13,"name":"Content-Placeholder-10-7","text":"CH 12\n本社の日常空間を防衛。ヴァイスを拘束し証言を得る。","textPreview":"CH 12 | 本社の日常空間を防衛。ヴァイスを拘束し証言を得る。","textChars":31,"textLines":2,"bbox":[896.18,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/32ponyts","slide":13,"name":"Google-Shape-340-p61-8","bbox":[485.84,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/gzy5s3a1","slide":13,"name":"Google-Shape-340-p61-9","bbox":[895.88,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/1076lobm","slide":13,"name":"Rounded-Rectangle-5-10","bbox":[40.77,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/hcfy9k3u","slide":13,"name":"Content-Placeholder-9-11","text":"CH 09–10\n砂漠競売で端末接続。K1停止後、緊急外骨格で奪還。","textPreview":"CH 09–10 | 砂漠競売で端末接続。K1停止後、緊急外骨格で奪還。","textChars":34,"textLines":2,"bbox":[73.61,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/gb6x0zm9","slide":13,"name":"Google-Shape-340-p61-12","bbox":[74.23,387.83,24.55,24.54]}
+{"kind":"textbox","id":"sh/vaxg7ulo","slide":13,"name":"Content-Placeholder-15-13","text":"ACT THESIS\n装備の便利さと組織の信用を奪われても、15人で帰る。\n","textPreview":"ACT THESIS | 装備の便利さと組織の信用を奪われても、15人で帰る。 |","textChars":38,"textLines":3,"bbox":[41.33,152.29,1197.33,171.05]}
+{"kind":"textbox","id":"sh/u9ofyp43","slide":13,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/t8fy5k3i","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/876xwfmx","slide":13,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"第四幕：誰に届けるか — 競争より救助を選ぶ","textShapes":7}
+{"kind":"shape","id":"sh/y5wjitgj","slide":14,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/xc7eds76","slide":14,"name":"Google-Shape-533-p58-3","text":"第四幕：誰に届けるか — 競争より救助を選ぶ","textPreview":"第四幕：誰に届けるか — 競争より救助を選ぶ","textChars":22,"textLines":1,"bbox":[41.33,36.17,1197.33,134.7]}
+{"kind":"shape","id":"sh/wbydknq1","slide":14,"name":"Rounded-Rectangle-9-4","bbox":[452.38,353.33,374.67,276]}
+{"kind":"shape","id":"sh/jepwf2pc","slide":14,"name":"Rounded-Rectangle-10-5","bbox":[864,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/idgvmx8r","slide":14,"name":"Content-Placeholder-9-6","text":"CH 15\n美緒を『令嬢』でなく技術者として救出。LARKの意味を知る。","textPreview":"CH 15 | 美緒を『令嬢』でなく技術者として救出。LARKの意味を知る。","textChars":36,"textLines":2,"bbox":[485.23,435.29,309.64,150.43]}
+{"kind":"textbox","id":"sh/5grehs7i","slide":14,"name":"Content-Placeholder-10-7","text":"CH 16\n偽旗攻撃下で民間人救助。ytcの信用を現場で取り戻す。","textPreview":"CH 16 | 偽旗攻撃下で民間人救助。ytcの信用を現場で取り戻す。","textChars":33,"textLines":2,"bbox":[896.18,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/kfidonqx","slide":14,"name":"Google-Shape-340-p61-8","bbox":[485.84,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/zi5c3y98","slide":14,"name":"Google-Shape-340-p61-9","bbox":[895.88,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/ehwvat8n","slide":14,"name":"Rounded-Rectangle-5-10","bbox":[40.77,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/c3e1gjyd","slide":14,"name":"Content-Placeholder-9-11","text":"CH 13–14\nバスティオン・ナインと共闘。山田は現場リーダーへ。","textPreview":"CH 13–14 | バスティオン・ナインと共闘。山田は現場リーダーへ。","textChars":34,"textLines":2,"bbox":[73.61,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/x4ni9ofy","slide":14,"name":"Google-Shape-340-p61-12","bbox":[74.23,387.83,24.55,24.54]}
+{"kind":"textbox","id":"sh/a1wze9g7","slide":14,"name":"Content-Placeholder-15-13","text":"ACT THESIS\n共闘・空中戦・美緒救出を経て、証拠より市民の命を優先する。\n","textPreview":"ACT THESIS | 共闘・空中戦・美緒救出を経て、証拠より市民の命を優先する。 |","textChars":41,"textLines":3,"bbox":[41.33,152.29,1197.33,171.05]}
+{"kind":"textbox","id":"sh/b2507exs","slide":14,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/kre1k3y9","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/ls7idofu","slide":14,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/vaxsvy10","slide":15,"title":"第五幕：明日を届ける — 物流、命令、思想を順に止める","textShapes":7}
+{"kind":"shape","id":"sh/it4rm5wv","slide":15,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/547mhg3m","slide":15,"name":"Google-Shape-533-p58-3","text":"第五幕：明日を届ける — 物流、命令、思想を順に止める","textPreview":"第五幕：明日を届ける — 物流、命令、思想を順に止める","textChars":27,"textLines":1,"bbox":[41.33,36.17,1197.33,134.7]}
+{"kind":"shape","id":"sh/k3y5ov21","slide":15,"name":"Rounded-Rectangle-9-4","bbox":[452.38,353.33,374.67,276]}
+{"kind":"shape","id":"sh/76p4jqls","slide":15,"name":"Rounded-Rectangle-10-5","bbox":[864,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/65gnqlk7","slide":15,"name":"Content-Placeholder-9-6","text":"CH 19\nK2〜K8を越え、K1の弱さが自由の余地だと証明。","textPreview":"CH 19 | K2〜K8を越え、K1の弱さが自由の余地だと証明。","textChars":31,"textLines":2,"bbox":[485.23,435.29,309.64,150.43]}
+{"kind":"textbox","id":"sh/t87ml0ji","slide":15,"name":"Content-Placeholder-10-7","text":"CH 20\nクワイアとKΩを撃破。通常のアイテム使用で停止鍵を届ける。","textPreview":"CH 20 | クワイアとKΩを撃破。通常のアイテム使用で停止鍵を届ける。","textChars":35,"textLines":2,"bbox":[896.18,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/s7y5sv2x","slide":15,"name":"Google-Shape-340-p61-8","bbox":[485.84,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/na5476l8","slide":15,"name":"Google-Shape-340-p61-9","bbox":[895.88,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/m9c3e1kn","slide":15,"name":"Rounded-Rectangle-5-10","bbox":[40.77,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/wrm9kvep","slide":15,"name":"Content-Placeholder-9-11","text":"CH 17–18\nBLACK RAIL中枢と五都市命令を停止。侵食兵器は救済可能。","textPreview":"CH 17–18 | BLACK RAIL中枢と五都市命令を停止。侵食兵器は救済可能。","textChars":41,"textLines":2,"bbox":[73.61,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/hsvat0fa","slide":15,"name":"Google-Shape-340-p61-12","bbox":[74.23,387.83,24.55,24.54]}
+{"kind":"textbox","id":"sh/upkrilwj","slide":15,"name":"Content-Placeholder-15-13","text":"ACT THESIS\n過去の全ルールを総復習し、人間の拒否権を守る最終配送へ。\n","textPreview":"ACT THESIS | 過去の全ルールを総復習し、人間の拒否権を守る最終配送へ。 |","textChars":40,"textLines":3,"bbox":[41.33,152.29,1197.33,171.05]}
+{"kind":"textbox","id":"sh/vqdsrqx4","slide":15,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/4vm9ovel","slide":15,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/5wvax0f6","slide":15,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/gny5sjyp","slide":16,"title":"物語上の矛盾を、制作正典として解消する","textShapes":4}
+{"kind":"shape","id":"sh/ip4zel83","slide":16,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/8z2h8bq1","slide":16,"name":"Google-Shape-533-p58-3","text":"物語上の矛盾を、制作正典として解消する","textPreview":"物語上の矛盾を、制作正典として解消する","textChars":19,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/9kby1g7m","slide":16,"name":"Content-Placeholder-15-4","text":"REFERENCE\nプロデューサー決定。章進行表と詳細設定へ反映する基準。","textPreview":"REFERENCE | プロデューサー決定。章進行表と詳細設定へ反映する基準。","textChars":37,"textLines":2,"bbox":[42.09,111.02,1197.33,106.27]}
+{"kind":"textbox","id":"sh/zutgvm94","slide":16,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/kv2h4rqp","slide":16,"text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/lwbyxwra","slide":16,"bbox":[42,660,54,4]}
+{"kind":"table","id":"tb/ahc3ypgj","slide":16,"name":"Google-Shape-644-p93-5","rows":7,"cols":3,"preview":"論点 | 確定判断 | ゲームへの影響","bbox":[41.33,236.33,1197.33,412.87]}
+{"kind":"slide","id":"sl/14bup87q","slide":17,"title":"任務→回収→帰還→成長→再出撃が、物語の証拠線を進める","textShapes":19}
+{"kind":"textbox","id":"sh/zul836xg","slide":17,"text":"任務→回収→帰還→成長→再出撃が、物語の証拠線を進める","textPreview":"任務→回収→帰還→成長→再出撃が、物語の証拠線を進める","textChars":27,"textLines":1,"bbox":[42,36,1196,82]}
+{"kind":"textbox","id":"sh/1c7e50ni","slide":17,"text":"戦利品収集を物語から切り離さず、『兵器が記録している』を遊びにする。","textPreview":"戦利品収集を物語から切り離さず、『兵器が記録している』を遊びにする。","textChars":34,"textLines":1,"bbox":[42,126,1196,60]}
+{"kind":"shape","id":"sh/gbedwfmx","slide":17,"bbox":[42,228,226.4,12]}
+{"kind":"textbox","id":"sh/rm5czq50","slide":17,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[42,264,226.4,26]}
+{"kind":"textbox","id":"sh/6lwvql4v","slide":17,"text":"受注・準備","textPreview":"受注・準備","textChars":5,"textLines":1,"bbox":[42,306,226.4,70]}
+{"kind":"textbox","id":"sh/t8ne10n6","slide":17,"text":"目的、環境、推奨装備を確認。プリセットを選ぶ。","textPreview":"目的、環境、推奨装備を確認。プリセットを選ぶ。","textChars":23,"textLines":1,"bbox":[42,388,226.4,220]}
+{"kind":"shape","id":"sh/snedsvml","slide":17,"bbox":[284.4,228,226.4,12]}
+{"kind":"textbox","id":"sh/jilcvq54","slide":17,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[284.4,264,226.4,26]}
+{"kind":"textbox","id":"sh/ihcvml4j","slide":17,"text":"出撃","textPreview":"出撃","textChars":2,"textLines":1,"bbox":[284.4,306,226.4,70]}
+{"kind":"textbox","id":"sh/4by9or6l","slide":17,"text":"戦闘・移動・救助・ギミックを一つの任務へ統合。","textPreview":"戦闘・移動・救助・ギミックを一つの任務へ統合。","textChars":23,"textLines":1,"bbox":[284.4,388,226.4,220]}
+{"kind":"shape","id":"sh/pc7qhwn6","slide":17,"bbox":[526.8,228,226.4,12]}
+{"kind":"textbox","id":"sh/29grm1of","slide":17,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[526.8,264,226.4,26]}
+{"kind":"textbox","id":"sh/3ap8fm50","slide":17,"text":"回収","textPreview":"回収","textChars":2,"textLines":1,"bbox":[526.8,306,226.4,70]}
+{"kind":"textbox","id":"sh/gnepkr69","slide":17,"text":"装備、素材、通貨、情報、証拠を取得。","textPreview":"装備、素材、通貨、情報、証拠を取得。","textChars":18,"textLines":1,"bbox":[526.8,388,226.4,220]}
+{"kind":"shape","id":"sh/honqdwnu","slide":17,"bbox":[769.2,228,226.4,12]}
+{"kind":"textbox","id":"sh/ulw7ihoj","slide":17,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[769.2,264,226.4,26]}
+{"kind":"textbox","id":"sh/fm58bm54","slide":17,"text":"帰還","textPreview":"帰還","textChars":2,"textLines":1,"bbox":[769.2,306,226.4,70]}
+{"kind":"textbox","id":"sh/0ji9wb6t","slide":17,"text":"鑑定、強化、分解、売却、証拠解析、人物会話。","textPreview":"鑑定、強化、分解、売却、証拠解析、人物会話。","textChars":22,"textLines":1,"bbox":[769.2,388,226.4,220]}
+{"kind":"shape","id":"sh/14rqpgne","slide":17,"bbox":[1011.6,228,226.4,12]}
+{"kind":"textbox","id":"sh/90nq9gfi","slide":17,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1011.6,264,226.4,26]}
+{"kind":"textbox","id":"sh/8ze9gbyx","slide":17,"text":"再構築","textPreview":"再構築","textChars":3,"textLines":1,"bbox":[1011.6,306,226.4,70]}
+{"kind":"textbox","id":"sh/ny5876xc","slide":17,"text":"次の敵・環境へ答える装備で再出撃。","textPreview":"次の敵・環境へ答える装備で再出撃。","textChars":17,"textLines":1,"bbox":[1011.6,388,226.4,220]}
+{"kind":"textbox","id":"sh/mxw7e1gr","slide":17,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/lwnq5gf6","slide":17,"text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/0vepcbyl","slide":17,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/y5wne50z","slide":18,"title":"1ステージ8〜15分で、理解・判断・試験を一回ずつ行う","textShapes":9}
+{"kind":"shape","id":"sh/to72pw76","slide":18,"name":"Slide-Number-Placeholder-3-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/wrelszu9","slide":18,"name":"Title-10-3","text":"1ステージ8〜15分で、理解・判断・試験を一回ずつ行う","textPreview":"1ステージ8〜15分で、理解・判断・試験を一回ずつ行う","textChars":27,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"shape","id":"sh/bi94zqp4","slide":18,"name":"Google-Shape-2259-p159-4","bbox":[35.46,354.2,1203.08,0.03]}
+{"kind":"shape","id":"sh/itw3upcf","slide":18,"name":"Google-Shape-2260-p159-5","bbox":[35.46,348.58,11.24,11.24]}
+{"kind":"shape","id":"sh/je5knut0","slide":18,"name":"Google-Shape-2261-p159-6","bbox":[446.38,348.58,11.24,11.24]}
+{"kind":"shape","id":"sh/4felwzu5","slide":18,"name":"Google-Shape-2262-p159-7","bbox":[858.38,348.58,11.24,11.24]}
+{"kind":"textbox","id":"sh/5gnmp4bq","slide":18,"name":"Content-Placeholder-15-8","text":"ENTER","textPreview":"ENTER","textChars":5,"textLines":1,"bbox":[41.33,298.51,169.33,27.55]}
+{"kind":"textbox","id":"sh/6hw3y9sb","slide":18,"name":"Content-Placeholder-15-9","text":"ENGAGE","textPreview":"ENGAGE","textChars":6,"textLines":1,"bbox":[450.83,298.51,169.33,27.55]}
+{"kind":"textbox","id":"sh/rip4retw","slide":18,"name":"Content-Placeholder-15-10","text":"PROVE","textPreview":"PROVE","textChars":5,"textLines":1,"bbox":[863.33,298.51,169.33,27.55]}
+{"kind":"textbox","id":"sh/fapkr6pw","slide":18,"name":"Text-Placeholder-16-11","text":"判断\n射撃／近接、飛行、装備、ルート、救助優先度を選ぶ。","textPreview":"判断 | 射撃／近接、飛行、装備、ルート、救助優先度を選ぶ。","textChars":28,"textLines":2,"bbox":[453.24,401.33,331.35,166.54]}
+{"kind":"textbox","id":"sh/upg3i18r","slide":18,"name":"Text-Placeholder-16-12","text":"理解\n目標、環境値、敵の役割、新ルールを安全に読む。","textPreview":"理解 | 目標、環境値、敵の役割、新ルールを安全に読む。","textChars":26,"textLines":2,"bbox":[41.98,401.33,331.35,166.54]}
+{"kind":"textbox","id":"sh/1cr2tg72","slide":18,"name":"Text-Placeholder-16-13","text":"試験\nボスまたは複合局面で、章が教えた内容を確認する。","textPreview":"試験 | ボスまたは複合局面で、章が教えた内容を確認する。","textChars":27,"textLines":2,"bbox":[858.57,401.33,331.35,166.54]}
+{"kind":"textbox","id":"sh/gbylkbqh","slide":18,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/7mpknmp0","slide":18,"text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/6lg3e18f","slide":18,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/nid43ytk","slide":19,"title":"射撃で安全を作り、近接で状況を変える","textShapes":8}
+{"kind":"textbox","id":"sh/rqp07290","slide":19,"text":"射撃で安全を作り、近接で状況を変える","textPreview":"射撃で安全を作り、近接で状況を変える","textChars":18,"textLines":1,"bbox":[42,36,1196,80]}
+{"kind":"shape","id":"sh/9gb6xgbi","slide":19,"bbox":[42,120,100,7]}
+{"kind":"textbox","id":"sh/8v2pobax","slide":19,"text":"SHOOTING","textPreview":"SHOOTING","textChars":8,"textLines":1,"bbox":[42,160,540,45]}
+{"kind":"textbox","id":"sh/vitozqt8","slide":19,"text":"• 距離・弾薬・リロード・弱点射撃で安定\n• 軽装甲、飛行、露出弱点への主回答\n• 弾薬MODで属性と目的を切替\n• 遮蔽・射線・ロックオンを明確化","textPreview":"• 距離・弾薬・リロード・弱点射撃で安定 | • 軽装甲、飛行、露出弱点への主回答 | • 弾薬MODで属性と目的を切替 | • 遮蔽・射線・ロックオンを明確化","textChars":74,"textLines":4,"bbox":[42,218,535,350]}
+{"kind":"shape","id":"sh/zu90b29c","slide":19,"bbox":[620,155,1,410]}
+{"kind":"textbox","id":"sh/xkbq10be","slide":19,"text":"MELEE","textPreview":"MELEE","textChars":5,"textLines":1,"bbox":[664,160,574,45]}
+{"kind":"textbox","id":"sh/wj2psvat","slide":19,"text":"• 高リスク・高効果。重装甲と体勢を崩す\n• コンボ、強攻撃、ガード、ジャストガード\n• 装甲破壊後に射撃へ戻す往復を作る\n• リーチはエフェクトでなく実体長で伝える","textPreview":"• 高リスク・高効果。重装甲と体勢を崩す | • コンボ、強攻撃、ガード、ジャストガード | • 装甲破壊後に射撃へ戻す往復を作る | • リーチはエフェクトでなく実体長で伝える","textChars":83,"textLines":4,"bbox":[664,218,574,350]}
+{"kind":"shape","id":"sh/jmd83atk","slide":19,"bbox":[42,585,1196,55]}
+{"kind":"textbox","id":"sh/il47u5sz","slide":19,"text":"同一条件の戦闘ログで、射撃だけ／近接だけが恒常最適にならないことを検証する。","textPreview":"同一条件の戦闘ログで、射撃だけ／近接だけが恒常最適にならないことを検証する。","textChars":38,"textLines":1,"bbox":[62,599,1156,28]}
+{"kind":"textbox","id":"sh/cri1gnql","slide":19,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/dsri9sr6","slide":19,"text":"19","textPreview":"19","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/qpgjex8f","slide":19,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/zyxsni5k","slide":20,"title":"生存資源は、回復順と役割を混同させない","textShapes":19}
+{"kind":"textbox","id":"sh/y5ony58z","slide":20,"text":"生存資源は、回復順と役割を混同させない","textPreview":"生存資源は、回復順と役割を混同させない","textChars":19,"textLines":1,"bbox":[42,36,1196,82]}
+{"kind":"textbox","id":"sh/qpwjmh8n","slide":20,"text":"HUDはHP＝心電波、アーマー＝分割板、シールド＝外周リングで形も分ける。","textPreview":"HUDはHP＝心電波、アーマー＝分割板、シールド＝外周リングで形も分ける。","textChars":37,"textLines":1,"bbox":[42,126,1196,60]}
+{"kind":"shape","id":"sh/rq50vmp8","slide":20,"bbox":[42,228,226.4,12]}
+{"kind":"textbox","id":"sh/4nu1krqh","slide":20,"text":"OUTER","textPreview":"OUTER","textChars":5,"textLines":1,"bbox":[42,264,226.4,26]}
+{"kind":"textbox","id":"sh/po3itc72","slide":20,"text":"シールド","textPreview":"シールド","textChars":4,"textLines":1,"bbox":[42,306,226.4,70]}
+{"kind":"textbox","id":"sh/2lczih8r","slide":20,"text":"時間回復。電子防御と再展開の余地。","textPreview":"時間回復。電子防御と再展開の余地。","textChars":17,"textLines":1,"bbox":[42,388,226.4,220]}
+{"kind":"shape","id":"sh/3ml0rmpw","slide":20,"bbox":[284.4,228,226.4,12]}
+{"kind":"textbox","id":"sh/gjuhg7ql","slide":20,"text":"MIDDLE","textPreview":"MIDDLE","textChars":6,"textLines":1,"bbox":[284.4,264,226.4,26]}
+{"kind":"textbox","id":"sh/hk3ipcr6","slide":20,"text":"アーマー","textPreview":"アーマー","textChars":4,"textLines":1,"bbox":[284.4,306,226.4,70]}
+{"kind":"textbox","id":"sh/dkfmp4zy","slide":20,"text":"装備由来。部位・耐性・補修で維持。","textPreview":"装備由来。部位・耐性・補修で維持。","textChars":17,"textLines":1,"bbox":[284.4,388,226.4,220]}
+{"kind":"shape","id":"sh/cj65wzyd","slide":20,"bbox":[526.8,228,226.4,12]}
+{"kind":"textbox","id":"sh/rid4nuhs","slide":20,"text":"CORE","textPreview":"CORE","textChars":4,"textLines":1,"bbox":[526.8,264,226.4,26]}
+{"kind":"textbox","id":"sh/qh4nupg7","slide":20,"text":"HP","textPreview":"HP","textChars":2,"textLines":1,"bbox":[526.8,306,226.4,70]}
+{"kind":"textbox","id":"sh/pwvmlkzm","slide":20,"text":"生命。回復・Down・Retryの基準。","textPreview":"生命。回復・Down・Retryの基準。","textChars":20,"textLines":1,"bbox":[526.8,388,226.4,220]}
+{"kind":"shape","id":"sh/4vm5sfy1","slide":20,"bbox":[769.2,228,226.4,12]}
+{"kind":"textbox","id":"sh/3ud4juhg","slide":20,"text":"MOTION","textPreview":"MOTION","textChars":6,"textLines":1,"bbox":[769.2,264,226.4,26]}
+{"kind":"textbox","id":"sh/2t4nqpgb","slide":20,"text":"エネルギー","textPreview":"エネルギー","textChars":5,"textLines":1,"bbox":[769.2,306,226.4,70]}
+{"kind":"textbox","id":"sh/hsvmhkzq","slide":20,"text":"飛行・ビーム・一部防御で共有。","textPreview":"飛行・ビーム・一部防御で共有。","textChars":15,"textLines":1,"bbox":[769.2,388,226.4,220]}
+{"kind":"shape","id":"sh/grm5ofy5","slide":20,"bbox":[1011.6,228,226.4,12]}
+{"kind":"textbox","id":"sh/8b654f61","slide":20,"text":"PRESSURE","textPreview":"PRESSURE","textChars":8,"textLines":1,"bbox":[1011.6,264,226.4,26]}
+{"kind":"textbox","id":"sh/tcz6dk7m","slide":20,"text":"熱","textPreview":"熱","textChars":1,"textLines":1,"bbox":[1011.6,306,226.4,70]}
+{"kind":"textbox","id":"sh/69on25ov","slide":20,"text":"行動で蓄積。環境と冷却装備が左右。","textPreview":"行動で蓄積。環境と冷却装備が左右。","textChars":17,"textLines":1,"bbox":[1011.6,388,226.4,220]}
+{"kind":"textbox","id":"sh/7ax4bapg","slide":20,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/k7650f6p","slide":20,"text":"20","textPreview":"20","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/l8fm907a","slide":20,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/m1wvqtk3","slide":21,"title":"飛行を万能移動にせず、エネルギーと空域で判断させる","textShapes":7}
+{"kind":"textbox","id":"sh/5kjydsri","slide":21,"text":"飛行を万能移動にせず、エネルギーと空域で判断させる","textPreview":"飛行を万能移動にせず、エネルギーと空域で判断させる","textChars":25,"textLines":1,"bbox":[42,36,1196,80]}
+{"kind":"shape","id":"sh/1gbmxs7a","slide":21,"bbox":[42,120,100,7]}
+{"kind":"textbox","id":"sh/0f2lon6p","slide":21,"text":"PLAYER CONTROL","textPreview":"PLAYER CONTROL","textChars":14,"textLines":1,"bbox":[42,160,540,45]}
+{"kind":"textbox","id":"sh/ra9kryp8","slide":21,"text":"• ジャンプ、長押し飛行、ホバリング、空中回避\n• 地上／Jet／Vehicle／ZeroGを状態で分離\n• エネルギー消費と熱蓄積を逆方向に表示\n• 落下復帰は進行不能を起こさない","textPreview":"• ジャンプ、長押し飛行、ホバリング、空中回避 | • 地上／Jet／Vehicle／ZeroGを状態で分離 | • エネルギー消費と熱蓄積を逆方向に表示 | • 落下復帰は進行不能を起こさない","textChars":91,"textLines":4,"bbox":[42,218,535,405]}
+{"kind":"shape","id":"sh/hwjy98rm","slide":21,"bbox":[620,155,1,470]}
+{"kind":"textbox","id":"sh/dcb2t87y","slide":21,"text":"LEVEL RESPONSE","textPreview":"LEVEL RESPONSE","textChars":14,"textLines":1,"bbox":[664,160,574,45]}
+{"kind":"textbox","id":"sh/sb2lk36t","slide":21,"text":"• 対空敵、強風、飛行禁止電磁雲、補給リング\n• 固定寄りカメラと画面外攻撃警告\n• 奥行きレーンを限定し、迷子を防止\n• 飛行に報酬を置くが地上戦を無効化しない","textPreview":"• 対空敵、強風、飛行禁止電磁雲、補給リング | • 固定寄りカメラと画面外攻撃警告 | • 奥行きレーンを限定し、迷子を防止 | • 飛行に報酬を置くが地上戦を無効化しない","textChars":81,"textLines":4,"bbox":[664,218,574,405]}
+{"kind":"textbox","id":"sh/b6d432pc","slide":21,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/al43uxor","slide":21,"text":"21","textPreview":"21","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/4jax4nqd","slide":21,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/5onypobq","slide":22,"title":"装備は『強さ』ではなく、任務への回答を組む","textShapes":4}
+{"kind":"shape","id":"sh/43u9snu5","slide":22,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/6987itcr","slide":22,"name":"Google-Shape-533-p58-3","text":"装備は『強さ』ではなく、任務への回答を組む","textPreview":"装備は『強さ』ではなく、任務への回答を組む","textChars":21,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/7a18rydc","slide":22,"name":"Content-Placeholder-15-4","text":"REFERENCE\nK1の部位構造。戦術装備・ユーティリティ・消耗品の最終参照関係は仕様ゲートで固定。","textPreview":"REFERENCE | K1の部位構造。戦術装備・ユーティリティ・消耗品の最終参照関係は仕様ゲートで固定。","textChars":51,"textLines":2,"bbox":[42.09,111.02,1197.33,106.27]}
+{"kind":"textbox","id":"sh/58zqpov6","slide":22,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/il87etcv","slide":22,"text":"22","textPreview":"22","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/jmh8nyd0","slide":22,"bbox":[42,660,54,4]}
+{"kind":"table","id":"tb/0nu5gv2p","slide":22,"name":"Google-Shape-644-p93-5","rows":8,"cols":3,"preview":"部位 | 主な役割 | 判断例","bbox":[41.33,236.33,1197.33,412.87]}
+{"kind":"slide","id":"sl/c7uhcr6t","slide":23,"title":"武器は、距離・装甲破壊・機動・資源負担で比較する","textShapes":4}
+{"kind":"shape","id":"sh/jqd8jmhs","slide":23,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/90vqdczq","slide":23,"name":"Google-Shape-533-p58-3","text":"武器は、距離・装甲破壊・機動・資源負担で比較する","textPreview":"武器は、距離・装甲破壊・機動・資源負担で比較する","textChars":24,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/8zm9k7y5","slide":23,"name":"Content-Placeholder-15-4","text":"REFERENCE\n代表武器。未確定DPS値を大きく見せず、行動差を正典とする。","textPreview":"REFERENCE | 代表武器。未確定DPS値を大きく見せず、行動差を正典とする。","textChars":40,"textLines":2,"bbox":[42.09,111.02,1197.33,106.27]}
+{"kind":"textbox","id":"sh/a14rmhgb","slide":23,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/xovqhcz2","slide":23,"text":"23","textPreview":"23","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/w3m9o7yh","slide":23,"bbox":[42,660,54,4]}
+{"kind":"table","id":"tb/r2x8vi5c","slide":23,"name":"Google-Shape-644-p93-5","rows":8,"cols":4,"preview":"武器 | 型 | 戦場での役割 | 主な代償","bbox":[41.33,236.33,1197.33,412.87]}
+{"kind":"slide","id":"sl/7qto7e10","slide":24,"title":"ドロップは、強化・経済・証拠を同時に前進させる","textShapes":7}
+{"kind":"shape","id":"sh/axgza10b","slide":24,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/1sfqxsv6","slide":24,"name":"Google-Shape-533-p58-3","text":"ドロップは、強化・経済・証拠を同時に前進させる","textPreview":"ドロップは、強化・経済・証拠を同時に前進させる","textChars":23,"textLines":1,"bbox":[41.33,36.17,1197.33,134.7]}
+{"kind":"shape","id":"sh/0r6p4nul","slide":24,"name":"Rounded-Rectangle-9-4","bbox":[452.38,353.33,374.67,276]}
+{"kind":"shape","id":"sh/nux8zidc","slide":24,"name":"Rounded-Rectangle-10-5","bbox":[864,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/2to76dcr","slide":24,"name":"Content-Placeholder-9-6","text":"進行\n情報／証拠品。証拠ボードが自動接続し、会話と章を開く。","textPreview":"進行 | 情報／証拠品。証拠ボードが自動接続し、会話と章を開く。","textChars":30,"textLines":2,"bbox":[485.23,435.29,309.64,150.43]}
+{"kind":"textbox","id":"sh/9wzq1svi","slide":24,"name":"Content-Placeholder-10-7","text":"安全網\n所持枠超過は仮回収箱。所持金0でも最低限を支給。","textPreview":"安全網 | 所持枠超過は仮回収箱。所持金0でも最低限を支給。","textChars":28,"textLines":2,"bbox":[896.18,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/ov6p8nux","slide":24,"name":"Google-Shape-340-p61-8","bbox":[485.84,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/3ydonyd8","slide":24,"name":"Google-Shape-340-p61-9","bbox":[895.88,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/ix47utcn","slide":24,"name":"Rounded-Rectangle-5-10","bbox":[40.77,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/8veh8ril","slide":24,"name":"Content-Placeholder-9-11","text":"戦力\n装備／素材／消耗品。鑑定、強化、分解、売却へ。","textPreview":"戦力 | 装備／素材／消耗品。鑑定、強化、分解、売却へ。","textChars":26,"textLines":2,"bbox":[73.61,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/9wni1wjq","slide":24,"name":"Google-Shape-340-p61-12","bbox":[74.23,387.83,24.55,24.54]}
+{"kind":"textbox","id":"sh/mtwz6h0f","slide":24,"name":"Content-Placeholder-15-13","text":"LOOT CONTRACT\n失敗時もチェックポイントまでの素材50%と証拠を保持。重要品は売却・分解・紛失不可。\n","textPreview":"LOOT CONTRACT | 失敗時もチェックポイントまでの素材50%と証拠を保持。重要品は売却・分解・紛失不可。 |","textChars":57,"textLines":3,"bbox":[41.33,152.29,1197.33,171.05]}
+{"kind":"textbox","id":"sh/nu50zm10","slide":24,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/wzyhcrih","slide":24,"text":"24","textPreview":"24","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/x07i5wj2","slide":24,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/69wfm9o7","slide":25,"title":"成長は、操作熟練を置き換えず選択肢を増やす","textShapes":8}
+{"kind":"textbox","id":"sh/vy1sj694","slide":25,"text":"成長は、操作熟練を置き換えず選択肢を増やす","textPreview":"成長は、操作熟練を置き換えず選択肢を増やす","textChars":21,"textLines":1,"bbox":[42,36,1196,80]}
+{"kind":"shape","id":"sh/xg7axgf2","slide":25,"bbox":[42,120,100,7]}
+{"kind":"textbox","id":"sh/cfyt4beh","slide":25,"text":"PLAYER / OPERATOR","textPreview":"PLAYER / OPERATOR","textChars":17,"textLines":1,"bbox":[42,160,540,45]}
+{"kind":"textbox","id":"sh/napsr6x0","slide":25,"text":"• オペレーターランク上限30\n• Assault／Gunner／Vanguard／Support\n• 無料振り直しで実験を阻害しない\n• Story・装備・結末を難易度で制限しない","textPreview":"• オペレーターランク上限30 | • Assault／Gunner／Vanguard／Support | • 無料振り直しで実験を阻害しない | • Story・装備・結末を難易度で制限しない","textChars":91,"textLines":4,"bbox":[42,218,535,350]}
+{"kind":"shape","id":"sh/7a1sf698","slide":25,"bbox":[620,155,1,410]}
+{"kind":"textbox","id":"sh/pc7atgf6","slide":25,"text":"K1 / LOADOUT","textPreview":"K1 / LOADOUT","textChars":12,"textLines":1,"bbox":[664,160,574,45]}
+{"kind":"textbox","id":"sh/obyt0bel","slide":25,"text":"• K1 Stage I〜IV、FINAL\n• 武器・装備レベル1〜10、品質5段階\n• 3系統の武器改造、装備プリセット3\n• 装備コスト上限で万能構成を防止","textPreview":"• K1 Stage I〜IV、FINAL | • 武器・装備レベル1〜10、品質5段階 | • 3系統の武器改造、装備プリセット3 | • 装備コスト上限で万能構成を防止","textChars":80,"textLines":4,"bbox":[664,218,574,350]}
+{"kind":"shape","id":"sh/fm5snmx4","slide":25,"bbox":[42,585,1196,55]}
+{"kind":"textbox","id":"sh/elwbu1wj","slide":25,"text":"K1 Stage III／IVの装備コスト増加値は、技術仕様ゲートで確定する。","textPreview":"K1 Stage III／IVの装備コスト増加値は、技術仕様ゲートで確定する。","textChars":39,"textLines":1,"bbox":[62,599,1156,28]}
+{"kind":"textbox","id":"sh/wza9cbqp","slide":25,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/h0jalgra","slide":25,"text":"25","textPreview":"25","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/uxsra18j","slide":25,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/l0bepsfm","slide":26,"title":"敵勢力は、装備・目的・シルエットで見分ける","textShapes":4}
+{"kind":"shape","id":"sh/kbil0r2p","slide":26,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/uhk36lk7","slide":26,"name":"Google-Shape-533-p58-3","text":"敵勢力は、装備・目的・シルエットで見分ける","textPreview":"敵勢力は、装備・目的・シルエットで見分ける","textChars":21,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/vitkzqlc","slide":26,"name":"Content-Placeholder-15-4","text":"REFERENCE\n色だけでなく、形と行動で敵味方を識別。","textPreview":"REFERENCE | 色だけでなく、形と行動で敵味方を識別。","textChars":29,"textLines":2,"bbox":[42.09,111.02,1197.33,106.27]}
+{"kind":"textbox","id":"sh/tgr2xg3m","slide":26,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/md0321kv","slide":26,"text":"26","textPreview":"26","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/7e9kv6lg","slide":26,"bbox":[42,660,54,4]}
+{"kind":"table","id":"tb/s3698rmp","slide":26,"name":"Google-Shape-644-p93-5","rows":8,"cols":3,"preview":"勢力 | シルエット／色 | 戦術","bbox":[41.33,236.33,1197.33,412.87]}
+{"kind":"slide","id":"sl/4vyxknqp","slide":27,"title":"敵の強さは、ランク・防御・役割の三層で読む","textShapes":19}
+{"kind":"textbox","id":"sh/0nm18fa1","slide":27,"text":"敵の強さは、ランク・防御・役割の三層で読む","textPreview":"敵の強さは、ランク・防御・役割の三層で読む","textChars":21,"textLines":1,"bbox":[42,36,1196,82]}
+{"kind":"textbox","id":"sh/kn694nmx","slide":27,"text":"Standardの一般敵同時攻撃は3体まで。画面外攻撃は視覚・音のうち2種以上で警告。","textPreview":"Standardの一般敵同時攻撃は3体まで。画面外攻撃は視覚・音のうち2種以上で警告。","textChars":43,"textLines":1,"bbox":[42,126,1196,60]}
+{"kind":"shape","id":"sh/lofadsni","slide":27,"bbox":[42,228,226.4,12]}
+{"kind":"textbox","id":"sh/mpor6x43","slide":27,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[42,264,226.4,26]}
+{"kind":"textbox","id":"sh/7qxsfi5o","slide":27,"text":"Normal","textPreview":"Normal","textChars":6,"textLines":1,"bbox":[42,306,226.4,70]}
+{"kind":"textbox","id":"sh/8r698nm9","slide":27,"text":"単一役割。予告と対処を学ぶ。","textPreview":"単一役割。予告と対処を学ぶ。","textChars":14,"textLines":1,"bbox":[42,388,226.4,220]}
+{"kind":"shape","id":"sh/9sfahsnu","slide":27,"bbox":[284.4,228,226.4,12]}
+{"kind":"textbox","id":"sh/utobax4f","slide":27,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[284.4,264,226.4,26]}
+{"kind":"textbox","id":"sh/vuxsj250","slide":27,"text":"Veteran","textPreview":"Veteran","textChars":7,"textLines":1,"bbox":[284.4,306,226.4,70]}
+{"kind":"textbox","id":"sh/ju5gv294","slide":27,"text":"武装追加。距離・遮蔽判断を要求。","textPreview":"武装追加。距離・遮蔽判断を要求。","textChars":16,"textLines":1,"bbox":[284.4,388,226.4,220]}
+{"kind":"shape","id":"sh/ytwfmx8j","slide":27,"bbox":[526.8,228,226.4,12]}
+{"kind":"textbox","id":"sh/lw7yxcra","slide":27,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[526.8,264,226.4,26]}
+{"kind":"textbox","id":"sh/kvyxo7qp","slide":27,"text":"Elite","textPreview":"Elite","textChars":5,"textLines":1,"bbox":[526.8,306,226.4,70]}
+{"kind":"textbox","id":"sh/bq5gr298","slide":27,"text":"複数役割。部位破壊と連携崩し。","textPreview":"複数役割。部位破壊と連携崩し。","textChars":15,"textLines":1,"bbox":[526.8,388,226.4,220]}
+{"kind":"shape","id":"sh/apwfix8n","slide":27,"bbox":[769.2,228,226.4,12]}
+{"kind":"textbox","id":"sh/xsnytcry","slide":27,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[769.2,264,226.4,26]}
+{"kind":"textbox","id":"sh/wrexk7qt","slide":27,"text":"Boss","textPreview":"Boss","textChars":4,"textLines":1,"bbox":[769.2,306,226.4,70]}
+{"kind":"textbox","id":"sh/vmpg3m9c","slide":27,"text":"章の学習内容を複数フェーズで試す。","textPreview":"章の学習内容を複数フェーズで試す。","textChars":17,"textLines":1,"bbox":[769.2,388,226.4,220]}
+{"kind":"shape","id":"sh/ulgzuh8r","slide":27,"bbox":[1011.6,228,226.4,12]}
+{"kind":"textbox","id":"sh/qhkj2lsz","slide":27,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1011.6,264,226.4,26]}
+{"kind":"textbox","id":"sh/rit0vqtk","slide":27,"text":"Defense","textPreview":"Defense","textChars":7,"textLines":1,"bbox":[1011.6,306,226.4,70]}
+{"kind":"textbox","id":"sh/sj214va5","slide":27,"text":"生身／軽装甲／重装甲／盾／群体／電子。","textPreview":"生身／軽装甲／重装甲／盾／群体／電子。","textChars":19,"textLines":1,"bbox":[1011.6,388,226.4,220]}
+{"kind":"textbox","id":"sh/dkb2x0bq","slide":27,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/elkj65sb","slide":27,"text":"27","textPreview":"27","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/fmdkzatw","slide":27,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/3mdove10","slide":28,"title":"ギミックは、新ルールを一度に一つだけ教える","textShapes":7}
+{"kind":"shape","id":"sh/7ilobaxw","slide":28,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/q9cz6xkv","slide":28,"name":"Google-Shape-533-p58-3","text":"ギミックは、新ルールを一度に一つだけ教える","textPreview":"ギミックは、新ルールを一度に一つだけ教える","textChars":21,"textLines":1,"bbox":[41.33,36.17,1197.33,134.7]}
+{"kind":"shape","id":"sh/ralgf21g","slide":28,"name":"Rounded-Rectangle-9-4","bbox":[452.38,353.33,374.67,276]}
+{"kind":"shape","id":"sh/0zehcr2x","slide":28,"name":"Rounded-Rectangle-10-5","bbox":[864,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/10nylwji","slide":28,"name":"Content-Placeholder-9-6","text":"環境\n浸水／有毒／寒冷／高熱／砂塵／強風／電磁／無重力。","textPreview":"環境 | 浸水／有毒／寒冷／高熱／砂塵／強風／電磁／無重力。","textChars":28,"textLines":2,"bbox":[485.23,435.29,309.64,150.43]}
+{"kind":"textbox","id":"sh/exwzahkr","slide":28,"name":"Content-Placeholder-10-7","text":"評価\nC〜S。時間だけでなく救助、非致死、証拠、護衛状態を使用。","textPreview":"評価 | C〜S。時間だけでなく救助、非致死、証拠、護衛状態を使用。","textChars":32,"textLines":2,"bbox":[896.18,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/zy5gjm1c","slide":28,"name":"Google-Shape-340-p61-8","bbox":[485.84,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/o3ehgr29","slide":28,"name":"Google-Shape-340-p61-9","bbox":[895.88,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/947ipwje","slide":28,"name":"Rounded-Rectangle-5-10","bbox":[40.77,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/lg3690fq","slide":28,"name":"Content-Placeholder-9-11","text":"任務\n撃破／到達／護衛／防衛／救出／回収／追跡／装置停止。","textPreview":"任務 | 撃破／到達／護衛／防衛／救出／回収／追跡／装置停止。","textChars":29,"textLines":2,"bbox":[73.61,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/kfu5gfe5","slide":28,"name":"Google-Shape-340-p61-12","bbox":[74.23,387.83,24.55,24.54]}
+{"kind":"textbox","id":"sh/je1o7ax0","slide":28,"name":"Content-Placeholder-15-13","text":"STAGE RULE\n推奨装備がなくても、現地装置か代替ルートでクリア可能。ボス前チェックポイントから再戦30秒以内。\n","textPreview":"STAGE RULE | 推奨装備がなくても、現地装置か代替ルートでクリア可能。ボス前チェックポイントから再戦30秒以内。 |","textChars":60,"textLines":3,"bbox":[41.33,152.29,1197.33,171.05]}
+{"kind":"textbox","id":"sh/ytsne5wf","slide":28,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/tk36dkf2","slide":28,"text":"28","textPreview":"28","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/8ju5kfeh","slide":28,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/i5o3q10v","slide":29,"title":"10フィールドが、20章の学習曲線を地形で記憶させる","textShapes":19}
+{"kind":"textbox","id":"sh/b61snel8","slide":29,"text":"10フィールドが、20章の学習曲線を地形で記憶させる","textPreview":"10フィールドが、20章の学習曲線を地形で記憶させる","textChars":26,"textLines":1,"bbox":[42,36,1196,82]}
+{"kind":"textbox","id":"sh/tk36hwby","slide":29,"text":"原則1ステージ1マップ。目標は10×10＝100だが、品質不足時は数を削減する。","textPreview":"原則1ステージ1マップ。目標は10×10＝100だが、品質不足時は数を削減する。","textChars":40,"textLines":1,"bbox":[42,126,1196,60]}
+{"kind":"shape","id":"sh/8jup8rad","slide":29,"bbox":[42,228,226.4,12]}
+{"kind":"textbox","id":"sh/vmlojmto","slide":29,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[42,264,226.4,26]}
+{"kind":"textbox","id":"sh/ulc7a1s3","slide":29,"text":"産業／旧首都","textPreview":"産業／旧首都","textChars":6,"textLines":1,"bbox":[42,306,226.4,70]}
+{"kind":"textbox","id":"sh/h8n6lwbu","slide":29,"text":"試験・初仕事・病院・廃墟。","textPreview":"試験・初仕事・病院・廃墟。","textChars":13,"textLines":1,"bbox":[42,388,226.4,220]}
+{"kind":"shape","id":"sh/g7upcra9","slide":29,"bbox":[284.4,228,226.4,12]}
+{"kind":"textbox","id":"sh/bq1o72tk","slide":29,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[284.4,264,226.4,26]}
+{"kind":"textbox","id":"sh/apsnyxcz","slide":29,"text":"湾岸／山岳","textPreview":"湾岸／山岳","textChars":5,"textLines":1,"bbox":[284.4,306,226.4,70]}
+{"kind":"textbox","id":"sh/kf2tw7a1","slide":29,"text":"地下物流・港湾偽装・雪・通信。","textPreview":"地下物流・港湾偽装・雪・通信。","textChars":15,"textLines":1,"bbox":[284.4,388,226.4,220]}
+{"kind":"shape","id":"sh/5gbupcrm","slide":29,"bbox":[526.8,228,226.4,12]}
+{"kind":"textbox","id":"sh/idkbuxsv","slide":29,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[526.8,264,226.4,26]}
+{"kind":"textbox","id":"sh/jetc329g","slide":29,"text":"砂漠／封鎖都市","textPreview":"砂漠／封鎖都市","textChars":7,"textLines":1,"bbox":[526.8,306,226.4,70]}
+{"kind":"textbox","id":"sh/s32t07ax","slide":29,"text":"高熱・K1喪失・逃亡・本社防衛。","textPreview":"高熱・K1喪失・逃亡・本社防衛。","textChars":16,"textLines":1,"bbox":[526.8,388,226.4,220]}
+{"kind":"shape","id":"sh/t4butcri","slide":29,"bbox":[769.2,228,226.4,12]}
+{"kind":"textbox","id":"sh/6hkbyhs7","slide":29,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[769.2,264,226.4,26]}
+{"kind":"textbox","id":"sh/7itcr29s","slide":29,"text":"沿岸／企業区","textPreview":"沿岸／企業区","textChars":6,"textLines":1,"bbox":[769.2,306,226.4,70]}
+{"kind":"textbox","id":"sh/87itonat","slide":29,"text":"共闘・空中戦・美緒救出・市民救助。","textPreview":"共闘・空中戦・美緒救出・市民救助。","textChars":17,"textLines":1,"bbox":[769.2,388,226.4,220]}
+{"kind":"shape","id":"sh/98ruxsre","slide":29,"bbox":[1011.6,228,226.4,12]}
+{"kind":"textbox","id":"sh/p4jal432","slide":29,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1011.6,264,226.4,26]}
+{"kind":"textbox","id":"sh/o3a9sj2h","slide":29,"text":"地下網／中枢","textPreview":"地下網／中枢","textChars":6,"textLines":1,"bbox":[1011.6,306,226.4,70]}
+{"kind":"textbox","id":"sh/n21sjelc","slide":29,"text":"物流停止・五都市・K系統・アーク。","textPreview":"物流停止・五都市・K系統・アーク。","textChars":17,"textLines":1,"bbox":[1011.6,388,226.4,220]}
+{"kind":"textbox","id":"sh/218rq9kr","slide":29,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/x8japo3e","slide":29,"text":"29","textPreview":"29","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/c7a9wj2t","slide":29,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/wnqh07ex","slide":30,"title":"フィールド1〜5：日常から環境戦へ","textShapes":4}
+{"kind":"shape","id":"sh/ru5k3ep8","slide":30,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/po72d8nm","slide":30,"name":"Google-Shape-533-p58-3","text":"フィールド1〜5：日常から環境戦へ","textPreview":"フィールド1〜5：日常から環境戦へ","textChars":17,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/o3yl4361","slide":30,"name":"Content-Placeholder-15-4","text":"REFERENCE\n前半は操作・物流・環境装備の意味を段階的に増やす。","textPreview":"REFERENCE | 前半は操作・物流・環境装備の意味を段階的に増やす。","textChars":35,"textLines":2,"bbox":[42.09,111.02,1197.33,106.27]}
+{"kind":"textbox","id":"sh/apg36do7","slide":30,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/xsr2h8ni","slide":30,"text":"30","textPreview":"30","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/cril836d","slide":30,"bbox":[42,660,54,4]}
+{"kind":"table","id":"tb/zedsfatc","slide":30,"name":"Google-Shape-644-p93-5","rows":6,"cols":4,"preview":"# | フィールド | 章 | 固有ギミック／視覚","bbox":[41.33,236.33,1197.33,412.87]}
+{"kind":"slide","id":"sl/lcn6tkb6","slide":31,"title":"フィールド6〜10：会社を守り、世界の中枢へ","textShapes":4}
+{"kind":"shape","id":"sh/fmhszex0","slide":31,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/dgja98fe","slide":31,"name":"Google-Shape-533-p58-3","text":"フィールド6〜10：会社を守り、世界の中枢へ","textPreview":"フィールド6〜10：会社を守り、世界の中枢へ","textChars":22,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/cfa903yt","slide":31,"name":"Content-Placeholder-15-4","text":"REFERENCE\n後半は共闘・救助・過去全ルールの総復習へ広げる。","textPreview":"REFERENCE | 後半は共闘・救助・過去全ルールの総復習へ広げる。","textChars":34,"textLines":2,"bbox":[42.09,111.02,1197.33,106.27]}
+{"kind":"textbox","id":"sh/ehsr2dgz","slide":31,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/1k3ad8fa","slide":31,"text":"31","textPreview":"31","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/0jut43yp","slide":31,"bbox":[42,660,54,4]}
+{"kind":"table","id":"tb/v6tc7q1c","slide":31,"name":"Google-Shape-644-p93-5","rows":6,"cols":4,"preview":"# | フィールド | 章 | 固有ギミック／視覚","bbox":[41.33,236.33,1197.33,412.87]}
+{"kind":"slide","id":"sl/6l0j294r","slide":32,"title":"本社ハブは、15人の『帰る場所』","textShapes":7}
+{"kind":"textbox","id":"sh/qx0nqx8b","slide":32,"text":"本社ハブは、15人の『帰る場所』","textPreview":"本社ハブは、15人の『帰る場所』","textChars":16,"textLines":1,"bbox":[42,36,1196,80]}
+{"kind":"shape","id":"sh/kr61sfy1","slide":32,"bbox":[42,120,100,7]}
+{"kind":"textbox","id":"sh/lszilkfm","slide":32,"text":"PHYSICAL HUB","textPreview":"PHYSICAL HUB","textChars":12,"textLines":1,"bbox":[42,160,540,45]}
+{"kind":"textbox","id":"sh/6t8jupg7","slide":32,"text":"• 作戦室、格納庫、倉庫、医務、通信、食堂、訓練\n• 任務後の反省会と人物会話\n• 第12章で日常空間そのものが戦場になる\n• 機能と人物は一対一に固定せず、複数担当を許す","textPreview":"• 作戦室、格納庫、倉庫、医務、通信、食堂、訓練 | • 任務後の反省会と人物会話 | • 第12章で日常空間そのものが戦場になる | • 機能と人物は一対一に固定せず、複数担当を許す","textChars":86,"textLines":4,"bbox":[42,218,535,405]}
+{"kind":"shape","id":"sh/i903mx8z","slide":32,"bbox":[620,155,1,470]}
+{"kind":"textbox","id":"sh/8vq1wzyd","slide":32,"text":"QUICK MENU","textPreview":"QUICK MENU","textChars":10,"textLines":1,"bbox":[664,160,574,45]}
+{"kind":"textbox","id":"sh/twzipkfy","slide":32,"text":"• 任務選択、装備、強化、倉庫、店、図鑑\n• 証拠ボードと章終了要約\n• 敗北後は装備・難易度・敵情報へ直接移動\n• 佐伯 澪／神楽 美緒は姓込みで表示","textPreview":"• 任務選択、装備、強化、倉庫、店、図鑑 | • 証拠ボードと章終了要約 | • 敗北後は装備・難易度・敵情報へ直接移動 | • 佐伯 澪／神楽 美緒は姓込みで表示","textChars":76,"textLines":4,"bbox":[664,218,574,405]}
+{"kind":"textbox","id":"sh/mx4zilg3","slide":32,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/nyd0bqxo","slide":32,"text":"32","textPreview":"32","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/ry94z29w","slide":32,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/nax4b2dk","slide":33,"title":"指揮・情報班は、現場の選択肢を増やす","textShapes":7}
+{"kind":"shape","id":"sh/itsvapsn","slide":33,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/lk3m50nq","slide":33,"name":"Google-Shape-533-p58-3","text":"指揮・情報班は、現場の選択肢を増やす","textPreview":"指揮・情報班は、現場の選択肢を増やす","textChars":18,"textLines":1,"bbox":[41.33,36.17,1197.33,134.7]}
+{"kind":"shape","id":"sh/0jalwfm5","slide":33,"name":"Rounded-Rectangle-9-4","bbox":[452.38,353.33,374.67,276]}
+{"kind":"shape","id":"sh/nml47a5w","slide":33,"name":"Rounded-Rectangle-10-5","bbox":[864,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/mlc3y54b","slide":33,"name":"Content-Placeholder-9-6","text":"情報\n天城 ナナ：衛星・ドローン。荻原 真理：証拠・法務。","textPreview":"情報 | 天城 ナナ：衛星・ドローン。荻原 真理：証拠・法務。","textChars":29,"textLines":2,"bbox":[485.23,435.29,309.64,150.43]}
+{"kind":"textbox","id":"sh/9o3m9knm","slide":33,"name":"Content-Placeholder-10-7","text":"通信\n戸塚 エマ：ジャミング対策とLARK解析。","textPreview":"通信 | 戸塚 エマ：ジャミング対策とLARK解析。","textChars":24,"textLines":2,"bbox":[896.18,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/8nul0fmh","slide":33,"name":"Google-Shape-340-p61-8","bbox":[485.84,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/vql4bu5s","slide":33,"name":"Google-Shape-340-p61-9","bbox":[895.88,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/apc32p47","slide":33,"name":"Rounded-Rectangle-5-10","bbox":[40.77,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/grad8zah","slide":33,"name":"Content-Placeholder-9-11","text":"指揮\n高城 梓：代表・作戦指揮。御厨 蓮：戦術オペレーター。","textPreview":"指揮 | 高城 梓：代表・作戦指揮。御厨 蓮：戦術オペレーター。","textChars":30,"textLines":2,"bbox":[73.61,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/hsjuhkb2","slide":33,"name":"Google-Shape-340-p61-12","bbox":[74.23,387.83,24.55,24.54]}
+{"kind":"textbox","id":"sh/upsv6psb","slide":33,"name":"Content-Placeholder-15-13","text":"YTC PEOPLE / 01\n人物＝社内機能＝物語上の決断を結ぶ。\n","textPreview":"YTC PEOPLE / 01 | 人物＝社内機能＝物語上の決断を結ぶ。 |","textChars":35,"textLines":3,"bbox":[41.33,152.29,1197.33,171.05]}
+{"kind":"textbox","id":"sh/vq1cfutw","slide":33,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/4vadczad","slide":33,"text":"33","textPreview":"33","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/5w3ul4by","slide":33,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/ofu103u5","slide":34,"title":"現場班は、倒す・守る・帰るを役割で分担する","textShapes":7}
+{"kind":"shape","id":"sh/mxkvmpcb","slide":34,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/pwzm1kbm","slide":34,"name":"Google-Shape-533-p58-3","text":"現場班は、倒す・守る・帰るを役割で分担する","textPreview":"現場班は、倒す・守る・帰るを役割で分担する","textChars":21,"textLines":1,"bbox":[41.33,36.17,1197.33,134.7]}
+{"kind":"shape","id":"sh/ovq58fu1","slide":34,"name":"Rounded-Rectangle-9-4","bbox":[452.38,353.33,374.67,276]}
+{"kind":"shape","id":"sh/byh43utc","slide":34,"name":"Rounded-Rectangle-10-5","bbox":[864,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/qx8napc7","slide":34,"name":"Content-Placeholder-9-6","text":"守護\n辰巳／伊吹：重装防衛、衛生・救助・非致死。","textPreview":"守護 | 辰巳／伊吹：重装防衛、衛生・救助・非致死。","textChars":24,"textLines":2,"bbox":[485.23,435.29,309.64,150.43]}
+{"kind":"textbox","id":"sh/d0zm54bi","slide":34,"name":"Content-Placeholder-10-7","text":"支援\n佐伯 澪／劉 星河：精密射撃、航空・回収。","textPreview":"支援 | 佐伯 澪／劉 星河：精密射撃、航空・回収。","textChars":24,"textLines":2,"bbox":[896.18,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/czq5czux","slide":34,"name":"Google-Shape-340-p61-8","bbox":[485.84,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/z2147eto","slide":34,"name":"Google-Shape-340-p61-9","bbox":[895.88,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/y18ne9c3","slide":34,"name":"Rounded-Rectangle-5-10","bbox":[40.77,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/0vidkfu5","slide":34,"name":"Content-Placeholder-9-11","text":"前線\n山田／黒瀬／神谷：汎用判断、偵察、高速強襲。","textPreview":"前線 | 山田／黒瀬／神谷：汎用判断、偵察、高速強襲。","textChars":25,"textLines":2,"bbox":[73.61,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/1wredkbq","slide":34,"name":"Google-Shape-340-p61-12","bbox":[74.23,387.83,24.55,24.54]}
+{"kind":"textbox","id":"sh/e90vipcz","slide":34,"name":"Content-Placeholder-15-13","text":"YTC PEOPLE / 02\n山田は第13章以降、各専門を束ねる現場リーダーとなる。\n","textPreview":"YTC PEOPLE / 02 | 山田は第13章以降、各専門を束ねる現場リーダーとなる。 |","textChars":44,"textLines":3,"bbox":[41.33,152.29,1197.33,171.05]}
+{"kind":"textbox","id":"sh/za9wbutk","slide":34,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/oz2dozu1","slide":34,"text":"34","textPreview":"34","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/90beh4bm","slide":34,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/1obmtofm","slide":35,"title":"整備・兵站・地域班が、戦う理由と継続性を作る","textShapes":7}
+{"kind":"shape","id":"sh/vidorit0","slide":35,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/idonexon","slide":35,"name":"Google-Shape-533-p58-3","text":"整備・兵站・地域班が、戦う理由と継続性を作る","textPreview":"整備・兵站・地域班が、戦う理由と継続性を作る","textChars":22,"textLines":1,"bbox":[41.33,36.17,1197.33,134.7]}
+{"kind":"shape","id":"sh/3ex47ip8","slide":35,"name":"Rounded-Rectangle-9-4","bbox":[452.38,353.33,374.67,276]}
+{"kind":"shape","id":"sh/gb6lcn6x","slide":35,"name":"Rounded-Rectangle-10-5","bbox":[864,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/hcfm5s72","slide":35,"name":"Content-Placeholder-9-6","text":"兵站\n森川 直：倉庫、輸送車、補給、ショップ。","textPreview":"兵站 | 森川 直：倉庫、輸送車、補給、ショップ。","textChars":23,"textLines":2,"bbox":[485.23,435.29,309.64,150.43]}
+{"kind":"textbox","id":"sh/u943ador","slide":35,"name":"Content-Placeholder-10-7","text":"地域\n小野寺 悠：依頼受付、評判、交渉、停戦。","textPreview":"地域 | 小野寺 悠：依頼受付、評判、交渉、停戦。","textChars":23,"textLines":2,"bbox":[896.18,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/vad43ipc","slide":35,"name":"Google-Shape-340-p61-8","bbox":[485.84,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/87ml836l","slide":35,"name":"Google-Shape-340-p61-9","bbox":[895.88,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/t8vm1876","slide":35,"name":"Rounded-Rectangle-5-10","bbox":[40.77,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/5of6xcbi","slide":35,"name":"Content-Placeholder-9-11","text":"整備\n火野 薫：K1整備、武器強化、装備鑑定。","textPreview":"整備 | 火野 薫：K1整備、武器強化、装備鑑定。","textChars":23,"textLines":2,"bbox":[73.61,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/4n65o7ax","slide":35,"name":"Google-Shape-340-p61-12","bbox":[74.23,387.83,24.55,24.54]}
+{"kind":"textbox","id":"sh/3mxov2tc","slide":35,"name":"Content-Placeholder-15-13","text":"YTC PEOPLE / 03\n装備、在庫、依頼人の信頼を同じ会社の仕事として扱う。\n","textPreview":"YTC PEOPLE / 03 | 装備、在庫、依頼人の信頼を同じ会社の仕事として扱う。 |","textChars":43,"textLines":3,"bbox":[41.33,152.29,1197.33,171.05]}
+{"kind":"textbox","id":"sh/ilonmxsr","slide":35,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/hkv6tsb6","slide":35,"text":"35","textPreview":"35","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/gjm5knal","slide":35,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/m9s3ehgf","slide":36,"title":"難易度とアシストは、物語・報酬を奪わない","textShapes":4}
+{"kind":"shape","id":"sh/fy5szuts","slide":36,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/5s3atkbq","slide":36,"name":"Google-Shape-533-p58-3","text":"難易度とアシストは、物語・報酬を奪わない","textPreview":"難易度とアシストは、物語・報酬を奪わない","textChars":20,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/4rut0fa5","slide":36,"name":"Content-Placeholder-15-4","text":"REFERENCE\nプレイヤーが判断へ集中できるよう、挑戦強度と情報支援を分離する。","textPreview":"REFERENCE | プレイヤーが判断へ集中できるよう、挑戦強度と情報支援を分離する。","textChars":42,"textLines":2,"bbox":[42.09,111.02,1197.33,106.27]}
+{"kind":"textbox","id":"sh/qtcb2psb","slide":36,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/dwnax4bm","slide":36,"text":"36","textPreview":"36","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/svet4zah","slide":36,"bbox":[42,660,54,4]}
+{"kind":"table","id":"tb/7upwfido","slide":36,"name":"Google-Shape-644-p93-5","rows":7,"cols":2,"preview":"領域 | 仕様","bbox":[41.33,236.33,1197.33,412.87]}
+{"kind":"slide","id":"sl/jyhsreh4","slide":37,"title":"失敗は学習を戻さず、重要品と次の判断を守る","textShapes":7}
+{"kind":"textbox","id":"sh/8b69gbqd","slide":37,"text":"失敗は学習を戻さず、重要品と次の判断を守る","textPreview":"失敗は学習を戻さず、重要品と次の判断を守る","textChars":21,"textLines":1,"bbox":[42,36,1196,80]}
+{"kind":"shape","id":"sh/61c7md0r","slide":37,"bbox":[42,120,100,7]}
+{"kind":"textbox","id":"sh/7m58vyhw","slide":37,"text":"SAVE / RECOVERY","textPreview":"SAVE / RECOVERY","textChars":15,"textLines":1,"bbox":[42,160,540,45]}
+{"kind":"textbox","id":"sh/kzupk3il","slide":37,"text":"• オート1、手動3、チェックポイント一時保存\n• 戦闘中はオートセーブしない\n• 原子的保存＋前回正常データ1世代\n• 落下・挟まり・護衛停止から復帰","textPreview":"• オート1、手動3、チェックポイント一時保存 | • 戦闘中はオートセーブしない | • 原子的保存＋前回正常データ1世代 | • 落下・挟まり・護衛停止から復帰","textChars":76,"textLines":4,"bbox":[42,218,535,405]}
+{"kind":"shape","id":"sh/07m9cbq1","slide":37,"bbox":[620,155,1,470]}
+{"kind":"textbox","id":"sh/ixc7it0f","slide":37,"text":"FAILURE CONTRACT","textPreview":"FAILURE CONTRACT","textChars":16,"textLines":1,"bbox":[664,160,574,45]}
+{"kind":"textbox","id":"sh/jyl8ryh0","slide":37,"text":"• 証拠・Signature・物語必須品は失わない\n• 素材50%とチェックポイントまでの証拠を保持\n• 第3章のみ専用の追跡決着。通常敗北と区別\n• ボス再戦まで30秒以内","textPreview":"• 証拠・Signature・物語必須品は失わない | • 素材50%とチェックポイントまでの証拠を保持 | • 第3章のみ専用の追跡決着。通常敗北と区別 | • ボス再戦まで30秒以内","textChars":87,"textLines":4,"bbox":[664,218,574,405]}
+{"kind":"textbox","id":"sh/4vy9wnyp","slide":37,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/pw7q5sza","slide":37,"text":"37","textPreview":"37","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/9cfa9gry","slide":37,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/ofahkri5","slide":38,"title":"機能要件：コア操作・戦闘・任務","textShapes":4}
+{"kind":"shape","id":"sh/u10jqlwr","slide":38,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/kvy1kbep","slide":38,"name":"Google-Shape-533-p58-3","text":"機能要件：コア操作・戦闘・任務","textPreview":"機能要件：コア操作・戦闘・任務","textChars":15,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/lw7idgva","slide":38,"name":"Content-Placeholder-15-4","text":"REFERENCE\nFR-01〜FR-10。詳細は技術責任者のデータ定義へ引き渡す。","textPreview":"REFERENCE | FR-01〜FR-10。詳細は技術責任者のデータ定義へ引き渡す。","textChars":42,"textLines":2,"bbox":[42.09,111.02,1197.33,106.27]}
+{"kind":"textbox","id":"sh/7yp0f6dg","slide":38,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/8zi1obe1","slide":38,"text":"38","textPreview":"38","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/90rihgv6","slide":38,"bbox":[42,660,54,4]}
+{"kind":"table","id":"tb/elgzadsb","slide":38,"name":"Google-Shape-644-p93-5","rows":10,"cols":3,"preview":"ID | 領域 | 必須要件","bbox":[41.33,236.33,1197.33,412.87]}
+{"kind":"slide","id":"sl/twb2lg7e","slide":39,"title":"機能要件：進行とUI","textShapes":4}
+{"kind":"shape","id":"sh/76lozqdg","slide":39,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/50769kvu","slide":39,"name":"Google-Shape-533-p58-3","text":"機能要件：進行とUI","textPreview":"機能要件：進行とUI","textChars":10,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/4ze50fu9","slide":39,"name":"Content-Placeholder-15-4","text":"REFERENCE\nFR-11〜FR-21。オンライン協力は将来スコープ。","textPreview":"REFERENCE | FR-11〜FR-21。オンライン協力は将来スコープ。","textChars":37,"textLines":2,"bbox":[42.09,111.02,1197.33,106.27]}
+{"kind":"textbox","id":"sh/q1gn2pcf","slide":39,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/do76d4vq","slide":39,"text":"39","textPreview":"39","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/snyp4zu5","slide":39,"bbox":[42,660,54,4]}
+{"kind":"table","id":"tb/bytkrytw","slide":39,"name":"Google-Shape-644-p93-5","rows":10,"cols":3,"preview":"ID | 領域 | 必須要件","bbox":[41.33,236.33,1197.33,412.87]}
+{"kind":"slide","id":"sl/5ojatgfe","slide":40,"title":"想定技術は、100ステージをデータと再利用部品で支える","textShapes":7}
+{"kind":"shape","id":"sh/r6l4rudo","slide":40,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/y9gzu50n","slide":40,"name":"Google-Shape-533-p58-3","text":"想定技術は、100ステージをデータと再利用部品で支える","textPreview":"想定技術は、100ステージをデータと再利用部品で支える","textChars":27,"textLines":1,"bbox":[41.33,36.17,1197.33,134.7]}
+{"kind":"shape","id":"sh/zapg3qh8","slide":40,"name":"Rounded-Rectangle-9-4","bbox":[452.38,353.33,374.67,276]}
+{"kind":"shape","id":"sh/cnexsvih","slide":40,"name":"Rounded-Rectangle-10-5","bbox":[864,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/x8ny10z2","slide":40,"name":"Content-Placeholder-9-6","text":"Content\nBlueprint：ギミック、演出、会話、敵・ボス調整。","textPreview":"Content | Blueprint：ギミック、演出、会話、敵・ボス調整。","textChars":36,"textLines":2,"bbox":[485.23,435.29,309.64,150.43]}
+{"kind":"textbox","id":"sh/alwfql0r","slide":40,"name":"Content-Placeholder-10-7","text":"Presentation\nAnimation BP／Montage、Niagara、Chaos、MetaSounds。","textPreview":"Presentation | Animation BP／Montage、Niagara、Chaos、MetaSounds。","textChars":59,"textLines":2,"bbox":[896.18,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/bm5gzqhw","slide":40,"name":"Google-Shape-340-p61-8","bbox":[485.84,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/ojexobil","slide":40,"name":"Google-Shape-340-p61-9","bbox":[895.88,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/pknyxgz6","slide":40,"name":"Rounded-Rectangle-5-10","bbox":[40.77,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/1wnmx4vq","slide":40,"name":"Content-Placeholder-9-11","text":"Core\nC++：戦闘、セーブ、装備、進行、共通基盤。","textPreview":"Core | C++：戦闘、セーブ、装備、進行、共通基盤。","textChars":27,"textLines":2,"bbox":[73.61,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/gvel4ze5","slide":40,"name":"Google-Shape-340-p61-12","bbox":[74.23,387.83,24.55,24.54]}
+{"kind":"textbox","id":"sh/fu54vudk","slide":40,"name":"Content-Placeholder-15-13","text":"TECH OWNER RECOMMENDATION\nUnreal Engine 5系の安定版を開始時に固定。対象はWindows PC、3Dモデルを用いる2.5Dリアルタイムアクション。\n","textPreview":"TECH OWNER RECOMMENDATION | Unreal Engine 5系の安定版を開始時に固定。対象はWindows PC、3Dモデルを用いる2.5Dリアルタイムアクション。 |","textChars":94,"textLines":3,"bbox":[41.33,152.29,1197.33,171.05]}
+{"kind":"textbox","id":"sh/etw32pwz","slide":40,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/tsnmt4vu","slide":40,"text":"40","textPreview":"40","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/s7el0ze9","slide":40,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/cnmpwjmp","slide":41,"title":"戦闘は専用部品、状態は限定GAS、内容はデータ駆動","textShapes":8}
+{"kind":"textbox","id":"sh/ruh8by9w","slide":41,"text":"戦闘は専用部品、状態は限定GAS、内容はデータ駆動","textPreview":"戦闘は専用部品、状態は限定GAS、内容はデータ駆動","textChars":25,"textLines":1,"bbox":[42,36,1196,80]}
+{"kind":"shape","id":"sh/t0rqhkju","slide":41,"bbox":[42,120,100,7]}
+{"kind":"textbox","id":"sh/szi98fi9","slide":41,"text":"RUNTIME ARCHITECTURE","textPreview":"RUNTIME ARCHITECTURE","textChars":20,"textLines":1,"bbox":[42,160,540,45]}
+{"kind":"textbox","id":"sh/f298ju10","slide":41,"text":"• 移動・射撃・近接・飛行は専用コンポーネント\n• GAS／Gameplay Tagsは能力値・状態異常・属性・CDへ限定\n• StateTreeまたはBehavior Tree＋AI Perception\n• ボスは状態機械＋部位コンポーネント","textPreview":"• 移動・射撃・近接・飛行は専用コンポーネント | • GAS／Gameplay Tagsは能力値・状態異常・属性・CDへ限定 | • StateTreeまたはBehavior Tree＋AI Perception | • ボスは状態機械＋部位コンポーネント","textChars":123,"textLines":4,"bbox":[42,218,535,350]}
+{"kind":"shape","id":"sh/zy18fy9s","slide":41,"bbox":[620,155,1,410]}
+{"kind":"textbox","id":"sh/h4bqlkj6","slide":41,"text":"DATA / PIPELINE","textPreview":"DATA / PIPELINE","textChars":15,"textLines":1,"bbox":[664,160,574,45]}
+{"kind":"textbox","id":"sh/g3i9czil","slide":41,"text":"• Primary Data Asset／Data Table\n• 永続ID、表示名、ローカライズキー、個体GUIDを分離\n• 武器・敵・装備・任務・会話・ドロップをデータ化\n• ID、参照、解放章、報酬の自動検査をビルド条件へ","textPreview":"• Primary Data Asset／Data Table | • 永続ID、表示名、ローカライズキー、個体GUIDを分離 | • 武器・敵・装備・任務・会話・ドロップをデータ化 | • ID、参照、解放章、報酬の自動検査をビルド条件へ","textChars":114,"textLines":4,"bbox":[664,218,574,350]}
+{"kind":"shape","id":"sh/36t8nu1w","slide":41,"bbox":[42,585,1196,55]}
+{"kind":"textbox","id":"sh/25krep0r","slide":41,"text":"『学習AI』は機械学習でなく、可視化可能な有限ルール式。","textPreview":"『学習AI』は機械学習でなく、可視化可能な有限ルール式。","textChars":28,"textLines":1,"bbox":[62,599,1156,28]}
+{"kind":"textbox","id":"sh/cvqp43qh","slide":41,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/dwjqd8r2","slide":41,"text":"41","textPreview":"41","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/qt872t8b","slide":41,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/7mdw7yh8","slide":42,"title":"非機能要件：性能と信頼性","textShapes":4}
+{"kind":"shape","id":"sh/cfmdgzup","slide":42,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/mlovmtcr","slide":42,"name":"Google-Shape-533-p58-3","text":"非機能要件：性能と信頼性","textPreview":"非機能要件：性能と信頼性","textChars":12,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/nmxwfetc","slide":42,"name":"Content-Placeholder-15-4","text":"REFERENCE\n暫定目標。フレーム依存を排除し、オフライン本編を壊さない。","textPreview":"REFERENCE | 暫定目標。フレーム依存を排除し、オフライン本編を壊さない。","textChars":39,"textLines":2,"bbox":[42.09,111.02,1197.33,106.27]}
+{"kind":"textbox","id":"sh/lkfedov6","slide":42,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/yh4vi9cv","slide":42,"text":"42","textPreview":"42","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/zixcbedg","slide":42,"bbox":[42,660,54,4]}
+{"kind":"table","id":"tb/ovixwva5","slide":42,"name":"Google-Shape-644-p93-5","rows":8,"cols":2,"preview":"領域 | 要求","bbox":[41.33,236.33,1197.33,412.87]}
+{"kind":"slide","id":"sl/qhkbqxoz","slide":43,"title":"非機能要件：操作と保守","textShapes":4}
+{"kind":"shape","id":"sh/fulgba9k","slide":43,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/5ojy5gr2","slide":43,"name":"Google-Shape-533-p58-3","text":"非機能要件：操作と保守","textPreview":"非機能要件：操作と保守","textChars":11,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/43axcvqx","slide":43,"name":"Content-Placeholder-15-4","text":"REFERENCE\n本編はテレメトリなしでも完全動作。収集時は匿名・任意・目的明示。","textPreview":"REFERENCE | 本編はテレメトリなしでも完全動作。収集時は匿名・任意・目的明示。","textChars":42,"textLines":2,"bbox":[42.09,111.02,1197.33,106.27]}
+{"kind":"textbox","id":"sh/ux8f618f","slide":43,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/h0jy1gr6","slide":43,"text":"43","textPreview":"43","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/wzax8bql","slide":43,"bbox":[42,660,54,4]}
+{"kind":"table","id":"tb/fq1sfilg","slide":43,"name":"Google-Shape-644-p93-5","rows":8,"cols":2,"preview":"領域 | 要求","bbox":[41.33,236.33,1197.33,412.87]}
+{"kind":"slide","id":"sl/pcvutcvy","slide":44,"title":"P0〜P2で、楽しさから製品ループまでを順に証明する","textShapes":9}
+{"kind":"shape","id":"sh/ut8za9cr","slide":44,"name":"Slide-Number-Placeholder-3-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/tozulw3e","slide":44,"name":"Title-10-3","text":"P0〜P2で、楽しさから製品ループまでを順に証明する","textPreview":"P0〜P2で、楽しさから製品ループまでを順に証明する","textChars":26,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"shape","id":"sh/wz6h0zud","slide":44,"name":"Google-Shape-2259-p159-4","bbox":[35.46,354.2,1203.08,0.03]}
+{"kind":"shape","id":"sh/fqhcn6lk","slide":44,"name":"Google-Shape-2260-p159-5","bbox":[35.46,348.58,11.24,11.24]}
+{"kind":"shape","id":"sh/ep8ve1kz","slide":44,"name":"Google-Shape-2261-p159-6","bbox":[446.38,348.58,11.24,11.24]}
+{"kind":"shape","id":"sh/1szepg3q","slide":44,"name":"Google-Shape-2262-p159-7","bbox":[858.38,348.58,11.24,11.24]}
+{"kind":"textbox","id":"sh/grqdgb25","slide":44,"name":"Content-Placeholder-15-8","text":"P0","textPreview":"P0","textChars":2,"textLines":1,"bbox":[41.33,298.51,169.33,27.55]}
+{"kind":"textbox","id":"sh/vuxcb2lg","slide":44,"name":"Content-Placeholder-15-9","text":"P1","textPreview":"P1","textChars":2,"textLines":1,"bbox":[450.83,298.51,169.33,27.55]}
+{"kind":"textbox","id":"sh/ut4b2xkv","slide":44,"name":"Content-Placeholder-15-10","text":"P2","textPreview":"P2","textChars":2,"textLines":1,"bbox":[863.33,298.51,169.33,27.55]}
+{"kind":"textbox","id":"sh/8rqh8jul","slide":44,"name":"Text-Placeholder-16-11","text":"バーティカルスライス\n第1章01〜05、K1、K11、VS-01、ゴライアスT、HUD、カメラ。","textPreview":"バーティカルスライス | 第1章01〜05、K1、K11、VS-01、ゴライアスT、HUD、カメラ。","textChars":48,"textLines":2,"bbox":[453.24,401.33,331.35,166.54]}
+{"kind":"textbox","id":"sh/tszihov6","slide":44,"name":"Text-Placeholder-16-12","text":"戦闘プロトタイプ\n一対一。移動・飛行・射撃・近接・切替・敵距離維持。30/60fps一致。","textPreview":"戦闘プロトタイプ | 一対一。移動・飛行・射撃・近接・切替・敵距離維持。30/60fps一致。","textChars":45,"textLines":2,"bbox":[41.98,401.33,331.35,166.54]}
+{"kind":"textbox","id":"sh/6poz69cf","slide":44,"name":"Text-Placeholder-16-13","text":"コアループ完成\n第1〜2章、ドロップ、帰還、強化、売却、証拠、護衛、セーブ。","textPreview":"コアループ完成 | 第1〜2章、ドロップ、帰還、強化、売却、証拠、護衛、セーブ。","textChars":38,"textLines":2,"bbox":[858.57,401.33,331.35,166.54]}
+{"kind":"textbox","id":"sh/7qx0fed0","slide":44,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/gvqhcjuh","slide":44,"text":"44","textPreview":"44","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/hwzilov2","slide":44,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/kvipwnmh","slide":45,"title":"P3〜P5で、量産・本編完成・将来協力を分離する","textShapes":9}
+{"kind":"shape","id":"sh/2xwrutcj","slide":45,"name":"Slide-Number-Placeholder-3-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/lsz2dofy","slide":45,"name":"Title-10-3","text":"P3〜P5で、量産・本編完成・将来協力を分離する","textPreview":"P3〜P5で、量産・本編完成・将来協力を分離する","textChars":24,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"shape","id":"sh/cnet0nul","slide":45,"name":"Google-Shape-2259-p159-4","bbox":[35.46,354.2,1203.08,0.03]}
+{"kind":"shape","id":"sh/ne1kfydo","slide":45,"name":"Google-Shape-2260-p159-5","bbox":[35.46,348.58,11.24,11.24]}
+{"kind":"shape","id":"sh/mtsjmtw3","slide":45,"name":"Google-Shape-2261-p159-6","bbox":[446.38,348.58,11.24,11.24]}
+{"kind":"shape","id":"sh/9gj2hovu","slide":45,"name":"Google-Shape-2262-p159-7","bbox":[858.38,348.58,11.24,11.24]}
+{"kind":"textbox","id":"sh/8fa1oje9","slide":45,"name":"Content-Placeholder-15-8","text":"P3","textPreview":"P3","textChars":2,"textLines":1,"bbox":[41.33,298.51,169.33,27.55]}
+{"kind":"textbox","id":"sh/vi1kjyd0","slide":45,"name":"Content-Placeholder-15-9","text":"P4","textPreview":"P4","textChars":2,"textLines":1,"bbox":[450.83,298.51,169.33,27.55]}
+{"kind":"textbox","id":"sh/ahs3qtwf","slide":45,"name":"Content-Placeholder-15-10","text":"P5","textPreview":"P5","textChars":2,"textLines":1,"bbox":[863.33,298.51,169.33,27.55]}
+{"kind":"textbox","id":"sh/gvu9s3ud","slide":45,"name":"Text-Placeholder-16-11","text":"本編完成\n全20章・10フィールド。品質不足時はステージ数を削減。オフライン完結。","textPreview":"本編完成 | 全20章・10フィールド。品質不足時はステージ数を削減。オフライン完結。","textChars":41,"textLines":2,"bbox":[453.24,401.33,331.35,166.54]}
+{"kind":"textbox","id":"sh/hw3a1oby","slide":45,"name":"Text-Placeholder-16-12","text":"生産可能状態\nフィールド1〜3、共通AI・環境・ギミック、データ駆動、自動検証。","textPreview":"生産可能状態 | フィールド1〜3、共通AI・環境・ギミック、データ駆動、自動検証。","textChars":40,"textLines":2,"bbox":[41.98,401.33,331.35,166.54]}
+{"kind":"textbox","id":"sh/utcrqtc7","slide":45,"name":"Text-Placeholder-16-13","text":"将来機能\n1〜4人協力、追加短編・フィールド、家庭用。PvPは対象外。","textPreview":"将来機能 | 1〜4人協力、追加短編・フィールド、家庭用。PvPは対象外。","textChars":35,"textLines":2,"bbox":[858.57,401.33,331.35,166.54]}
+{"kind":"textbox","id":"sh/fulszyts","slide":45,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/4zetw3u9","slide":45,"text":"45","textPreview":"45","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/pkna58bu","slide":45,"bbox":[42,660,54,4]}
+{"kind":"slide","id":"sl/zixsf2ps","slide":46,"title":"主要リスクは、P0〜P3の検証順で減らす","textShapes":4}
+{"kind":"shape","id":"sh/s3ul4bu9","slide":46,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/a9s3uhcv","slide":46,"name":"Google-Shape-533-p58-3","text":"主要リスクは、P0〜P3の検証順で減らす","textPreview":"主要リスクは、P0〜P3の検証順で減らす","textChars":20,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/va14nmtg","slide":46,"name":"Content-Placeholder-15-4","text":"REFERENCE\n物量より先に、戦闘・飛行・数式・データの破綻を止める。","textPreview":"REFERENCE | 物量より先に、戦闘・飛行・数式・データの破綻を止める。","textChars":37,"textLines":2,"bbox":[42.09,111.02,1197.33,106.27]}
+{"kind":"textbox","id":"sh/5g3mtwbi","slide":46,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/ids3yhc7","slide":46,"text":"46","textPreview":"46","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/je14rmts","slide":46,"bbox":[42,660,54,4]}
+{"kind":"table","id":"tb/4fe18ze1","slide":46,"name":"Google-Shape-644-p93-5","rows":8,"cols":3,"preview":"リスク | 影響 | 対策","bbox":[41.33,236.33,1197.33,412.87]}
+{"kind":"slide","id":"sl/atcnytkf","slide":47,"title":"P0着手前に閉じる、優先度・高の仕様ゲート","textShapes":4}
+{"kind":"shape","id":"sh/7qhczu9w","slide":47,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/503e9ora","slide":47,"name":"Google-Shape-533-p58-3","text":"P0着手前に閉じる、優先度・高の仕様ゲート","textPreview":"P0着手前に閉じる、優先度・高の仕様ゲート","textChars":21,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/4zadgjap","slide":47,"name":"Content-Placeholder-15-4","text":"REFERENCE\n決定待ちを確定仕様として実装しない。責任者ごとに閉じる。","textPreview":"REFERENCE | 決定待ちを確定仕様として実装しない。責任者ごとに閉じる。","textChars":38,"textLines":2,"bbox":[42.09,111.02,1197.33,106.27]}
+{"kind":"textbox","id":"sh/6lcvitsf","slide":47,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/do3edor6","slide":47,"text":"47","textPreview":"47","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/snudk3al","slide":47,"bbox":[42,660,54,4]}
+{"kind":"table","id":"tb/r69grihc","slide":47,"name":"Google-Shape-644-p93-5","rows":7,"cols":3,"preview":"責任者 | ブロッカー | 完了条件","bbox":[41.33,236.33,1197.33,412.87]}
+{"kind":"slide","id":"sl/pwb6x4jy","slide":48,"title":"決定権を守り、統合スライドから制作へ移る","textShapes":4}
+{"kind":"shape","id":"sh/juxs7mxk","slide":48,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/94va1sf2","slide":48,"name":"Google-Shape-533-p58-3","text":"決定権を守り、統合スライドから制作へ移る","textPreview":"決定権を守り、統合スライドから制作へ移る","textChars":20,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/83m9snyx","slide":48,"name":"Content-Placeholder-15-4","text":"REFERENCE\n専門判断を上書きせず、依存関係を明示して進める。","textPreview":"REFERENCE | 専門判断を上書きせず、依存関係を明示して進める。","textChars":34,"textLines":2,"bbox":[42.09,111.02,1197.33,106.27]}
+{"kind":"textbox","id":"sh/yxkrmdgf","slide":48,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/l0vaxsf6","slide":48,"text":"48","textPreview":"48","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/kzm9onyl","slide":48,"bbox":[42,660,54,4]}
+{"kind":"table","id":"tb/vih4jips","slide":48,"name":"Google-Shape-644-p93-5","rows":6,"cols":3,"preview":"役割 | 最終責任 | 次の行動","bbox":[41.33,236.33,1197.33,412.87]}
+{"kind":"slide","id":"sl/oz2xg3q1","slide":49,"title":"付録：第1〜5章の敵とステージギミック","textShapes":4}
+{"kind":"shape","id":"sh/ahc3mhsn","slide":49,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/0ra1w7al","slide":49,"name":"Google-Shape-533-p58-3","text":"付録：第1〜5章の敵とステージギミック","textPreview":"付録：第1〜5章の敵とステージギミック","textChars":19,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/1sj2psbq","slide":49,"name":"Content-Placeholder-15-4","text":"REFERENCE\n章ごとの敵・ボス・ギミックを、学習内容と物語上の役割に結び付ける。","textPreview":"REFERENCE | 章ごとの敵・ボス・ギミックを、学習内容と物語上の役割に結び付ける。","textChars":43,"textLines":2,"bbox":[42.09,111.02,1197.33,106.27]}
+{"kind":"textbox","id":"sh/rmhkjito","slide":49,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/cnq1snu9","slide":49,"text":"49","textPreview":"49","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/doz2lsbu","slide":49,"bbox":[42,660,54,4]}
+{"kind":"table","id":"tb/2lgrmtor","slide":49,"name":"Google-Shape-644-p93-5","rows":6,"cols":3,"preview":"章 | 主な敵／ボス | 主なギミック","bbox":[41.33,236.33,1197.33,412.87]}
+{"kind":"slide","id":"sl/a9gvuxsb","slide":50,"title":"付録：第6〜10章の敵とステージギミック","textShapes":4}
+{"kind":"shape","id":"sh/6loru9wr","slide":50,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/ofq943e5","slide":50,"name":"Google-Shape-533-p58-3","text":"付録：第6〜10章の敵とステージギミック","textPreview":"付録：第6〜10章の敵とステージギミック","textChars":20,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/pgzax8vq","slide":50,"name":"Content-Placeholder-15-4","text":"REFERENCE\n章ごとの敵・ボス・ギミックを、学習内容と物語上の役割に結び付ける。","textPreview":"REFERENCE | 章ごとの敵・ボス・ギミックを、学習内容と物語上の役割に結び付ける。","textChars":43,"textLines":2,"bbox":[42.09,111.02,1197.33,106.27]}
+{"kind":"textbox","id":"sh/fqhsrydo","slide":50,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/gbq90jet","slide":50,"text":"50","textPreview":"50","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/1czatove","slide":50,"bbox":[42,660,54,4]}
+{"kind":"table","id":"tb/q90v2dk7","slide":50,"name":"Google-Shape-644-p93-5","rows":6,"cols":3,"preview":"章 | 主な敵／ボス | 主なギミック","bbox":[41.33,236.33,1197.33,412.87]}
+{"kind":"slide","id":"sl/36hsrmts","slide":51,"title":"付録：第11〜15章の敵とステージギミック","textShapes":4}
+{"kind":"shape","id":"sh/3e5sj65w","slide":51,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/l8rat03a","slide":51,"name":"Google-Shape-533-p58-3","text":"付録：第11〜15章の敵とステージギミック","textPreview":"付録：第11〜15章の敵とステージギミック","textChars":21,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/07yt0vmp","slide":51,"name":"Content-Placeholder-15-4","text":"REFERENCE\n章ごとの敵・ボス・ギミックを、学習内容と物語上の役割に結び付ける。","textPreview":"REFERENCE | 章ごとの敵・ボス・ギミックを、学習内容と物語上の役割に結び付ける。","textChars":43,"textLines":2,"bbox":[42.09,111.02,1197.33,106.27]}
+{"kind":"textbox","id":"sh/m90b254v","slide":51,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/9craxk36","slide":51,"text":"51","textPreview":"51","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/8bit4fml","slide":51,"bbox":[42,660,54,4]}
+{"kind":"table","id":"tb/ryxg7qd8","slide":51,"name":"Google-Shape-644-p93-5","rows":6,"cols":3,"preview":"章 | 主な敵／ボス | 主なギミック","bbox":[41.33,236.33,1197.33,412.87]}
+{"kind":"slide","id":"sl/gfe1wbu1","slide":52,"title":"付録：第16〜20章の敵とステージギミック","textShapes":4}
+{"kind":"shape","id":"sh/bu1sj254","slide":52,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/hozadsnm","slide":52,"name":"Google-Shape-533-p58-3","text":"付録：第16〜20章の敵とステージギミック","textPreview":"付録：第16〜20章の敵とステージギミック","textChars":21,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/gnq94n61","slide":52,"name":"Content-Placeholder-15-4","text":"REFERENCE\n章ごとの敵・ボス・ギミックを、学習内容と物語上の役割に結び付ける。","textPreview":"REFERENCE | 章ごとの敵・ボス・ギミックを、学習内容と物語上の役割に結び付ける。","textChars":43,"textLines":2,"bbox":[42.09,111.02,1197.33,106.27]}
+{"kind":"textbox","id":"sh/2psr6xo7","slide":52,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/psjahcny","slide":52,"text":"52","textPreview":"52","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/4ra987md","slide":52,"bbox":[42,660,54,4]}
+{"kind":"table","id":"tb/7a5sfit8","slide":52,"name":"Google-Shape-644-p93-5","rows":6,"cols":3,"preview":"章 | 主な敵／ボス | 主なギミック","bbox":[41.33,236.33,1197.33,412.87]}
+{"kind":"slide","id":"sl/9w7yt8zy","slide":53,"title":"付録：武器・装備・アイテムの成長体系","textShapes":4}
+{"kind":"shape","id":"sh/cjixknq1","slide":53,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/m9kfqxo3","slide":53,"name":"Google-Shape-533-p58-3","text":"付録：武器・装備・アイテムの成長体系","textPreview":"付録：武器・装備・アイテムの成長体系","textChars":18,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/natwz2po","slide":53,"name":"Content-Placeholder-15-4","text":"REFERENCE\n詳細数値は04〜08資料。数式・上限はGate 0後に再計算。","textPreview":"REFERENCE | 詳細数値は04〜08資料。数式・上限はGate 0後に再計算。","textChars":41,"textLines":2,"bbox":[42.09,111.02,1197.33,106.27]}
+{"kind":"textbox","id":"sh/1obexs7i","slide":53,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/elkfmx87","slide":53,"text":"53","textPreview":"53","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/zmtwv2ps","slide":53,"bbox":[42,660,54,4]}
+{"kind":"table","id":"tb/4jmlo32x","slide":53,"name":"Google-Shape-644-p93-5","rows":7,"cols":3,"preview":"体系 | 内容 | 運用原則","bbox":[41.33,236.33,1197.33,412.87]}
+{"kind":"slide","id":"sl/uhgfqdcf","slide":54,"title":"付録：ステータスとデータ管理の正典","textShapes":4}
+{"kind":"shape","id":"sh/v21gvy9s","slide":54,"name":"Google-Shape-532-p58-2","bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/lwjyporq","slide":54,"name":"Google-Shape-533-p58-3","text":"付録：ステータスとデータ管理の正典","textPreview":"付録：ステータスとデータ管理の正典","textChars":17,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/0vqxgja5","slide":54,"name":"Content-Placeholder-15-4","text":"REFERENCE\n表示名、内部ID、個体GUID、勢力、組織を分離する。","textPreview":"REFERENCE | 表示名、内部ID、個体GUID、勢力、組織を分離する。","textChars":37,"textLines":2,"bbox":[42.09,111.02,1197.33,106.27]}
+{"kind":"textbox","id":"sh/q58faps3","slide":54,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/dszyl4ru","slide":54,"text":"54","textPreview":"54","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/c7qxcza9","slide":54,"bbox":[42,660,54,4]}
+{"kind":"table","id":"tb/b2lsby98","slide":54,"name":"Google-Shape-644-p93-5","rows":7,"cols":3,"preview":"領域 | 代表値／ID | 注意","bbox":[41.33,236.33,1197.33,412.87]}
+{"kind":"slide","id":"sl/vyd8bips","slide":55,"title":"PRODUCER FINAL DIRECTION","textShapes":5}
+{"kind":"textbox","id":"sh/gv6t0bqp","slide":55,"text":"PRODUCER FINAL DIRECTION","textPreview":"PRODUCER FINAL DIRECTION","textChars":24,"textLines":1,"bbox":[42,42,1060,32]}
+{"kind":"textbox","id":"sh/q18b6l8r","slide":55,"text":"止めるのは機械。\n守るのは、決める権利。","textPreview":"止めるのは機械。 | 守るのは、決める権利。","textChars":20,"textLines":2,"bbox":[42,145,1125,260]}
+{"kind":"shape","id":"sh/r2hszqpc","slide":55,"bbox":[42,452,120,8]}
+{"kind":"textbox","id":"sh/0rqtcfqt","slide":55,"text":"次の正式ゲートは、物語決定の正典反映と、技術責任者による数式・ID・装備枠・セーブ・性能予算の承認。その後P0へ進む。","textPreview":"次の正式ゲートは、物語決定の正典反映と、技術責任者による数式・ID・装備枠・セーブ・性能予算の承認。その後P0へ進む。","textChars":59,"textLines":1,"bbox":[42,495,1000,100]}
+{"kind":"textbox","id":"sh/1sju507e","slide":55,"text":"YTC: Deliver Tomorrow","textPreview":"YTC: Deliver Tomorrow","textChars":21,"textLines":1,"bbox":[42,670,350,24]}
+{"kind":"textbox","id":"sh/ep8ba583","slide":55,"text":"55","textPreview":"55","textChars":2,"textLines":1,"bbox":[1178,670,60,24]}
+{"kind":"shape","id":"sh/fqhc3ap8","slide":55,"bbox":[42,660,54,4]}

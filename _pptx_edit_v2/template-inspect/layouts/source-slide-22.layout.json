@@ -1,0 +1,1100 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/5onypobq",
+    "id": "5onypobq",
+    "slide": 22,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Helvetica Neue",
+      "Yu Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/43u9snu5",
+      "id": "8",
+      "name": "Google-Shape-532-p58-2",
+      "bbox": [
+        1184.18,
+        659.24,
+        54.48,
+        25.33
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6987itcr",
+      "id": "2",
+      "name": "Google-Shape-533-p58-3",
+      "bbox": [
+        41.33,
+        36.12,
+        1197.33,
+        109.97
+      ],
+      "geometry": "rect",
+      "text": "装備は『強さ』ではなく、任務への回答を組む",
+      "textPreview": "装備は『強さ』ではなく、任務への回答を組む",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "装備は『強さ』ではなく、任務への回答を組む"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "装備は『強さ』ではなく、任務への回答を組む",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 38.67,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "装備は『強さ』ではなく、任務への回答を組む",
+              "fontSize": 48,
+              "typeface": "Yu Gothic",
+              "color": "#12171C",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7a18rydc",
+      "id": "3",
+      "name": "Content-Placeholder-15-4",
+      "bbox": [
+        42.09,
+        111.02,
+        1197.33,
+        106.27
+      ],
+      "geometry": "rect",
+      "text": "REFERENCE\nK1の部位構造。戦術装備・ユーティリティ・消耗品の最終参照関係は仕様ゲートで固定。",
+      "textPreview": "REFERENCE | K1の部位構造。戦術装備・ユーティリティ・消耗品の最終参照関係は仕様ゲートで固定。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "REFERENCE"
+          },
+          {
+            "index": 2,
+            "text": "K1の部位構造。戦術装備・ユーティリティ・消耗品の最終参照関係は仕様ゲートで固定。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "REFERENCE",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "REFERENCE",
+              "fontSize": 17,
+              "typeface": "Yu Gothic",
+              "color": "#F28C28",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "K1の部位構造。戦術装備・ユーティリティ・消耗品の最終参照関係は仕様ゲートで固定。",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "K1の部位構造。戦術装備・ユーティリティ・消耗品の最終参照関係は仕様ゲートで固定。",
+              "fontSize": 20,
+              "typeface": "Yu Gothic",
+              "color": "#28323A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/0nu5gv2p",
+      "id": "9",
+      "name": "Google-Shape-644-p93-5",
+      "bbox": [
+        41.33,
+        236.33,
+        1197,
+        412.87
+      ],
+      "text": "部位 | 主な役割 | 判断例\nフレーム | 基礎性能・Stage | 装備コスト上限\nセンサー | 索敵・ロック・弱点 | ジャミング／狙撃\nアーマー | 防御・環境耐性 | 寒冷／高熱／電磁\nアーム | 反動・近接・ガード | 射撃安定／装甲破壊\nレッグ | 機動・安定・地形 | 砂地／凍結／重量\nバック | 飛行・盾・支援・冷却 | 空中戦／防衛／熱\n補助A/B | 任務特化 | 浄化・救助・妨害対策",
+      "textPreview": "部位 | 主な役割 | 判断例 | フレーム | 基礎性能・Stage | 装備コスト上限 | センサー | 索敵・ロック・弱点 | ジャミング／狙撃 | アーマー | 防御・環境耐性 | 寒冷／高熱／電磁 | アーム | 反動・近接・ガード | 射撃安定／装甲破壊 | レ...",
+      "rows": 8,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            41.33,
+            236.33,
+            260,
+            51.61
+          ],
+          "text": "部位",
+          "textPreview": "部位",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "部位",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "部位",
+                  "fontSize": 17,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            301.33,
+            236.33,
+            430,
+            51.61
+          ],
+          "text": "主な役割",
+          "textPreview": "主な役割",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "主な役割",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "主な役割",
+                  "fontSize": 17,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            731.33,
+            236.33,
+            507,
+            51.61
+          ],
+          "text": "判断例",
+          "textPreview": "判断例",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "判断例",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "判断例",
+                  "fontSize": 17,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            41.33,
+            287.94,
+            260,
+            51.61
+          ],
+          "text": "フレーム",
+          "textPreview": "フレーム",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "フレーム",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "フレーム",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            301.33,
+            287.94,
+            430,
+            51.61
+          ],
+          "text": "基礎性能・Stage",
+          "textPreview": "基礎性能・Stage",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "基礎性能・Stage",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "基礎性能・Stage",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            731.33,
+            287.94,
+            507,
+            51.61
+          ],
+          "text": "装備コスト上限",
+          "textPreview": "装備コスト上限",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "装備コスト上限",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "装備コスト上限",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            41.33,
+            339.55,
+            260,
+            51.61
+          ],
+          "text": "センサー",
+          "textPreview": "センサー",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "センサー",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "センサー",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            301.33,
+            339.55,
+            430,
+            51.61
+          ],
+          "text": "索敵・ロック・弱点",
+          "textPreview": "索敵・ロック・弱点",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "索敵・ロック・弱点",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "索敵・ロック・弱点",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            731.33,
+            339.55,
+            507,
+            51.61
+          ],
+          "text": "ジャミング／狙撃",
+          "textPreview": "ジャミング／狙撃",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ジャミング／狙撃",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ジャミング／狙撃",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            41.33,
+            391.16,
+            260,
+            51.61
+          ],
+          "text": "アーマー",
+          "textPreview": "アーマー",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "アーマー",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "アーマー",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            301.33,
+            391.16,
+            430,
+            51.61
+          ],
+          "text": "防御・環境耐性",
+          "textPreview": "防御・環境耐性",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "防御・環境耐性",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "防御・環境耐性",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            731.33,
+            391.16,
+            507,
+            51.61
+          ],
+          "text": "寒冷／高熱／電磁",
+          "textPreview": "寒冷／高熱／電磁",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "寒冷／高熱／電磁",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "寒冷／高熱／電磁",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            41.33,
+            442.76,
+            260,
+            51.61
+          ],
+          "text": "アーム",
+          "textPreview": "アーム",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "アーム",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "アーム",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            301.33,
+            442.76,
+            430,
+            51.61
+          ],
+          "text": "反動・近接・ガード",
+          "textPreview": "反動・近接・ガード",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "反動・近接・ガード",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "反動・近接・ガード",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            731.33,
+            442.76,
+            507,
+            51.61
+          ],
+          "text": "射撃安定／装甲破壊",
+          "textPreview": "射撃安定／装甲破壊",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "射撃安定／装甲破壊",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "射撃安定／装甲破壊",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            41.33,
+            494.37,
+            260,
+            51.61
+          ],
+          "text": "レッグ",
+          "textPreview": "レッグ",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "レッグ",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "レッグ",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            301.33,
+            494.37,
+            430,
+            51.61
+          ],
+          "text": "機動・安定・地形",
+          "textPreview": "機動・安定・地形",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "機動・安定・地形",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "機動・安定・地形",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            731.33,
+            494.37,
+            507,
+            51.61
+          ],
+          "text": "砂地／凍結／重量",
+          "textPreview": "砂地／凍結／重量",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "砂地／凍結／重量",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "砂地／凍結／重量",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            41.33,
+            545.98,
+            260,
+            51.61
+          ],
+          "text": "バック",
+          "textPreview": "バック",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "バック",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "バック",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            301.33,
+            545.98,
+            430,
+            51.61
+          ],
+          "text": "飛行・盾・支援・冷却",
+          "textPreview": "飛行・盾・支援・冷却",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "飛行・盾・支援・冷却",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "飛行・盾・支援・冷却",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            731.33,
+            545.98,
+            507,
+            51.61
+          ],
+          "text": "空中戦／防衛／熱",
+          "textPreview": "空中戦／防衛／熱",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "空中戦／防衛／熱",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "空中戦／防衛／熱",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 8,
+          "column": 1,
+          "bbox": [
+            41.33,
+            597.59,
+            260,
+            51.61
+          ],
+          "text": "補助A/B",
+          "textPreview": "補助A/B",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "補助A/B",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "補助A/B",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 8,
+          "column": 2,
+          "bbox": [
+            301.33,
+            597.59,
+            430,
+            51.61
+          ],
+          "text": "任務特化",
+          "textPreview": "任務特化",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "任務特化",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "任務特化",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 8,
+          "column": 3,
+          "bbox": [
+            731.33,
+            597.59,
+            507,
+            51.61
+          ],
+          "text": "浄化・救助・妨害対策",
+          "textPreview": "浄化・救助・妨害対策",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "浄化・救助・妨害対策",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "浄化・救助・妨害対策",
+                  "fontSize": 17,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58zqpov6",
+      "id": "5",
+      "bbox": [
+        42,
+        670,
+        350,
+        24
+      ],
+      "geometry": "rect",
+      "text": "YTC: Deliver Tomorrow",
+      "textPreview": "YTC: Deliver Tomorrow",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "YTC: Deliver Tomorrow"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "YTC: Deliver Tomorrow",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "YTC: Deliver Tomorrow",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/il87etcv",
+      "id": "6",
+      "bbox": [
+        1178,
+        670,
+        60,
+        24
+      ],
+      "geometry": "rect",
+      "text": "22",
+      "textPreview": "22",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "22"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "22",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "22",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jmh8nyd0",
+      "id": "7",
+      "bbox": [
+        42,
+        660,
+        54,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C28"
+    }
+  ],
+  "composeRuns": []
+}

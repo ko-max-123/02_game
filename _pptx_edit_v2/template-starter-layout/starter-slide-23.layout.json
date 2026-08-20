@@ -1,0 +1,1321 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/swff49",
+    "id": "swff49",
+    "slide": 23,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Helvetica Neue",
+      "Yu Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gfy9gj25",
+      "id": "8",
+      "name": "Google-Shape-532-p58-2",
+      "bbox": [
+        1184.18,
+        659.24,
+        54.48,
+        25.33
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qlgr6tk7",
+      "id": "2",
+      "name": "Google-Shape-533-p58-3",
+      "bbox": [
+        41.33,
+        36.12,
+        1197.33,
+        109.97
+      ],
+      "geometry": "rect",
+      "text": "武器は、距離・装甲破壊・機動・資源負担で比較する",
+      "textPreview": "武器は、距離・装甲破壊・機動・資源負担で比較する",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "武器は、距離・装甲破壊・機動・資源負担で比較する"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "武器は、距離・装甲破壊・機動・資源負担で比較する",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 38.67,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "武器は、距離・装甲破壊・機動・資源負担で比較する",
+              "fontSize": 48,
+              "typeface": "Yu Gothic",
+              "color": "#12171C",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rm98fy1s",
+      "id": "3",
+      "name": "Content-Placeholder-15-4",
+      "bbox": [
+        42.09,
+        111.02,
+        1197.33,
+        106.27
+      ],
+      "geometry": "rect",
+      "text": "REFERENCE\n代表武器。未確定DPS値を大きく見せず、行動差を正典とする。",
+      "textPreview": "REFERENCE | 代表武器。未確定DPS値を大きく見せず、行動差を正典とする。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "REFERENCE"
+          },
+          {
+            "index": 2,
+            "text": "代表武器。未確定DPS値を大きく見せず、行動差を正典とする。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "REFERENCE",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "REFERENCE",
+              "fontSize": 17,
+              "typeface": "Yu Gothic",
+              "color": "#F28C28",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "代表武器。未確定DPS値を大きく見せず、行動差を正典とする。",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "代表武器。未確定DPS値を大きく見せず、行動差を正典とする。",
+              "fontSize": 20,
+              "typeface": "Yu Gothic",
+              "color": "#28323A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/wfah4z6p",
+      "id": "9",
+      "name": "Google-Shape-644-p93-5",
+      "bbox": [
+        41.33,
+        236.33,
+        1197,
+        412.87
+      ],
+      "text": "武器 | 型 | 戦場での役割 | 主な代償\nK11 | 機甲ライフル | 中距離の基準／弱点射撃 | 標準的な弾薬負担\nWO-8 白羽 | 狙撃 | 長距離弱点・対精鋭 | 低連射／位置依存\nP6 杭打ち | ロケット | 重装甲・部位破壊 | 弾数／自爆距離\nN20 蛍 | ビーム砲 | 高精度・継続圧力 | 熱とエネルギー\nVS-01 | 振動ソード | 装甲剥離・近接基準 | 接近リスク\nIR-7 鉄鐘 | 大剣 | 体勢崩し・防御 | 重量／機動低下\nKX 静電杭 | レール | 終盤の貫通回答 | チャージ／隙",
+      "textPreview": "武器 | 型 | 戦場での役割 | 主な代償 | K11 | 機甲ライフル | 中距離の基準／弱点射撃 | 標準的な弾薬負担 | WO-8 白羽 | 狙撃 | 長距離弱点・対精鋭 | 低連射／位置依存 | P6 杭打ち | ロケット | 重装甲・部位破壊 | 弾数／自爆距離...",
+      "rows": 8,
+      "cols": 4,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            41.33,
+            236.33,
+            210,
+            51.61
+          ],
+          "text": "武器",
+          "textPreview": "武器",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "武器",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "武器",
+                  "fontSize": 16,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            251.33,
+            236.33,
+            180,
+            51.61
+          ],
+          "text": "型",
+          "textPreview": "型",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "型",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "型",
+                  "fontSize": 16,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            431.33,
+            236.33,
+            500,
+            51.61
+          ],
+          "text": "戦場での役割",
+          "textPreview": "戦場での役割",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "戦場での役割",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "戦場での役割",
+                  "fontSize": 16,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            931.33,
+            236.33,
+            307,
+            51.61
+          ],
+          "text": "主な代償",
+          "textPreview": "主な代償",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "主な代償",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "主な代償",
+                  "fontSize": 16,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            41.33,
+            287.94,
+            210,
+            51.61
+          ],
+          "text": "K11",
+          "textPreview": "K11",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "K11",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "K11",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            251.33,
+            287.94,
+            180,
+            51.61
+          ],
+          "text": "機甲ライフル",
+          "textPreview": "機甲ライフル",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "機甲ライフル",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "機甲ライフル",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            431.33,
+            287.94,
+            500,
+            51.61
+          ],
+          "text": "中距離の基準／弱点射撃",
+          "textPreview": "中距離の基準／弱点射撃",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "中距離の基準／弱点射撃",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "中距離の基準／弱点射撃",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            931.33,
+            287.94,
+            307,
+            51.61
+          ],
+          "text": "標準的な弾薬負担",
+          "textPreview": "標準的な弾薬負担",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "標準的な弾薬負担",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "標準的な弾薬負担",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            41.33,
+            339.55,
+            210,
+            51.61
+          ],
+          "text": "WO-8 白羽",
+          "textPreview": "WO-8 白羽",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "WO-8 白羽",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "WO-8 白羽",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            251.33,
+            339.55,
+            180,
+            51.61
+          ],
+          "text": "狙撃",
+          "textPreview": "狙撃",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "狙撃",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "狙撃",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            431.33,
+            339.55,
+            500,
+            51.61
+          ],
+          "text": "長距離弱点・対精鋭",
+          "textPreview": "長距離弱点・対精鋭",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "長距離弱点・対精鋭",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "長距離弱点・対精鋭",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            931.33,
+            339.55,
+            307,
+            51.61
+          ],
+          "text": "低連射／位置依存",
+          "textPreview": "低連射／位置依存",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "低連射／位置依存",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "低連射／位置依存",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            41.33,
+            391.16,
+            210,
+            51.61
+          ],
+          "text": "P6 杭打ち",
+          "textPreview": "P6 杭打ち",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "P6 杭打ち",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "P6 杭打ち",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            251.33,
+            391.16,
+            180,
+            51.61
+          ],
+          "text": "ロケット",
+          "textPreview": "ロケット",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ロケット",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ロケット",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            431.33,
+            391.16,
+            500,
+            51.61
+          ],
+          "text": "重装甲・部位破壊",
+          "textPreview": "重装甲・部位破壊",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "重装甲・部位破壊",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "重装甲・部位破壊",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            931.33,
+            391.16,
+            307,
+            51.61
+          ],
+          "text": "弾数／自爆距離",
+          "textPreview": "弾数／自爆距離",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "弾数／自爆距離",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "弾数／自爆距離",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            41.33,
+            442.76,
+            210,
+            51.61
+          ],
+          "text": "N20 蛍",
+          "textPreview": "N20 蛍",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "N20 蛍",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "N20 蛍",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            251.33,
+            442.76,
+            180,
+            51.61
+          ],
+          "text": "ビーム砲",
+          "textPreview": "ビーム砲",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ビーム砲",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ビーム砲",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            431.33,
+            442.76,
+            500,
+            51.61
+          ],
+          "text": "高精度・継続圧力",
+          "textPreview": "高精度・継続圧力",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "高精度・継続圧力",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "高精度・継続圧力",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            931.33,
+            442.76,
+            307,
+            51.61
+          ],
+          "text": "熱とエネルギー",
+          "textPreview": "熱とエネルギー",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "熱とエネルギー",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "熱とエネルギー",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            41.33,
+            494.37,
+            210,
+            51.61
+          ],
+          "text": "VS-01",
+          "textPreview": "VS-01",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "VS-01",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "VS-01",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            251.33,
+            494.37,
+            180,
+            51.61
+          ],
+          "text": "振動ソード",
+          "textPreview": "振動ソード",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "振動ソード",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "振動ソード",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            431.33,
+            494.37,
+            500,
+            51.61
+          ],
+          "text": "装甲剥離・近接基準",
+          "textPreview": "装甲剥離・近接基準",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "装甲剥離・近接基準",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "装甲剥離・近接基準",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            931.33,
+            494.37,
+            307,
+            51.61
+          ],
+          "text": "接近リスク",
+          "textPreview": "接近リスク",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "接近リスク",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "接近リスク",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            41.33,
+            545.98,
+            210,
+            51.61
+          ],
+          "text": "IR-7 鉄鐘",
+          "textPreview": "IR-7 鉄鐘",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "IR-7 鉄鐘",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "IR-7 鉄鐘",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            251.33,
+            545.98,
+            180,
+            51.61
+          ],
+          "text": "大剣",
+          "textPreview": "大剣",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "大剣",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "大剣",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            431.33,
+            545.98,
+            500,
+            51.61
+          ],
+          "text": "体勢崩し・防御",
+          "textPreview": "体勢崩し・防御",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "体勢崩し・防御",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "体勢崩し・防御",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 7,
+          "column": 4,
+          "bbox": [
+            931.33,
+            545.98,
+            307,
+            51.61
+          ],
+          "text": "重量／機動低下",
+          "textPreview": "重量／機動低下",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "重量／機動低下",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "重量／機動低下",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 29,
+          "row": 8,
+          "column": 1,
+          "bbox": [
+            41.33,
+            597.59,
+            210,
+            51.61
+          ],
+          "text": "KX 静電杭",
+          "textPreview": "KX 静電杭",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "KX 静電杭",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "KX 静電杭",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "row": 8,
+          "column": 2,
+          "bbox": [
+            251.33,
+            597.59,
+            180,
+            51.61
+          ],
+          "text": "レール",
+          "textPreview": "レール",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "レール",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "レール",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 31,
+          "row": 8,
+          "column": 3,
+          "bbox": [
+            431.33,
+            597.59,
+            500,
+            51.61
+          ],
+          "text": "終盤の貫通回答",
+          "textPreview": "終盤の貫通回答",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "終盤の貫通回答",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "終盤の貫通回答",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "row": 8,
+          "column": 4,
+          "bbox": [
+            931.33,
+            597.59,
+            307,
+            51.61
+          ],
+          "text": "チャージ／隙",
+          "textPreview": "チャージ／隙",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "チャージ／隙",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "チャージ／隙",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1cral8ju",
+      "id": "5",
+      "bbox": [
+        42,
+        670,
+        350,
+        24
+      ],
+      "geometry": "rect",
+      "text": "YTC: Deliver Tomorrow",
+      "textPreview": "YTC: Deliver Tomorrow",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "YTC: Deliver Tomorrow"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "YTC: Deliver Tomorrow",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "YTC: Deliver Tomorrow",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ep0radk3",
+      "id": "6",
+      "bbox": [
+        1178,
+        670,
+        60,
+        24
+      ],
+      "geometry": "rect",
+      "text": "23",
+      "textPreview": "23",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "23"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "23",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "23",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fa9sji1o",
+      "id": "7",
+      "bbox": [
+        42,
+        660,
+        54,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C28"
+    }
+  ],
+  "composeRuns": []
+}

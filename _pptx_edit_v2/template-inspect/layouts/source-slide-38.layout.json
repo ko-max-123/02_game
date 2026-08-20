@@ -1,0 +1,1265 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/ofahkri5",
+    "id": "ofahkri5",
+    "slide": 38,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Helvetica Neue",
+      "Yu Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u10jqlwr",
+      "id": "8",
+      "name": "Google-Shape-532-p58-2",
+      "bbox": [
+        1184.18,
+        659.24,
+        54.48,
+        25.33
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kvy1kbep",
+      "id": "2",
+      "name": "Google-Shape-533-p58-3",
+      "bbox": [
+        41.33,
+        36.12,
+        1197.33,
+        109.97
+      ],
+      "geometry": "rect",
+      "text": "機能要件：コア操作・戦闘・任務",
+      "textPreview": "機能要件：コア操作・戦闘・任務",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "機能要件：コア操作・戦闘・任務"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "機能要件：コア操作・戦闘・任務",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 38.67,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "機能要件：コア操作・戦闘・任務",
+              "fontSize": 48,
+              "typeface": "Yu Gothic",
+              "color": "#12171C",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lw7idgva",
+      "id": "3",
+      "name": "Content-Placeholder-15-4",
+      "bbox": [
+        42.09,
+        111.02,
+        1197.33,
+        106.27
+      ],
+      "geometry": "rect",
+      "text": "REFERENCE\nFR-01〜FR-10。詳細は技術責任者のデータ定義へ引き渡す。",
+      "textPreview": "REFERENCE | FR-01〜FR-10。詳細は技術責任者のデータ定義へ引き渡す。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "REFERENCE"
+          },
+          {
+            "index": 2,
+            "text": "FR-01〜FR-10。詳細は技術責任者のデータ定義へ引き渡す。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "REFERENCE",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "REFERENCE",
+              "fontSize": 17,
+              "typeface": "Yu Gothic",
+              "color": "#F28C28",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "FR-01〜FR-10。詳細は技術責任者のデータ定義へ引き渡す。",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "FR-01〜FR-10。詳細は技術責任者のデータ定義へ引き渡す。",
+              "fontSize": 20,
+              "typeface": "Yu Gothic",
+              "color": "#28323A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/elgzadsb",
+      "id": "9",
+      "name": "Google-Shape-644-p93-5",
+      "bbox": [
+        41.33,
+        236.33,
+        1197,
+        412.87
+      ],
+      "text": "ID | 領域 | 必須要件\nFR-01 | 移動 | 左右・限定奥行き、ジャンプ、飛行、回避、落下復帰\nFR-02 | 戦闘 | 射撃、近接、強攻撃、照準、ガード、リロード、即時切替\nFR-03 | 資源 | シールド→アーマー→HP、エネルギー、熱、Down、Retry\nFR-04 | 武器 | 射撃1・近接1、弾薬MOD、Lv1–10、品質5、改造3系統\nFR-05 | 装備 | K1部位、補助枠、装備コスト、プリセット\nFR-06 | 成長 | ランク30、4スキル系統、K1 Stage、無料振り直し\nFR-07 | 敵AI | 認識、射線、距離、連携、警報、部位、スタッガー\nFR-08 | 任務 | 撃破、到達、護衛、防衛、救出、回収、追跡、停止\nFR-09/10 | ステージ・環境 | 2.5D、車両、列車、潮位、重力、寒冷、高熱、電磁等",
+      "textPreview": "ID | 領域 | 必須要件 | FR-01 | 移動 | 左右・限定奥行き、ジャンプ、飛行、回避、落下復帰 | FR-02 | 戦闘 | 射撃、近接、強攻撃、照準、ガード、リロード、即時切替 | FR-03 | 資源 | シールド→アーマー→HP、エネルギー、熱、Down...",
+      "rows": 10,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            41.33,
+            236.33,
+            110,
+            41.29
+          ],
+          "text": "ID",
+          "textPreview": "ID",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ID",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ID",
+                  "fontSize": 15,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            151.33,
+            236.33,
+            200,
+            41.29
+          ],
+          "text": "領域",
+          "textPreview": "領域",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "領域",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "領域",
+                  "fontSize": 15,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            351.33,
+            236.33,
+            887,
+            41.29
+          ],
+          "text": "必須要件",
+          "textPreview": "必須要件",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "必須要件",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "必須要件",
+                  "fontSize": 15,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            41.33,
+            277.62,
+            110,
+            41.29
+          ],
+          "text": "FR-01",
+          "textPreview": "FR-01",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "FR-01",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "FR-01",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            151.33,
+            277.62,
+            200,
+            41.29
+          ],
+          "text": "移動",
+          "textPreview": "移動",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "移動",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "移動",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            351.33,
+            277.62,
+            887,
+            41.29
+          ],
+          "text": "左右・限定奥行き、ジャンプ、飛行、回避、落下復帰",
+          "textPreview": "左右・限定奥行き、ジャンプ、飛行、回避、落下復帰",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "左右・限定奥行き、ジャンプ、飛行、回避、落下復帰",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "左右・限定奥行き、ジャンプ、飛行、回避、落下復帰",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            41.33,
+            318.9,
+            110,
+            41.29
+          ],
+          "text": "FR-02",
+          "textPreview": "FR-02",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "FR-02",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "FR-02",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            151.33,
+            318.9,
+            200,
+            41.29
+          ],
+          "text": "戦闘",
+          "textPreview": "戦闘",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "戦闘",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "戦闘",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            351.33,
+            318.9,
+            887,
+            41.29
+          ],
+          "text": "射撃、近接、強攻撃、照準、ガード、リロード、即時切替",
+          "textPreview": "射撃、近接、強攻撃、照準、ガード、リロード、即時切替",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "射撃、近接、強攻撃、照準、ガード、リロード、即時切替",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "射撃、近接、強攻撃、照準、ガード、リロード、即時切替",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            41.33,
+            360.19,
+            110,
+            41.29
+          ],
+          "text": "FR-03",
+          "textPreview": "FR-03",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "FR-03",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "FR-03",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            151.33,
+            360.19,
+            200,
+            41.29
+          ],
+          "text": "資源",
+          "textPreview": "資源",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "資源",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "資源",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            351.33,
+            360.19,
+            887,
+            41.29
+          ],
+          "text": "シールド→アーマー→HP、エネルギー、熱、Down、Retry",
+          "textPreview": "シールド→アーマー→HP、エネルギー、熱、Down、Retry",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "シールド→アーマー→HP、エネルギー、熱、Down、Retry",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "シールド→アーマー→HP、エネルギー、熱、Down、Retry",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            41.33,
+            401.48,
+            110,
+            41.29
+          ],
+          "text": "FR-04",
+          "textPreview": "FR-04",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "FR-04",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "FR-04",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            151.33,
+            401.48,
+            200,
+            41.29
+          ],
+          "text": "武器",
+          "textPreview": "武器",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "武器",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "武器",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            351.33,
+            401.48,
+            887,
+            41.29
+          ],
+          "text": "射撃1・近接1、弾薬MOD、Lv1–10、品質5、改造3系統",
+          "textPreview": "射撃1・近接1、弾薬MOD、Lv1–10、品質5、改造3系統",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "射撃1・近接1、弾薬MOD、Lv1–10、品質5、改造3系統",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "射撃1・近接1、弾薬MOD、Lv1–10、品質5、改造3系統",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            41.33,
+            442.77,
+            110,
+            41.29
+          ],
+          "text": "FR-05",
+          "textPreview": "FR-05",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "FR-05",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "FR-05",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            151.33,
+            442.77,
+            200,
+            41.29
+          ],
+          "text": "装備",
+          "textPreview": "装備",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "装備",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "装備",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            351.33,
+            442.77,
+            887,
+            41.29
+          ],
+          "text": "K1部位、補助枠、装備コスト、プリセット",
+          "textPreview": "K1部位、補助枠、装備コスト、プリセット",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "K1部位、補助枠、装備コスト、プリセット",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "K1部位、補助枠、装備コスト、プリセット",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            41.33,
+            484.05,
+            110,
+            41.29
+          ],
+          "text": "FR-06",
+          "textPreview": "FR-06",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "FR-06",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "FR-06",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            151.33,
+            484.05,
+            200,
+            41.29
+          ],
+          "text": "成長",
+          "textPreview": "成長",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "成長",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "成長",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            351.33,
+            484.05,
+            887,
+            41.29
+          ],
+          "text": "ランク30、4スキル系統、K1 Stage、無料振り直し",
+          "textPreview": "ランク30、4スキル系統、K1 Stage、無料振り直し",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ランク30、4スキル系統、K1 Stage、無料振り直し",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ランク30、4スキル系統、K1 Stage、無料振り直し",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 8,
+          "column": 1,
+          "bbox": [
+            41.33,
+            525.34,
+            110,
+            41.29
+          ],
+          "text": "FR-07",
+          "textPreview": "FR-07",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "FR-07",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "FR-07",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 8,
+          "column": 2,
+          "bbox": [
+            151.33,
+            525.34,
+            200,
+            41.29
+          ],
+          "text": "敵AI",
+          "textPreview": "敵AI",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "敵AI",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "敵AI",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 8,
+          "column": 3,
+          "bbox": [
+            351.33,
+            525.34,
+            887,
+            41.29
+          ],
+          "text": "認識、射線、距離、連携、警報、部位、スタッガー",
+          "textPreview": "認識、射線、距離、連携、警報、部位、スタッガー",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "認識、射線、距離、連携、警報、部位、スタッガー",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "認識、射線、距離、連携、警報、部位、スタッガー",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 9,
+          "column": 1,
+          "bbox": [
+            41.33,
+            566.63,
+            110,
+            41.29
+          ],
+          "text": "FR-08",
+          "textPreview": "FR-08",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "FR-08",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "FR-08",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 9,
+          "column": 2,
+          "bbox": [
+            151.33,
+            566.63,
+            200,
+            41.29
+          ],
+          "text": "任務",
+          "textPreview": "任務",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "任務",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "任務",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 9,
+          "column": 3,
+          "bbox": [
+            351.33,
+            566.63,
+            887,
+            41.29
+          ],
+          "text": "撃破、到達、護衛、防衛、救出、回収、追跡、停止",
+          "textPreview": "撃破、到達、護衛、防衛、救出、回収、追跡、停止",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "撃破、到達、護衛、防衛、救出、回収、追跡、停止",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "撃破、到達、護衛、防衛、救出、回収、追跡、停止",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 10,
+          "column": 1,
+          "bbox": [
+            41.33,
+            607.91,
+            110,
+            41.29
+          ],
+          "text": "FR-09/10",
+          "textPreview": "FR-09/10",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "FR-09/10",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "FR-09/10",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 29,
+          "row": 10,
+          "column": 2,
+          "bbox": [
+            151.33,
+            607.91,
+            200,
+            41.29
+          ],
+          "text": "ステージ・環境",
+          "textPreview": "ステージ・環境",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ステージ・環境",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ステージ・環境",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "row": 10,
+          "column": 3,
+          "bbox": [
+            351.33,
+            607.91,
+            887,
+            41.29
+          ],
+          "text": "2.5D、車両、列車、潮位、重力、寒冷、高熱、電磁等",
+          "textPreview": "2.5D、車両、列車、潮位、重力、寒冷、高熱、電磁等",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2.5D、車両、列車、潮位、重力、寒冷、高熱、電磁等",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2.5D、車両、列車、潮位、重力、寒冷、高熱、電磁等",
+                  "fontSize": 15,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7yp0f6dg",
+      "id": "5",
+      "bbox": [
+        42,
+        670,
+        350,
+        24
+      ],
+      "geometry": "rect",
+      "text": "YTC: Deliver Tomorrow",
+      "textPreview": "YTC: Deliver Tomorrow",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "YTC: Deliver Tomorrow"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "YTC: Deliver Tomorrow",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "YTC: Deliver Tomorrow",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8zi1obe1",
+      "id": "6",
+      "bbox": [
+        1178,
+        670,
+        60,
+        24
+      ],
+      "geometry": "rect",
+      "text": "38",
+      "textPreview": "38",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "38"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "38",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "38",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/90rihgv6",
+      "id": "7",
+      "bbox": [
+        42,
+        660,
+        54,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C28"
+    }
+  ],
+  "composeRuns": []
+}

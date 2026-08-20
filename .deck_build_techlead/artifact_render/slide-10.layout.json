@@ -1,0 +1,1127 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/tyj1ce",
+    "id": "tyj1ce",
+    "slide": 10,
+    "layoutId": "8481c467-1ac6-41e8-8a8a-badbefdbf4b1",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "f22cb2ed-40ea-4d03-ad8d-4c91449588e1",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Yu Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "8481c467-1ac6-41e8-8a8a-badbefdbf4b1",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "f22cb2ed-40ea-4d03-ad8d-4c91449588e1",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "f22cb2ed-40ea-4d03-ad8d-4c91449588e1",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0vitcvu1",
+      "id": "1",
+      "bbox": [
+        48,
+        34,
+        1060,
+        66
+      ],
+      "geometry": "rect",
+      "text": "レビューで見つかった実装矛盾は、データ契約で一本化する",
+      "textPreview": "レビューで見つかった実装矛盾は、データ契約で一本化する",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 38,
+        "typeface": "Yu Gothic",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "レビューで見つかった実装矛盾は、データ契約で一本化する"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "レビューで見つかった実装矛盾は、データ契約で一本化する",
+          "resolvedTextStyle": {
+            "fontSize": 38,
+            "typeface": "Yu Gothic",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "レビューで見つかった実装矛盾は、データ契約で一本化する",
+              "fontSize": 38,
+              "typeface": "Yu Gothic",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fu9s3qtg",
+      "id": "2",
+      "bbox": [
+        1088,
+        42,
+        142,
+        28
+      ],
+      "geometry": "rect",
+      "text": "DATA CONTRACTS",
+      "textPreview": "DATA CONTRACTS",
+      "resolvedFontSize": 13.8,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Yu Gothic",
+        "color": "#5F6368",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.92,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DATA"
+          },
+          {
+            "index": 2,
+            "text": "CONTRACTS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DATA CONTRACTS",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5F6368",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DATA CONTRACTS",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5F6368",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e90balcv",
+      "id": "3",
+      "bbox": [
+        48,
+        116,
+        1184,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#B8BCC4",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d8ra1gba",
+      "id": "4",
+      "bbox": [
+        1180,
+        674,
+        50,
+        22
+      ],
+      "geometry": "rect",
+      "text": "10",
+      "textPreview": "10",
+      "resolvedFontSize": 10.33,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Yu Gothic",
+        "color": "#5F6368",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.74,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "10"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "10",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Yu Gothic",
+            "color": "#5F6368",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "10",
+              "fontSize": 14,
+              "typeface": "Yu Gothic",
+              "color": "#5F6368",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/1gfa94vy",
+      "id": "5",
+      "bbox": [
+        48,
+        144,
+        1184,
+        500
+      ],
+      "text": "論点 | 技術決定 | 実装への効果\n出力倍率 | 記載式を正とし、STAT150は約1.11倍 | 逓減を維持し説明を修正\nDPS | 継続DPS＝射撃間隔＋リロード込み | 表を自動計算・範囲外をCIで警告\nアイテムID | CUR/MAT/CON/DAT/EVD/COLを具体IDに使用 | ITM_は抽象カテゴリのみ\n装備枠 | 戦術2枠はCON_*を装填。EQP_UTIL_*は再使用・常時装置 | 回復品の二重マスターを廃止\nPenetration | 全補正後に0–100へクランプ | 徹甲弾で上限超過しない\nE14属性 | 電撃／衝撃。刺突性はPenetrationで表現 | 未定義DMG_PIERCEを増やさない\n組織と勢力 | organizationIdとfactionIdを別フィールド化 | 治安局ORG/FACの競合を解消",
+      "textPreview": "論点 | 技術決定 | 実装への効果 | 出力倍率 | 記載式を正とし、STAT150は約1.11倍 | 逓減を維持し説明を修正 | DPS | 継続DPS＝射撃間隔＋リロード込み | 表を自動計算・範囲外をCIで警告 | アイテムID | CUR/MAT/CON/DAT/...",
+      "rows": 8,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            48,
+            144,
+            230,
+            62.5
+          ],
+          "text": "論点",
+          "textPreview": "論点",
+          "fillColor": "#111111",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "論点",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "論点",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            278,
+            144,
+            510,
+            62.5
+          ],
+          "text": "技術決定",
+          "textPreview": "技術決定",
+          "fillColor": "#111111",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "技術決定",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "技術決定",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            788,
+            144,
+            444,
+            62.5
+          ],
+          "text": "実装への効果",
+          "textPreview": "実装への効果",
+          "fillColor": "#111111",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "実装への効果",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "実装への効果",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            48,
+            206.5,
+            230,
+            62.5
+          ],
+          "text": "出力倍率",
+          "textPreview": "出力倍率",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "出力倍率",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "出力倍率",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            278,
+            206.5,
+            510,
+            62.5
+          ],
+          "text": "記載式を正とし、STAT150は約1.11倍",
+          "textPreview": "記載式を正とし、STAT150は約1.11倍",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "記載式を正とし、STAT150は約1.11倍",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "記載式を正とし、STAT150は約1.11倍",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            788,
+            206.5,
+            444,
+            62.5
+          ],
+          "text": "逓減を維持し説明を修正",
+          "textPreview": "逓減を維持し説明を修正",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "逓減を維持し説明を修正",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "逓減を維持し説明を修正",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            48,
+            269,
+            230,
+            62.5
+          ],
+          "text": "DPS",
+          "textPreview": "DPS",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "DPS",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "DPS",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            278,
+            269,
+            510,
+            62.5
+          ],
+          "text": "継続DPS＝射撃間隔＋リロード込み",
+          "textPreview": "継続DPS＝射撃間隔＋リロード込み",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "継続DPS＝射撃間隔＋リロード込み",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "継続DPS＝射撃間隔＋リロード込み",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            788,
+            269,
+            444,
+            62.5
+          ],
+          "text": "表を自動計算・範囲外をCIで警告",
+          "textPreview": "表を自動計算・範囲外をCIで警告",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "表を自動計算・範囲外をCIで警告",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "表を自動計算・範囲外をCIで警告",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            48,
+            331.5,
+            230,
+            62.5
+          ],
+          "text": "アイテムID",
+          "textPreview": "アイテムID",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "アイテムID",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "アイテムID",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            278,
+            331.5,
+            510,
+            62.5
+          ],
+          "text": "CUR/MAT/CON/DAT/EVD/COLを具体IDに使用",
+          "textPreview": "CUR/MAT/CON/DAT/EVD/COLを具体IDに使用",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "CUR/MAT/CON/DAT/EVD/COLを具体IDに使用",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "CUR/MAT/CON/DAT/EVD/COLを具体IDに使用",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            788,
+            331.5,
+            444,
+            62.5
+          ],
+          "text": "ITM_は抽象カテゴリのみ",
+          "textPreview": "ITM_は抽象カテゴリのみ",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ITM_は抽象カテゴリのみ",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ITM_は抽象カテゴリのみ",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            48,
+            394,
+            230,
+            62.5
+          ],
+          "text": "装備枠",
+          "textPreview": "装備枠",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "装備枠",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "装備枠",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            278,
+            394,
+            510,
+            62.5
+          ],
+          "text": "戦術2枠はCON_*を装填。EQP_UTIL_*は再使用・常時装置",
+          "textPreview": "戦術2枠はCON_*を装填。EQP_UTIL_*は再使用・常時装置",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "戦術2枠はCON_*を装填。EQP_UTIL_*は再使用・常時装置",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "戦術2枠はCON_*を装填。EQP_UTIL_*は再使用・常時装置",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            788,
+            394,
+            444,
+            62.5
+          ],
+          "text": "回復品の二重マスターを廃止",
+          "textPreview": "回復品の二重マスターを廃止",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "回復品の二重マスターを廃止",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "回復品の二重マスターを廃止",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            48,
+            456.5,
+            230,
+            62.5
+          ],
+          "text": "Penetration",
+          "textPreview": "Penetration",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Penetration",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Penetration",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            278,
+            456.5,
+            510,
+            62.5
+          ],
+          "text": "全補正後に0–100へクランプ",
+          "textPreview": "全補正後に0–100へクランプ",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "全補正後に0–100へクランプ",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "全補正後に0–100へクランプ",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            788,
+            456.5,
+            444,
+            62.5
+          ],
+          "text": "徹甲弾で上限超過しない",
+          "textPreview": "徹甲弾で上限超過しない",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "徹甲弾で上限超過しない",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "徹甲弾で上限超過しない",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            48,
+            519,
+            230,
+            62.5
+          ],
+          "text": "E14属性",
+          "textPreview": "E14属性",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "E14属性",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "E14属性",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            278,
+            519,
+            510,
+            62.5
+          ],
+          "text": "電撃／衝撃。刺突性はPenetrationで表現",
+          "textPreview": "電撃／衝撃。刺突性はPenetrationで表現",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "電撃／衝撃。刺突性はPenetrationで表現",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "電撃／衝撃。刺突性はPenetrationで表現",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            788,
+            519,
+            444,
+            62.5
+          ],
+          "text": "未定義DMG_PIERCEを増やさない",
+          "textPreview": "未定義DMG_PIERCEを増やさない",
+          "fillColor": "#F7F7F7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "未定義DMG_PIERCEを増やさない",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "未定義DMG_PIERCEを増やさない",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 8,
+          "column": 1,
+          "bbox": [
+            48,
+            581.5,
+            230,
+            62.5
+          ],
+          "text": "組織と勢力",
+          "textPreview": "組織と勢力",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "組織と勢力",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "組織と勢力",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 8,
+          "column": 2,
+          "bbox": [
+            278,
+            581.5,
+            510,
+            62.5
+          ],
+          "text": "organizationIdとfactionIdを別フィールド化",
+          "textPreview": "organizationIdとfactionIdを別フィールド化",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "organizationIdとfactionIdを別フィールド化",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "organizationIdとfactionIdを別フィールド化",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 8,
+          "column": 3,
+          "bbox": [
+            788,
+            581.5,
+            444,
+            62.5
+          ],
+          "text": "治安局ORG/FACの競合を解消",
+          "textPreview": "治安局ORG/FACの競合を解消",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "治安局ORG/FACの競合を解消",
+              "resolvedTextStyle": {
+                "fontSize": 16,
+                "typeface": "Yu Gothic",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "治安局ORG/FACの競合を解消",
+                  "fontSize": 16,
+                  "typeface": "Yu Gothic",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

@@ -292,7 +292,7 @@
 | `BOSS_CHOIR_NODE` | クワイア・ノード | 16 | 群体リンク切断 | LARK増幅器 |
 | `BOSS_CONDUCTOR` | コンダクター | 17 | 補給経路遮断 | 物流中枢鍵 |
 | `BOSS_FIVE_VOICES` | 五つの声 | 18 | 五環境・五属性 | 全域適応核 |
-| `BOSS_K8_CROWN` | K8クラウン | 19 | 装備対策への再対策 | KΩ座標 |
+| `BOSS_K8_CROWN` | K8クラウン | 19 | 装備対策への再対策 | `MAT_K8_CORE`→アーク座標→物理停止コード |
 | `BOSS_ORPHEUS_CHOIR` | ORPHEUSクワイア | 20 | 群体リンク分断 | ORPHEUS停止経路 |
 | `BOSS_KOMEGA_MAKABE` | 真壁KΩ | 20 | 全システムの最終試験 | K1最終改修 |
 

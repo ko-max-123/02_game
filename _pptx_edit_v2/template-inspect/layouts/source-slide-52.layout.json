@@ -1,0 +1,935 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/gfe1wbu1",
+    "id": "gfe1wbu1",
+    "slide": 52,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Helvetica Neue",
+      "Yu Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bu1sj254",
+      "id": "8",
+      "name": "Google-Shape-532-p58-2",
+      "bbox": [
+        1184.18,
+        659.24,
+        54.48,
+        25.33
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hozadsnm",
+      "id": "2",
+      "name": "Google-Shape-533-p58-3",
+      "bbox": [
+        41.33,
+        36.12,
+        1197.33,
+        109.97
+      ],
+      "geometry": "rect",
+      "text": "付録：第16〜20章の敵とステージギミック",
+      "textPreview": "付録：第16〜20章の敵とステージギミック",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "付録：第16〜20章の敵とステージギミック"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "付録：第16〜20章の敵とステージギミック",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 38.67,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "付録：第16〜20章の敵とステージギミック",
+              "fontSize": 48,
+              "typeface": "Yu Gothic",
+              "color": "#12171C",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gnq94n61",
+      "id": "3",
+      "name": "Content-Placeholder-15-4",
+      "bbox": [
+        42.09,
+        111.02,
+        1197.33,
+        106.27
+      ],
+      "geometry": "rect",
+      "text": "REFERENCE\n章ごとの敵・ボス・ギミックを、学習内容と物語上の役割に結び付ける。",
+      "textPreview": "REFERENCE | 章ごとの敵・ボス・ギミックを、学習内容と物語上の役割に結び付ける。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "REFERENCE"
+          },
+          {
+            "index": 2,
+            "text": "章ごとの敵・ボス・ギミックを、学習内容と物語上の役割に結び付ける。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "REFERENCE",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "REFERENCE",
+              "fontSize": 17,
+              "typeface": "Yu Gothic",
+              "color": "#F28C28",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "章ごとの敵・ボス・ギミックを、学習内容と物語上の役割に結び付ける。",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "章ごとの敵・ボス・ギミックを、学習内容と物語上の役割に結び付ける。",
+              "fontSize": 20,
+              "typeface": "Yu Gothic",
+              "color": "#28323A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/7a5sfit8",
+      "id": "9",
+      "name": "Google-Shape-644-p93-5",
+      "bbox": [
+        41.33,
+        236.33,
+        1197,
+        412.87
+      ],
+      "text": "章 | 主な敵／ボス | 主なギミック\n16 誰に笑顔を届けるのか | ORPHEUS無人機／クワイア | 救助、偽救難、暫定LARKスキャン、群体分断\n17 黒い線路の終点 | 混成兵／コンダクター | 列車間移動、分岐、三ルート、証拠保護\n18 買い手のいない戦争 | 侵食友軍／五つの声 | 五都市、複合環境、時間評価、LARK救済\n19 Kの系譜 | K2〜K8 | 能力別試験、K7指揮、証拠投降、装備読取\n20 明日を届ける | クワイア／KΩ | 15人支援、地上・飛行・無重力、停止鍵配送",
+      "textPreview": "章 | 主な敵／ボス | 主なギミック | 16 誰に笑顔を届けるのか | ORPHEUS無人機／クワイア | 救助、偽救難、暫定LARKスキャン、群体分断 | 17 黒い線路の終点 | 混成兵／コンダクター | 列車間移動、分岐、三ルート、証拠保護 | 18 買い手のいな...",
+      "rows": 6,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            41.33,
+            236.33,
+            300,
+            68.81
+          ],
+          "text": "章",
+          "textPreview": "章",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "章",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "章",
+                  "fontSize": 16,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            341.33,
+            236.33,
+            340,
+            68.81
+          ],
+          "text": "主な敵／ボス",
+          "textPreview": "主な敵／ボス",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "主な敵／ボス",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "主な敵／ボス",
+                  "fontSize": 16,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            681.33,
+            236.33,
+            557,
+            68.81
+          ],
+          "text": "主なギミック",
+          "textPreview": "主なギミック",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "主なギミック",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "主なギミック",
+                  "fontSize": 16,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            41.33,
+            305.14,
+            300,
+            68.81
+          ],
+          "text": "16 誰に笑顔を届けるのか",
+          "textPreview": "16 誰に笑顔を届けるのか",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "16 誰に笑顔を届けるのか",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "16 誰に笑顔を届けるのか",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            341.33,
+            305.14,
+            340,
+            68.81
+          ],
+          "text": "ORPHEUS無人機／クワイア",
+          "textPreview": "ORPHEUS無人機／クワイア",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ORPHEUS無人機／クワイア",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ORPHEUS無人機／クワイア",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            681.33,
+            305.14,
+            557,
+            68.81
+          ],
+          "text": "救助、偽救難、暫定LARKスキャン、群体分断",
+          "textPreview": "救助、偽救難、暫定LARKスキャン、群体分断",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "救助、偽救難、暫定LARKスキャン、群体分断",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "救助、偽救難、暫定LARKスキャン、群体分断",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            41.33,
+            373.95,
+            300,
+            68.81
+          ],
+          "text": "17 黒い線路の終点",
+          "textPreview": "17 黒い線路の終点",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "17 黒い線路の終点",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "17 黒い線路の終点",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            341.33,
+            373.95,
+            340,
+            68.81
+          ],
+          "text": "混成兵／コンダクター",
+          "textPreview": "混成兵／コンダクター",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "混成兵／コンダクター",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "混成兵／コンダクター",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            681.33,
+            373.95,
+            557,
+            68.81
+          ],
+          "text": "列車間移動、分岐、三ルート、証拠保護",
+          "textPreview": "列車間移動、分岐、三ルート、証拠保護",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "列車間移動、分岐、三ルート、証拠保護",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "列車間移動、分岐、三ルート、証拠保護",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            41.33,
+            442.76,
+            300,
+            68.81
+          ],
+          "text": "18 買い手のいない戦争",
+          "textPreview": "18 買い手のいない戦争",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "18 買い手のいない戦争",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "18 買い手のいない戦争",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            341.33,
+            442.76,
+            340,
+            68.81
+          ],
+          "text": "侵食友軍／五つの声",
+          "textPreview": "侵食友軍／五つの声",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "侵食友軍／五つの声",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "侵食友軍／五つの声",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            681.33,
+            442.76,
+            557,
+            68.81
+          ],
+          "text": "五都市、複合環境、時間評価、LARK救済",
+          "textPreview": "五都市、複合環境、時間評価、LARK救済",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "五都市、複合環境、時間評価、LARK救済",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "五都市、複合環境、時間評価、LARK救済",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            41.33,
+            511.58,
+            300,
+            68.81
+          ],
+          "text": "19 Kの系譜",
+          "textPreview": "19 Kの系譜",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "19 Kの系譜",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "19 Kの系譜",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            341.33,
+            511.58,
+            340,
+            68.81
+          ],
+          "text": "K2〜K8",
+          "textPreview": "K2〜K8",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "K2〜K8",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "K2〜K8",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            681.33,
+            511.58,
+            557,
+            68.81
+          ],
+          "text": "能力別試験、K7指揮、証拠投降、装備読取",
+          "textPreview": "能力別試験、K7指揮、証拠投降、装備読取",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "能力別試験、K7指揮、証拠投降、装備読取",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "能力別試験、K7指揮、証拠投降、装備読取",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            41.33,
+            580.39,
+            300,
+            68.81
+          ],
+          "text": "20 明日を届ける",
+          "textPreview": "20 明日を届ける",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "20 明日を届ける",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "20 明日を届ける",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            341.33,
+            580.39,
+            340,
+            68.81
+          ],
+          "text": "クワイア／KΩ",
+          "textPreview": "クワイア／KΩ",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "クワイア／KΩ",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "クワイア／KΩ",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            681.33,
+            580.39,
+            557,
+            68.81
+          ],
+          "text": "15人支援、地上・飛行・無重力、停止鍵配送",
+          "textPreview": "15人支援、地上・飛行・無重力、停止鍵配送",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "15人支援、地上・飛行・無重力、停止鍵配送",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "15人支援、地上・飛行・無重力、停止鍵配送",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2psr6xo7",
+      "id": "5",
+      "bbox": [
+        42,
+        670,
+        350,
+        24
+      ],
+      "geometry": "rect",
+      "text": "YTC: Deliver Tomorrow",
+      "textPreview": "YTC: Deliver Tomorrow",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "YTC: Deliver Tomorrow"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "YTC: Deliver Tomorrow",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "YTC: Deliver Tomorrow",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/psjahcny",
+      "id": "6",
+      "bbox": [
+        1178,
+        670,
+        60,
+        24
+      ],
+      "geometry": "rect",
+      "text": "52",
+      "textPreview": "52",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "52"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "52",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "52",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4ra987md",
+      "id": "7",
+      "bbox": [
+        42,
+        660,
+        54,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C28"
+    }
+  ],
+  "composeRuns": []
+}

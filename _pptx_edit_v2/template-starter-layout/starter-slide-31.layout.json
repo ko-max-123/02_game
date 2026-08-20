@@ -1,0 +1,1101 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/e5oxm2",
+    "id": "e5oxm2",
+    "slide": 31,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Helvetica Neue",
+      "Yu Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x0r25k7e",
+      "id": "8",
+      "name": "Google-Shape-532-p58-2",
+      "bbox": [
+        1184.18,
+        659.24,
+        54.48,
+        25.33
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/76tkbupw",
+      "id": "2",
+      "name": "Google-Shape-533-p58-3",
+      "bbox": [
+        41.33,
+        36.12,
+        1197.33,
+        109.97
+      ],
+      "geometry": "rect",
+      "text": "フィールド6〜10：会社を守り、世界の中枢へ",
+      "textPreview": "フィールド6〜10：会社を守り、世界の中枢へ",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "フィールド6〜10：会社を守り、世界の中枢へ"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "フィールド6〜10：会社を守り、世界の中枢へ",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 38.67,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "フィールド6〜10：会社を守り、世界の中枢へ",
+              "fontSize": 48,
+              "typeface": "Yu Gothic",
+              "color": "#12171C",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/65032pob",
+      "id": "3",
+      "name": "Content-Placeholder-15-4",
+      "bbox": [
+        42.09,
+        111.02,
+        1197.33,
+        106.27
+      ],
+      "geometry": "rect",
+      "text": "REFERENCE\n後半は共闘・救助・過去全ルールの総復習へ広げる。",
+      "textPreview": "REFERENCE | 後半は共闘・救助・過去全ルールの総復習へ広げる。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "REFERENCE"
+          },
+          {
+            "index": 2,
+            "text": "後半は共闘・救助・過去全ルールの総復習へ広げる。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "REFERENCE",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "REFERENCE",
+              "fontSize": 17,
+              "typeface": "Yu Gothic",
+              "color": "#F28C28",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "後半は共闘・救助・過去全ルールの総復習へ広げる。",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "後半は共闘・救助・過去全ルールの総復習へ広げる。",
+              "fontSize": 20,
+              "typeface": "Yu Gothic",
+              "color": "#28323A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/dcvilo3u",
+      "id": "9",
+      "name": "Google-Shape-644-p93-5",
+      "bbox": [
+        41.33,
+        236.33,
+        1197,
+        412.87
+      ],
+      "text": "# | フィールド | 章 | 固有ギミック／視覚\n6 | 封鎖旧首都 | 11–12 | 非致死／同行／本社防衛／夜の橙窓\n7 | 蒼海沿岸戦区 | 13–14 | 潮位／味方指示／高高度／重力回転\n8 | 神楽企業自治区 | 15–16 | 生体認証／同行ハック／救助／偽映像\n9 | BLACK RAIL地下網 | 17–18 | 列車分岐／複合環境／五都市命令\n10 | ORPHEUS中枢 | 19–20 | K2〜K8／海上アーク／無重力／最終配送",
+      "textPreview": "# | フィールド | 章 | 固有ギミック／視覚 | 6 | 封鎖旧首都 | 11–12 | 非致死／同行／本社防衛／夜の橙窓 | 7 | 蒼海沿岸戦区 | 13–14 | 潮位／味方指示／高高度／重力回転 | 8 | 神楽企業自治区 | 15–16 | 生体認証／同行ハ...",
+      "rows": 6,
+      "cols": 4,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            41.33,
+            236.33,
+            80,
+            68.81
+          ],
+          "text": "#",
+          "textPreview": "#",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "#",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "#",
+                  "fontSize": 18,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            121.33,
+            236.33,
+            260,
+            68.81
+          ],
+          "text": "フィールド",
+          "textPreview": "フィールド",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "フィールド",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "フィールド",
+                  "fontSize": 18,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            381.33,
+            236.33,
+            120,
+            68.81
+          ],
+          "text": "章",
+          "textPreview": "章",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "章",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "章",
+                  "fontSize": 18,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            501.33,
+            236.33,
+            737,
+            68.81
+          ],
+          "text": "固有ギミック／視覚",
+          "textPreview": "固有ギミック／視覚",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "固有ギミック／視覚",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "固有ギミック／視覚",
+                  "fontSize": 18,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            41.33,
+            305.14,
+            80,
+            68.81
+          ],
+          "text": "6",
+          "textPreview": "6",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "6",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "6",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            121.33,
+            305.14,
+            260,
+            68.81
+          ],
+          "text": "封鎖旧首都",
+          "textPreview": "封鎖旧首都",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "封鎖旧首都",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "封鎖旧首都",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            381.33,
+            305.14,
+            120,
+            68.81
+          ],
+          "text": "11–12",
+          "textPreview": "11–12",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "11–12",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "11–12",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            501.33,
+            305.14,
+            737,
+            68.81
+          ],
+          "text": "非致死／同行／本社防衛／夜の橙窓",
+          "textPreview": "非致死／同行／本社防衛／夜の橙窓",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "非致死／同行／本社防衛／夜の橙窓",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "非致死／同行／本社防衛／夜の橙窓",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            41.33,
+            373.95,
+            80,
+            68.81
+          ],
+          "text": "7",
+          "textPreview": "7",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "7",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "7",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            121.33,
+            373.95,
+            260,
+            68.81
+          ],
+          "text": "蒼海沿岸戦区",
+          "textPreview": "蒼海沿岸戦区",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "蒼海沿岸戦区",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "蒼海沿岸戦区",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            381.33,
+            373.95,
+            120,
+            68.81
+          ],
+          "text": "13–14",
+          "textPreview": "13–14",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "13–14",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "13–14",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            501.33,
+            373.95,
+            737,
+            68.81
+          ],
+          "text": "潮位／味方指示／高高度／重力回転",
+          "textPreview": "潮位／味方指示／高高度／重力回転",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "潮位／味方指示／高高度／重力回転",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "潮位／味方指示／高高度／重力回転",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            41.33,
+            442.76,
+            80,
+            68.81
+          ],
+          "text": "8",
+          "textPreview": "8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "8",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "8",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            121.33,
+            442.76,
+            260,
+            68.81
+          ],
+          "text": "神楽企業自治区",
+          "textPreview": "神楽企業自治区",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "神楽企業自治区",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "神楽企業自治区",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            381.33,
+            442.76,
+            120,
+            68.81
+          ],
+          "text": "15–16",
+          "textPreview": "15–16",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "15–16",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "15–16",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            501.33,
+            442.76,
+            737,
+            68.81
+          ],
+          "text": "生体認証／同行ハック／救助／偽映像",
+          "textPreview": "生体認証／同行ハック／救助／偽映像",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "生体認証／同行ハック／救助／偽映像",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "生体認証／同行ハック／救助／偽映像",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            41.33,
+            511.58,
+            80,
+            68.81
+          ],
+          "text": "9",
+          "textPreview": "9",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "9",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "9",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            121.33,
+            511.58,
+            260,
+            68.81
+          ],
+          "text": "BLACK RAIL地下網",
+          "textPreview": "BLACK RAIL地下網",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "BLACK RAIL地下網",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "BLACK RAIL地下網",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            381.33,
+            511.58,
+            120,
+            68.81
+          ],
+          "text": "17–18",
+          "textPreview": "17–18",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "17–18",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "17–18",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            501.33,
+            511.58,
+            737,
+            68.81
+          ],
+          "text": "列車分岐／複合環境／五都市命令",
+          "textPreview": "列車分岐／複合環境／五都市命令",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "列車分岐／複合環境／五都市命令",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "列車分岐／複合環境／五都市命令",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            41.33,
+            580.39,
+            80,
+            68.81
+          ],
+          "text": "10",
+          "textPreview": "10",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "10",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "10",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            121.33,
+            580.39,
+            260,
+            68.81
+          ],
+          "text": "ORPHEUS中枢",
+          "textPreview": "ORPHEUS中枢",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ORPHEUS中枢",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ORPHEUS中枢",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            381.33,
+            580.39,
+            120,
+            68.81
+          ],
+          "text": "19–20",
+          "textPreview": "19–20",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "19–20",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "19–20",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            501.33,
+            580.39,
+            737,
+            68.81
+          ],
+          "text": "K2〜K8／海上アーク／無重力／最終配送",
+          "textPreview": "K2〜K8／海上アーク／無重力／最終配送",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "K2〜K8／海上アーク／無重力／最終配送",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "K2〜K8／海上アーク／無重力／最終配送",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k3il0z65",
+      "id": "5",
+      "bbox": [
+        42,
+        670,
+        350,
+        24
+      ],
+      "geometry": "rect",
+      "text": "YTC: Deliver Tomorrow",
+      "textPreview": "YTC: Deliver Tomorrow",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "YTC: Deliver Tomorrow"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "YTC: Deliver Tomorrow",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "YTC: Deliver Tomorrow",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j29k7upk",
+      "id": "6",
+      "bbox": [
+        1178,
+        670,
+        60,
+        24
+      ],
+      "geometry": "rect",
+      "text": "31",
+      "textPreview": "31",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "31"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "31",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "31",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y103ypoz",
+      "id": "7",
+      "bbox": [
+        42,
+        660,
+        54,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C28"
+    }
+  ],
+  "composeRuns": []
+}

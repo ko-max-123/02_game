@@ -1,0 +1,10 @@
+Communication job:
+By the end, the producer should understand that the story deck passed formal proofreading and can be integrated after four canon-completion decisions are approved.
+
+Internal sources:
+- 000_エージェント共有読み物/01_タスク.txt
+- 001_設定資料/00_INDEX.md through 12_ID_and_Terminology.md
+- 001_設定資料/YTC_Game_Setting_Story_v1.md
+- 002_緊急タスク成果物/07_ストーリー作成者_ストーリー設定確定案.pptx
+
+No external claims or external assets were used.

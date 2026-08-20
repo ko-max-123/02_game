@@ -1,0 +1,2749 @@
+{
+  "outputSlides": [
+    {
+      "outputSlide": 1,
+      "sourceSlide": 1,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/sryl4zqx",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/547294r6",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/k3yl0zql",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ts7md4r2",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 2,
+      "sourceSlide": 2,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/9072xkry",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/a10jqpsj",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/x4r21kru",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ove9o7yd",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/mtwrmxg7",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/nu58f2hs",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/wjy9sry9",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 3,
+      "sourceSlide": 3,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/m5cra54z",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cza94vmx",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/298ryl4v",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/3ah8rqlg",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/obq90bml",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 4,
+      "sourceSlide": 4,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/fu9sn2p0",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1cj2d8b6",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rm1k7yt4",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ql8jytsj",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/doj29oba",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/3ihk3et8",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ih8ju9sn",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/kbm987y5",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/i94r6xgz",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/jadsz2xk",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/w72947yt",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/a5kr2xg3",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/v6tsv2xo",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/g36tgryd",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/p0batw72",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/oz29krqh",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/3ytsrmpw",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/2xkrih8b",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1wbapc7q",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 5,
+      "sourceSlide": 5,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/v2twb6dw",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cf2tcr61",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/z2tcnm5s",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/l4bupwny",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/032tgr6d",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/m5kbi1oj",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/w32dkbuh",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/x4vedgvm",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 6,
+      "sourceSlide": 6,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/yhg7epsj",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/98rqt4r6",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ml07i9sv",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/h4bupgn6",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/v2tcn650",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/u1kbu1ov",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/5svutgni",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 7,
+      "sourceSlide": 7,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/cbq1sv25",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/dcbud0ra",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ydkbm5sv",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/kzmdova1",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/l0vuh0rm",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/fi9c369c",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/baxkjqlk",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/a9ojq5kz",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 8,
+      "sourceSlide": 8,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/18byd4zy",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/6h0fypgb",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/tkby9kzm",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/o7ydoret",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/m5gvmhwn",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/n6pwfmd8",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/0jydkreh",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 9,
+      "sourceSlide": 9,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/va103ep4",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1cfmhgne",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/nex4jq5k",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/mdonql4z",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/9gzml0nq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/bih4na5w",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ah8nu54b",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/oza1gfyh",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/2xsjepgb",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/3y107axw",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cnu1kzyd",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/qlcjipgn",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/bml0buxs",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/0ru1ozyp",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/98ji147e",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/87a18zqt",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/76h0zup8",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ml8j6p8n",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/hcji5o7a",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 10,
+      "sourceSlide": 10,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/jypcrqd4",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/xc3mho32",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/zelojyl8",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ydcnatkn",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/l036l83y",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/725onyl4",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/m1cnetkj",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/s7yt4b21",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/q5gb21kb",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/r6pcv6lw",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/0bit8b2d",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/e9gb61k7",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/fapcz6ls",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ozitcv29",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/xwnupgvy",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/wvetgbud",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/bu5cnqd8",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/atwbelcn",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/lk7ut0va",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 11,
+      "sourceSlide": 11,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/xcryxg7y",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/250zy18b",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/98rytw72",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ofqtgnyt",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/mdobedg3",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/nehs7iho",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/0b6tc3yx",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 12,
+      "sourceSlide": 12,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/1gbm9s3a",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/q903ad4n",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/dcbm583y",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/wvupgz6t",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/atc7epon",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/bulo7u58",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/orapcf6h",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 13,
+      "sourceSlide": 13,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/q50nydsj",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/p4r6p8by",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/21gnuts7",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/hcfy9k3u",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/vaxg7ulo",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/u9ofyp43",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/t8fy5k3i",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 14,
+      "sourceSlide": 14,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/xc7eds76",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/idgvmx8r",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/5grehs7i",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/c3e1gjyd",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/a1wze9g7",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/b2507exs",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/kre1k3y9",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 15,
+      "sourceSlide": 15,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/547mhg3m",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/65gnqlk7",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/t87ml0ji",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/wrm9kvep",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/upkrilwj",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/vqdsrqx4",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/4vm9ovel",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 16,
+      "sourceSlide": 16,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/8z2h8bq1",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/9kby1g7m",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/zutgvm94",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/kv2h4rqp",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/ahc3ypgj",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 17,
+      "sourceSlide": 17,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/zul836xg",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1c7e50ni",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rm5czq50",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/6lwvql4v",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/t8ne10n6",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/jilcvq54",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ihcvml4j",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/4by9or6l",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/29grm1of",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/3ap8fm50",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/gnepkr69",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ulw7ihoj",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/fm58bm54",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/0ji9wb6t",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/90nq9gfi",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/8ze9gbyx",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ny5876xc",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/mxw7e1gr",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/lwnq5gf6",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 18,
+      "sourceSlide": 18,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/to72pw76",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/wrelszu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/5gnmp4bq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/6hw3y9sb",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rip4retw",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/fapkr6pw",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/upg3i18r",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1cr2tg72",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/gbylkbqh",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/7mpknmp0",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 19,
+      "sourceSlide": 19,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/rqp07290",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/8v2pobax",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/vitozqt8",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/xkbq10be",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/wj2psvat",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/il47u5sz",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cri1gnql",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/dsri9sr6",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 20,
+      "sourceSlide": 20,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/y5ony58z",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/qpwjmh8n",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/4nu1krqh",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/po3itc72",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/2lczih8r",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/gjuhg7ql",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/hk3ipcr6",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/dkfmp4zy",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rid4nuhs",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/qh4nupg7",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/pwvmlkzm",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/3ud4juhg",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/2t4nqpgb",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/hsvmhkzq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/8b654f61",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/tcz6dk7m",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/69on25ov",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/7ax4bapg",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/k7650f6p",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 21,
+      "sourceSlide": 21,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/5kjydsri",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/0f2lon6p",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ra9kryp8",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/dcb2t87y",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/sb2lk36t",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/b6d432pc",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/al43uxor",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 22,
+      "sourceSlide": 22,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/6987itcr",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/7a18rydc",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/58zqpov6",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/il87etcv",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/0nu5gv2p",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 23,
+      "sourceSlide": 23,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/90vqdczq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/8zm9k7y5",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/a14rmhgb",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/xovqhcz2",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/r2x8vi5c",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 24,
+      "sourceSlide": 24,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/1sfqxsv6",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/2to76dcr",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/9wzq1svi",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/8veh8ril",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/mtwz6h0f",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/nu50zm10",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/wzyhcrih",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 25,
+      "sourceSlide": 25,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/vy1sj694",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cfyt4beh",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/napsr6x0",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/pc7atgf6",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/obyt0bel",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/elwbu1wj",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/wza9cbqp",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/h0jalgra",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 26,
+      "sourceSlide": 26,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/uhk36lk7",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/vitkzqlc",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/tgr2xg3m",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/md0321kv",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/s3698rmp",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 27,
+      "sourceSlide": 27,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/0nm18fa1",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/kn694nmx",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/mpor6x43",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/7qxsfi5o",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/8r698nm9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/utobax4f",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/vuxsj250",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ju5gv294",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/lw7yxcra",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/kvyxo7qp",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/bq5gr298",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/xsnytcry",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/wrexk7qt",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/vmpg3m9c",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/qhkj2lsz",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rit0vqtk",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/sj214va5",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/dkb2x0bq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/elkj65sb",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 28,
+      "sourceSlide": 28,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/q9cz6xkv",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/10nylwji",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/exwzahkr",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/lg3690fq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/je1o7ax0",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ytsne5wf",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/tk36dkf2",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 29,
+      "sourceSlide": 29,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/b61snel8",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/tk36hwby",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/vmlojmto",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ulc7a1s3",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/h8n6lwbu",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/bq1o72tk",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/apsnyxcz",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/kf2tw7a1",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/idkbuxsv",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/jetc329g",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/s32t07ax",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/6hkbyhs7",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/7itcr29s",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/87itonat",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/p4jal432",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/o3a9sj2h",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/n21sjelc",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/218rq9kr",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/x8japo3e",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 30,
+      "sourceSlide": 30,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/po72d8nm",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/o3yl4361",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/apg36do7",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/xsr2h8ni",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/zedsfatc",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 31,
+      "sourceSlide": 31,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/dgja98fe",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cfa903yt",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ehsr2dgz",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1k3ad8fa",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/v6tc7q1c",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 32,
+      "sourceSlide": 32,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/qx0nqx8b",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/lszilkfm",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/6t8jupg7",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/8vq1wzyd",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/twzipkfy",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/mx4zilg3",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/nyd0bqxo",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 33,
+      "sourceSlide": 33,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/lk3m50nq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/mlc3y54b",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/9o3m9knm",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/grad8zah",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/upsv6psb",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/vq1cfutw",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/4vadczad",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 34,
+      "sourceSlide": 34,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/pwzm1kbm",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/qx8napc7",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/d0zm54bi",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/0vidkfu5",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/e90vipcz",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/za9wbutk",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/oz2dozu1",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 35,
+      "sourceSlide": 35,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/idonexon",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/hcfm5s72",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/u943ador",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/5of6xcbi",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/3mxov2tc",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ilonmxsr",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/hkv6tsb6",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 36,
+      "sourceSlide": 36,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/5s3atkbq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/4rut0fa5",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/qtcb2psb",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/dwnax4bm",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/7upwfido",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 37,
+      "sourceSlide": 37,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/8b69gbqd",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/7m58vyhw",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/kzupk3il",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ixc7it0f",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/jyl8ryh0",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/4vy9wnyp",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/pw7q5sza",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 38,
+      "sourceSlide": 38,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/kvy1kbep",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/lw7idgva",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/7yp0f6dg",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/8zi1obe1",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/elgzadsb",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 39,
+      "sourceSlide": 39,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/50769kvu",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/4ze50fu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/q1gn2pcf",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/do76d4vq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/bytkrytw",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 40,
+      "sourceSlide": 40,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/y9gzu50n",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/x8ny10z2",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/alwfql0r",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1wnmx4vq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/fu54vudk",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/etw32pwz",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/tsnmt4vu",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 41,
+      "sourceSlide": 41,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/ruh8by9w",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/szi98fi9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/f298ju10",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/h4bqlkj6",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/g3i9czil",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/25krep0r",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cvqp43qh",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/dwjqd8r2",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 42,
+      "sourceSlide": 42,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/mlovmtcr",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/nmxwfetc",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/lkfedov6",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/yh4vi9cv",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/ovixwva5",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 43,
+      "sourceSlide": 43,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/5ojy5gr2",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/43axcvqx",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ux8f618f",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/h0jy1gr6",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/fq1sfilg",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 44,
+      "sourceSlide": 44,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/ut8za9cr",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/tozulw3e",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/grqdgb25",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/vuxcb2lg",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ut4b2xkv",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/8rqh8jul",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/tszihov6",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/6poz69cf",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/7qx0fed0",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/gvqhcjuh",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 45,
+      "sourceSlide": 45,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/2xwrutcj",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/lsz2dofy",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/8fa1oje9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/vi1kjyd0",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ahs3qtwf",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/gvu9s3ud",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/hw3a1oby",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/utcrqtc7",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/fulszyts",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/4zetw3u9",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 46,
+      "sourceSlide": 46,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/a9s3uhcv",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/va14nmtg",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/5g3mtwbi",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ids3yhc7",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/4fe18ze1",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 47,
+      "sourceSlide": 47,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/503e9ora",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/4zadgjap",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/6lcvitsf",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/do3edor6",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/r69grihc",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 48,
+      "sourceSlide": 48,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/94va1sf2",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/83m9snyx",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/yxkrmdgf",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/l0vaxsf6",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/vih4jips",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 49,
+      "sourceSlide": 49,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/0ra1w7al",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1sj2psbq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rmhkjito",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cnq1snu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/2lgrmtor",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 50,
+      "sourceSlide": 50,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/ofq943e5",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/pgzax8vq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/fqhsrydo",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/gbq90jet",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/q90v2dk7",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 51,
+      "sourceSlide": 51,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/l8rat03a",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/07yt0vmp",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/m90b254v",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/9craxk36",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/ryxg7qd8",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 52,
+      "sourceSlide": 52,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/hozadsnm",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/gnq94n61",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/2psr6xo7",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/psjahcny",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/7a5sfit8",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 53,
+      "sourceSlide": 53,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/m9kfqxo3",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/natwz2po",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1obexs7i",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/elkfmx87",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/4jmlo32x",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 54,
+      "sourceSlide": 54,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/lwjyporq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/0vqxgja5",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/q58faps3",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/dszyl4ru",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/b2lsby98",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 55,
+      "sourceSlide": 55,
+      "narrativeRole": "既存統合資料を継承",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/gv6t0bqp",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/q18b6l8r",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/0rqtcfqt",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1sju507e",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/ep8ba583",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 56,
+      "sourceSlide": 49,
+      "narrativeRole": "第1章の敵・5ステージ・ギミック詳細",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/0ra1w7al",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1sj2psbq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rmhkjito",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cnq1snu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/2lgrmtor",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 57,
+      "sourceSlide": 49,
+      "narrativeRole": "第2章の敵・5ステージ・ギミック詳細",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/0ra1w7al",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1sj2psbq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rmhkjito",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cnq1snu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/2lgrmtor",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 58,
+      "sourceSlide": 49,
+      "narrativeRole": "第3章の敵・5ステージ・ギミック詳細",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/0ra1w7al",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1sj2psbq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rmhkjito",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cnq1snu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/2lgrmtor",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 59,
+      "sourceSlide": 49,
+      "narrativeRole": "第4章の敵・5ステージ・ギミック詳細",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/0ra1w7al",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1sj2psbq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rmhkjito",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cnq1snu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/2lgrmtor",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 60,
+      "sourceSlide": 49,
+      "narrativeRole": "第5章の敵・5ステージ・ギミック詳細",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/0ra1w7al",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1sj2psbq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rmhkjito",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cnq1snu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/2lgrmtor",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 61,
+      "sourceSlide": 49,
+      "narrativeRole": "第6章の敵・5ステージ・ギミック詳細",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/0ra1w7al",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1sj2psbq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rmhkjito",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cnq1snu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/2lgrmtor",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 62,
+      "sourceSlide": 49,
+      "narrativeRole": "第7章の敵・5ステージ・ギミック詳細",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/0ra1w7al",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1sj2psbq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rmhkjito",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cnq1snu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/2lgrmtor",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 63,
+      "sourceSlide": 49,
+      "narrativeRole": "第8章の敵・5ステージ・ギミック詳細",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/0ra1w7al",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1sj2psbq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rmhkjito",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cnq1snu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/2lgrmtor",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 64,
+      "sourceSlide": 49,
+      "narrativeRole": "第9章の敵・5ステージ・ギミック詳細",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/0ra1w7al",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1sj2psbq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rmhkjito",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cnq1snu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/2lgrmtor",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 65,
+      "sourceSlide": 49,
+      "narrativeRole": "第10章の敵・5ステージ・ギミック詳細",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/0ra1w7al",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1sj2psbq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rmhkjito",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cnq1snu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/2lgrmtor",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 66,
+      "sourceSlide": 49,
+      "narrativeRole": "第11章の敵・5ステージ・ギミック詳細",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/0ra1w7al",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1sj2psbq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rmhkjito",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cnq1snu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/2lgrmtor",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 67,
+      "sourceSlide": 49,
+      "narrativeRole": "第12章の敵・5ステージ・ギミック詳細",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/0ra1w7al",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1sj2psbq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rmhkjito",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cnq1snu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/2lgrmtor",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 68,
+      "sourceSlide": 49,
+      "narrativeRole": "第13章の敵・5ステージ・ギミック詳細",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/0ra1w7al",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1sj2psbq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rmhkjito",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cnq1snu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/2lgrmtor",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 69,
+      "sourceSlide": 49,
+      "narrativeRole": "第14章の敵・5ステージ・ギミック詳細",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/0ra1w7al",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1sj2psbq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rmhkjito",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cnq1snu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/2lgrmtor",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 70,
+      "sourceSlide": 49,
+      "narrativeRole": "第15章の敵・5ステージ・ギミック詳細",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/0ra1w7al",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1sj2psbq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rmhkjito",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cnq1snu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/2lgrmtor",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 71,
+      "sourceSlide": 49,
+      "narrativeRole": "第16章の敵・5ステージ・ギミック詳細",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/0ra1w7al",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1sj2psbq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rmhkjito",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cnq1snu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/2lgrmtor",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 72,
+      "sourceSlide": 49,
+      "narrativeRole": "第17章の敵・5ステージ・ギミック詳細",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/0ra1w7al",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1sj2psbq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rmhkjito",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cnq1snu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/2lgrmtor",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 73,
+      "sourceSlide": 49,
+      "narrativeRole": "第18章の敵・5ステージ・ギミック詳細",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/0ra1w7al",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1sj2psbq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rmhkjito",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cnq1snu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/2lgrmtor",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 74,
+      "sourceSlide": 49,
+      "narrativeRole": "第19章の敵・5ステージ・ギミック詳細",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/0ra1w7al",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1sj2psbq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rmhkjito",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cnq1snu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/2lgrmtor",
+          "action": "rewrite"
+        }
+      ]
+    },
+    {
+      "outputSlide": 75,
+      "sourceSlide": 49,
+      "narrativeRole": "第20章の敵・5ステージ・ギミック詳細",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/0ra1w7al",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/1sj2psbq",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/rmhkjito",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "sh/cnq1snu9",
+          "action": "rewrite"
+        },
+        {
+          "sourceElementId": "tb/2lgrmtor",
+          "action": "rewrite"
+        }
+      ]
+    }
+  ],
+  "omittedSourceSlides": []
+}

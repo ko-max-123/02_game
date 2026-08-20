@@ -1,0 +1,1101 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/wnqh07ex",
+    "id": "wnqh07ex",
+    "slide": 30,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Helvetica Neue",
+      "Yu Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ru5k3ep8",
+      "id": "8",
+      "name": "Google-Shape-532-p58-2",
+      "bbox": [
+        1184.18,
+        659.24,
+        54.48,
+        25.33
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/po72d8nm",
+      "id": "2",
+      "name": "Google-Shape-533-p58-3",
+      "bbox": [
+        41.33,
+        36.12,
+        1197.33,
+        109.97
+      ],
+      "geometry": "rect",
+      "text": "フィールド1〜5：日常から環境戦へ",
+      "textPreview": "フィールド1〜5：日常から環境戦へ",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "フィールド1〜5：日常から環境戦へ"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "フィールド1〜5：日常から環境戦へ",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 38.67,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "フィールド1〜5：日常から環境戦へ",
+              "fontSize": 48,
+              "typeface": "Yu Gothic",
+              "color": "#12171C",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o3yl4361",
+      "id": "3",
+      "name": "Content-Placeholder-15-4",
+      "bbox": [
+        42.09,
+        111.02,
+        1197.33,
+        106.27
+      ],
+      "geometry": "rect",
+      "text": "REFERENCE\n前半は操作・物流・環境装備の意味を段階的に増やす。",
+      "textPreview": "REFERENCE | 前半は操作・物流・環境装備の意味を段階的に増やす。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "REFERENCE"
+          },
+          {
+            "index": 2,
+            "text": "前半は操作・物流・環境装備の意味を段階的に増やす。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "REFERENCE",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "REFERENCE",
+              "fontSize": 17,
+              "typeface": "Yu Gothic",
+              "color": "#F28C28",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "前半は操作・物流・環境装備の意味を段階的に増やす。",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "前半は操作・物流・環境装備の意味を段階的に増やす。",
+              "fontSize": 20,
+              "typeface": "Yu Gothic",
+              "color": "#28323A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/zedsfatc",
+      "id": "9",
+      "name": "Google-Shape-644-p93-5",
+      "bbox": [
+        41.33,
+        236.33,
+        1197,
+        412.87
+      ],
+      "text": "# | フィールド | 章 | 固有ギミック／視覚\n1 | 中央産業帯 | 1–2 | 訓練ゲート／高架道路／夕方の橙\n2 | 旧首都区 | 3–4 | 民間人／車両／廃墟／暗所\n3 | 潮境湾岸 | 5–6 | 浸水／ガス／列車／港湾警報\n4 | 白峰山岳 | 7–8 | 寒冷／吹雪／狙撃／ジャミング\n5 | 黄砂国境地帯 | 9–10 | 高熱／砂嵐／潜入／装備制限",
+      "textPreview": "# | フィールド | 章 | 固有ギミック／視覚 | 1 | 中央産業帯 | 1–2 | 訓練ゲート／高架道路／夕方の橙 | 2 | 旧首都区 | 3–4 | 民間人／車両／廃墟／暗所 | 3 | 潮境湾岸 | 5–6 | 浸水／ガス／列車／港湾警報 | 4 | 白峰山岳...",
+      "rows": 6,
+      "cols": 4,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            41.33,
+            236.33,
+            80,
+            68.81
+          ],
+          "text": "#",
+          "textPreview": "#",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "#",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "#",
+                  "fontSize": 18,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            121.33,
+            236.33,
+            260,
+            68.81
+          ],
+          "text": "フィールド",
+          "textPreview": "フィールド",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "フィールド",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "フィールド",
+                  "fontSize": 18,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            381.33,
+            236.33,
+            120,
+            68.81
+          ],
+          "text": "章",
+          "textPreview": "章",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "章",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "章",
+                  "fontSize": 18,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            501.33,
+            236.33,
+            737,
+            68.81
+          ],
+          "text": "固有ギミック／視覚",
+          "textPreview": "固有ギミック／視覚",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "固有ギミック／視覚",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "固有ギミック／視覚",
+                  "fontSize": 18,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            41.33,
+            305.14,
+            80,
+            68.81
+          ],
+          "text": "1",
+          "textPreview": "1",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            121.33,
+            305.14,
+            260,
+            68.81
+          ],
+          "text": "中央産業帯",
+          "textPreview": "中央産業帯",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "中央産業帯",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "中央産業帯",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            381.33,
+            305.14,
+            120,
+            68.81
+          ],
+          "text": "1–2",
+          "textPreview": "1–2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1–2",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1–2",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            501.33,
+            305.14,
+            737,
+            68.81
+          ],
+          "text": "訓練ゲート／高架道路／夕方の橙",
+          "textPreview": "訓練ゲート／高架道路／夕方の橙",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "訓練ゲート／高架道路／夕方の橙",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "訓練ゲート／高架道路／夕方の橙",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            41.33,
+            373.95,
+            80,
+            68.81
+          ],
+          "text": "2",
+          "textPreview": "2",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            121.33,
+            373.95,
+            260,
+            68.81
+          ],
+          "text": "旧首都区",
+          "textPreview": "旧首都区",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "旧首都区",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "旧首都区",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            381.33,
+            373.95,
+            120,
+            68.81
+          ],
+          "text": "3–4",
+          "textPreview": "3–4",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3–4",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3–4",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            501.33,
+            373.95,
+            737,
+            68.81
+          ],
+          "text": "民間人／車両／廃墟／暗所",
+          "textPreview": "民間人／車両／廃墟／暗所",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "民間人／車両／廃墟／暗所",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "民間人／車両／廃墟／暗所",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            41.33,
+            442.76,
+            80,
+            68.81
+          ],
+          "text": "3",
+          "textPreview": "3",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            121.33,
+            442.76,
+            260,
+            68.81
+          ],
+          "text": "潮境湾岸",
+          "textPreview": "潮境湾岸",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "潮境湾岸",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "潮境湾岸",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            381.33,
+            442.76,
+            120,
+            68.81
+          ],
+          "text": "5–6",
+          "textPreview": "5–6",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5–6",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5–6",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            501.33,
+            442.76,
+            737,
+            68.81
+          ],
+          "text": "浸水／ガス／列車／港湾警報",
+          "textPreview": "浸水／ガス／列車／港湾警報",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "浸水／ガス／列車／港湾警報",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "浸水／ガス／列車／港湾警報",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            41.33,
+            511.58,
+            80,
+            68.81
+          ],
+          "text": "4",
+          "textPreview": "4",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            121.33,
+            511.58,
+            260,
+            68.81
+          ],
+          "text": "白峰山岳",
+          "textPreview": "白峰山岳",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "白峰山岳",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "白峰山岳",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            381.33,
+            511.58,
+            120,
+            68.81
+          ],
+          "text": "7–8",
+          "textPreview": "7–8",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "7–8",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "7–8",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            501.33,
+            511.58,
+            737,
+            68.81
+          ],
+          "text": "寒冷／吹雪／狙撃／ジャミング",
+          "textPreview": "寒冷／吹雪／狙撃／ジャミング",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "寒冷／吹雪／狙撃／ジャミング",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "寒冷／吹雪／狙撃／ジャミング",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            41.33,
+            580.39,
+            80,
+            68.81
+          ],
+          "text": "5",
+          "textPreview": "5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            121.33,
+            580.39,
+            260,
+            68.81
+          ],
+          "text": "黄砂国境地帯",
+          "textPreview": "黄砂国境地帯",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "黄砂国境地帯",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "黄砂国境地帯",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            381.33,
+            580.39,
+            120,
+            68.81
+          ],
+          "text": "9–10",
+          "textPreview": "9–10",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "9–10",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "9–10",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            501.33,
+            580.39,
+            737,
+            68.81
+          ],
+          "text": "高熱／砂嵐／潜入／装備制限",
+          "textPreview": "高熱／砂嵐／潜入／装備制限",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "高熱／砂嵐／潜入／装備制限",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "高熱／砂嵐／潜入／装備制限",
+                  "fontSize": 18,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/apg36do7",
+      "id": "5",
+      "bbox": [
+        42,
+        670,
+        350,
+        24
+      ],
+      "geometry": "rect",
+      "text": "YTC: Deliver Tomorrow",
+      "textPreview": "YTC: Deliver Tomorrow",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "YTC: Deliver Tomorrow"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "YTC: Deliver Tomorrow",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "YTC: Deliver Tomorrow",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xsr2h8ni",
+      "id": "6",
+      "bbox": [
+        1178,
+        670,
+        60,
+        24
+      ],
+      "geometry": "rect",
+      "text": "30",
+      "textPreview": "30",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "30"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "30",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "30",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cril836d",
+      "id": "7",
+      "bbox": [
+        42,
+        660,
+        54,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C28"
+    }
+  ],
+  "composeRuns": []
+}

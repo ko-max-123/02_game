@@ -1,0 +1,20 @@
+Communication job:
+By the end, the producer and implementation team should be able to approve the P0-P4 technical baseline because the story, core loop, data model, architecture, non-functional requirements, and unresolved producer decisions are traceable to the current game bible.
+
+Primary local sources:
+- D:\05_codex\02_game\001_設定資料\00_INDEX.md
+- D:\05_codex\02_game\001_設定資料\01_Story_20_Chapters.md
+- D:\05_codex\02_game\001_設定資料\02_Characters.md
+- D:\05_codex\02_game\001_設定資料\03_Enemies_and_Encounters.md
+- D:\05_codex\02_game\001_設定資料\04_Weapons.md
+- D:\05_codex\02_game\001_設定資料\05_Equipment.md
+- D:\05_codex\02_game\001_設定資料\06_Loot_and_Items.md
+- D:\05_codex\02_game\001_設定資料\07_Player_Stats.md
+- D:\05_codex\02_game\001_設定資料\08_Weapon_Stats.md
+- D:\05_codex\02_game\001_設定資料\09_Game_Rules.md
+- D:\05_codex\02_game\001_設定資料\10_Fields.md
+- D:\05_codex\02_game\001_設定資料\11_Producer_Direction.md
+- D:\05_codex\02_game\001_設定資料\12_ID_and_Terminology.md
+- D:\05_codex\02_game\001_設定資料\DOCUMENT_REVIEW_SUMMARY.md
+
+No external claims or external image assets are used. The deck contains only project-source facts and explicitly labeled technical decisions/proposals.

@@ -1,0 +1,1100 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/l0bepsfm",
+    "id": "l0bepsfm",
+    "slide": 26,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Helvetica Neue",
+      "Yu Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kbil0r2p",
+      "id": "8",
+      "name": "Google-Shape-532-p58-2",
+      "bbox": [
+        1184.18,
+        659.24,
+        54.48,
+        25.33
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/uhk36lk7",
+      "id": "2",
+      "name": "Google-Shape-533-p58-3",
+      "bbox": [
+        41.33,
+        36.12,
+        1197.33,
+        109.97
+      ],
+      "geometry": "rect",
+      "text": "敵勢力は、装備・目的・シルエットで見分ける",
+      "textPreview": "敵勢力は、装備・目的・シルエットで見分ける",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "敵勢力は、装備・目的・シルエットで見分ける"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "敵勢力は、装備・目的・シルエットで見分ける",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 38.67,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "敵勢力は、装備・目的・シルエットで見分ける",
+              "fontSize": 48,
+              "typeface": "Yu Gothic",
+              "color": "#12171C",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vitkzqlc",
+      "id": "3",
+      "name": "Content-Placeholder-15-4",
+      "bbox": [
+        42.09,
+        111.02,
+        1197.33,
+        106.27
+      ],
+      "geometry": "rect",
+      "text": "REFERENCE\n色だけでなく、形と行動で敵味方を識別。",
+      "textPreview": "REFERENCE | 色だけでなく、形と行動で敵味方を識別。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "REFERENCE"
+          },
+          {
+            "index": 2,
+            "text": "色だけでなく、形と行動で敵味方を識別。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "REFERENCE",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "REFERENCE",
+              "fontSize": 17,
+              "typeface": "Yu Gothic",
+              "color": "#F28C28",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "色だけでなく、形と行動で敵味方を識別。",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 21.33,
+            "typeface": "Helvetica Neue",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "色だけでなく、形と行動で敵味方を識別。",
+              "fontSize": 20,
+              "typeface": "Yu Gothic",
+              "color": "#28323A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/s3698rmp",
+      "id": "9",
+      "name": "Google-Shape-644-p93-5",
+      "bbox": [
+        41.33,
+        236.33,
+        1197,
+        412.87
+      ],
+      "text": "勢力 | シルエット／色 | 戦術\n赤錆 | 不揃い部品・布・錆赤 | 数と即席火器\n灰鐘 | 矩形盾・真鍮・鐘肩 | 制圧と誘拐護衛\nBLACK RAIL | 物流タグ・直線マーキング | 混成装備・増援\n白梟 | 長い狙撃輪郭・白布 | 射線と距離支配\n治安局 | 青黄・整然矩形・丸銃口 | 非致死制圧\n神楽警備 | 真珠白・シアン・左右対称 | 監視・捕獲・電子防御\nORPHEUS | 細い胴体・逆関節・赤黒ノイズ | 群体・遠隔侵食・無差別",
+      "textPreview": "勢力 | シルエット／色 | 戦術 | 赤錆 | 不揃い部品・布・錆赤 | 数と即席火器 | 灰鐘 | 矩形盾・真鍮・鐘肩 | 制圧と誘拐護衛 | BLACK RAIL | 物流タグ・直線マーキング | 混成装備・増援 | 白梟 | 長い狙撃輪郭・白布 | 射線と距離支配 ...",
+      "rows": 8,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            41.33,
+            236.33,
+            245,
+            51.61
+          ],
+          "text": "勢力",
+          "textPreview": "勢力",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "勢力",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "勢力",
+                  "fontSize": 16,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            286.33,
+            236.33,
+            460,
+            51.61
+          ],
+          "text": "シルエット／色",
+          "textPreview": "シルエット／色",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "シルエット／色",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "シルエット／色",
+                  "fontSize": 16,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            746.33,
+            236.33,
+            492,
+            51.61
+          ],
+          "text": "戦術",
+          "textPreview": "戦術",
+          "fillColor": "#12171C",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "戦術",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "戦術",
+                  "fontSize": 16,
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            41.33,
+            287.94,
+            245,
+            51.61
+          ],
+          "text": "赤錆",
+          "textPreview": "赤錆",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "赤錆",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "赤錆",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            286.33,
+            287.94,
+            460,
+            51.61
+          ],
+          "text": "不揃い部品・布・錆赤",
+          "textPreview": "不揃い部品・布・錆赤",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "不揃い部品・布・錆赤",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "不揃い部品・布・錆赤",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            746.33,
+            287.94,
+            492,
+            51.61
+          ],
+          "text": "数と即席火器",
+          "textPreview": "数と即席火器",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "数と即席火器",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "数と即席火器",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            41.33,
+            339.55,
+            245,
+            51.61
+          ],
+          "text": "灰鐘",
+          "textPreview": "灰鐘",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "灰鐘",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "灰鐘",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            286.33,
+            339.55,
+            460,
+            51.61
+          ],
+          "text": "矩形盾・真鍮・鐘肩",
+          "textPreview": "矩形盾・真鍮・鐘肩",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "矩形盾・真鍮・鐘肩",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "矩形盾・真鍮・鐘肩",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            746.33,
+            339.55,
+            492,
+            51.61
+          ],
+          "text": "制圧と誘拐護衛",
+          "textPreview": "制圧と誘拐護衛",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "制圧と誘拐護衛",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "制圧と誘拐護衛",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            41.33,
+            391.16,
+            245,
+            51.61
+          ],
+          "text": "BLACK RAIL",
+          "textPreview": "BLACK RAIL",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "BLACK RAIL",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "BLACK RAIL",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            286.33,
+            391.16,
+            460,
+            51.61
+          ],
+          "text": "物流タグ・直線マーキング",
+          "textPreview": "物流タグ・直線マーキング",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "物流タグ・直線マーキング",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "物流タグ・直線マーキング",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            746.33,
+            391.16,
+            492,
+            51.61
+          ],
+          "text": "混成装備・増援",
+          "textPreview": "混成装備・増援",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "混成装備・増援",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "混成装備・増援",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            41.33,
+            442.76,
+            245,
+            51.61
+          ],
+          "text": "白梟",
+          "textPreview": "白梟",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "白梟",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "白梟",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            286.33,
+            442.76,
+            460,
+            51.61
+          ],
+          "text": "長い狙撃輪郭・白布",
+          "textPreview": "長い狙撃輪郭・白布",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "長い狙撃輪郭・白布",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "長い狙撃輪郭・白布",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            746.33,
+            442.76,
+            492,
+            51.61
+          ],
+          "text": "射線と距離支配",
+          "textPreview": "射線と距離支配",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "射線と距離支配",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "射線と距離支配",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            41.33,
+            494.37,
+            245,
+            51.61
+          ],
+          "text": "治安局",
+          "textPreview": "治安局",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "治安局",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "治安局",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            286.33,
+            494.37,
+            460,
+            51.61
+          ],
+          "text": "青黄・整然矩形・丸銃口",
+          "textPreview": "青黄・整然矩形・丸銃口",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "青黄・整然矩形・丸銃口",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "青黄・整然矩形・丸銃口",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            746.33,
+            494.37,
+            492,
+            51.61
+          ],
+          "text": "非致死制圧",
+          "textPreview": "非致死制圧",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "非致死制圧",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "非致死制圧",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            41.33,
+            545.98,
+            245,
+            51.61
+          ],
+          "text": "神楽警備",
+          "textPreview": "神楽警備",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "神楽警備",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "神楽警備",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            286.33,
+            545.98,
+            460,
+            51.61
+          ],
+          "text": "真珠白・シアン・左右対称",
+          "textPreview": "真珠白・シアン・左右対称",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "真珠白・シアン・左右対称",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "真珠白・シアン・左右対称",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            746.33,
+            545.98,
+            492,
+            51.61
+          ],
+          "text": "監視・捕獲・電子防御",
+          "textPreview": "監視・捕獲・電子防御",
+          "fillColor": "#F2F2F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "監視・捕獲・電子防御",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "監視・捕獲・電子防御",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 8,
+          "column": 1,
+          "bbox": [
+            41.33,
+            597.59,
+            245,
+            51.61
+          ],
+          "text": "ORPHEUS",
+          "textPreview": "ORPHEUS",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ORPHEUS",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ORPHEUS",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 8,
+          "column": 2,
+          "bbox": [
+            286.33,
+            597.59,
+            460,
+            51.61
+          ],
+          "text": "細い胴体・逆関節・赤黒ノイズ",
+          "textPreview": "細い胴体・逆関節・赤黒ノイズ",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "細い胴体・逆関節・赤黒ノイズ",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "細い胴体・逆関節・赤黒ノイズ",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 8,
+          "column": 3,
+          "bbox": [
+            746.33,
+            597.59,
+            492,
+            51.61
+          ],
+          "text": "群体・遠隔侵食・無差別",
+          "textPreview": "群体・遠隔侵食・無差別",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "群体・遠隔侵食・無差別",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "群体・遠隔侵食・無差別",
+                  "fontSize": 16,
+                  "color": "#12171C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tgr2xg3m",
+      "id": "5",
+      "bbox": [
+        42,
+        670,
+        350,
+        24
+      ],
+      "geometry": "rect",
+      "text": "YTC: Deliver Tomorrow",
+      "textPreview": "YTC: Deliver Tomorrow",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "YTC: Deliver Tomorrow"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "YTC: Deliver Tomorrow",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "YTC: Deliver Tomorrow",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/md0321kv",
+      "id": "6",
+      "bbox": [
+        1178,
+        670,
+        60,
+        24
+      ],
+      "geometry": "rect",
+      "text": "26",
+      "textPreview": "26",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "26"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "26",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Yu Gothic",
+            "color": "#5D6770",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "26",
+              "fontSize": 15,
+              "typeface": "Yu Gothic",
+              "color": "#5D6770"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7e9kv6lg",
+      "id": "7",
+      "bbox": [
+        42,
+        660,
+        54,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C28"
+    }
+  ],
+  "composeRuns": []
+}
