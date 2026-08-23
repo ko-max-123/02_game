@@ -1,0 +1,59 @@
+{
+  "format": "glTF 2.0 binary (.glb)",
+  "coordinateSystem": {
+    "units": "meters",
+    "up": "+Y",
+    "forward": "+Z",
+    "movementLane": "+/-X"
+  },
+  "generatedWithoutExternalAssets": true,
+  "assets": [
+    {
+      "file": "yamada_k1_prototype_v1.glb",
+      "bytes": 45680,
+      "nodes": 71,
+      "uniqueMeshes": 12,
+      "sourceTriangles": 924,
+      "materials": 9,
+      "animations": [
+        "Walk_Prototype",
+        "Idle_Prototype",
+        "Jump_Pose_Prototype"
+      ],
+      "sha256": "feb99d6e5c0608ef70e98ae141710d84a1d3ab033c1410fd9e43b9daedae4f8d",
+      "preview": "preview_yamada_k1_prototype_v1.png"
+    },
+    {
+      "file": "central_belt_stage01_demo_field_v1.glb",
+      "bytes": 28576,
+      "nodes": 42,
+      "uniqueMeshes": 13,
+      "sourceTriangles": 296,
+      "materials": 9,
+      "animations": [],
+      "sha256": "53749b114acf36b2e5d90bec721d328477ef193f61324f307953a468eaf16d1a",
+      "preview": "preview_central_belt_stage01_demo_field_v1.png"
+    }
+  ],
+  "staticCompatibilityExports": [
+    {
+      "file": "yamada_k1_prototype_v1.obj",
+      "triangles": 3060,
+      "bytes": 490077,
+      "sha256": "76a6950c962f994c18eb4a2aea374c5f2751328e5b6dc0bd19a7c606a49d8f72",
+      "materialLibrary": "prototype_materials_v1.mtl"
+    },
+    {
+      "file": "central_belt_stage01_demo_field_v1.obj",
+      "triangles": 680,
+      "bytes": 109281,
+      "sha256": "09b3b553d45d681f47ecc0ba95fdd212dc3c4efb9dcccbf0a59afb01e391c71b",
+      "materialLibrary": "prototype_materials_v1.mtl"
+    },
+    {
+      "file": "prototype_materials_v1.mtl",
+      "bytes": 1456,
+      "sha256": "838a8efd5f349da406eccb1878fd571fb9b3829bb15a63b81d479ea14e941248"
+    }
+  ]
+}
