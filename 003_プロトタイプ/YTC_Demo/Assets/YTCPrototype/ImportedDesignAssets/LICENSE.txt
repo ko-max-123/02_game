@@ -1,0 +1,11 @@
+YTC PROJECT INTERNAL ASSET LICENSE
+
+Copyright (c) 2026 YTC project repository owner.
+
+Permission is granted to the repository owner and project contributors to use,
+copy, modify, render, and redistribute these assets as part of the YTC project,
+its prototypes, builds, documentation, and promotional materials.
+
+No third-party model, texture, logo, or real-world product asset is included.
+These assets are provided as-is, without warranty.
+

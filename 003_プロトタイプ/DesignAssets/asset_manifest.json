@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-08-23T14:58:46.455Z",
+  "units": "1 OBJ unit = 1 meter",
+  "axis": "Y up, Z forward",
+  "assets": {
+    "yamadaK1": {
+      "objectCount": 56,
+      "vertices": 688,
+      "triangles": 1152,
+      "boundsMin": [
+        -0.6943505847143281,
+        0,
+        -0.5094127789016296
+      ],
+      "boundsMax": [
+        0.7424999999999999,
+        2.002128631637468,
+        0.2863356352294104
+      ],
+      "size": [
+        1.436850584714328,
+        2.002128631637468,
+        0.79574841413104
+      ]
+    },
+    "centralIndustrialBelt": {
+      "objectCount": 146,
+      "vertices": 1464,
+      "triangles": 2356,
+      "boundsMin": [
+        -25.5,
+        -1.23,
+        -3.835
+      ],
+      "boundsMax": [
+        29.5,
+        10.5,
+        12.1
+      ],
+      "size": [
+        55,
+        11.73,
+        15.934999999999999
+      ]
+    },
+    "centralIndustrialBeltCollision": {
+      "objectCount": 14,
+      "vertices": 112,
+      "triangles": 168,
+      "boundsMin": [
+        -18,
+        -1.23,
+        -3
+      ],
+      "boundsMax": [
+        22,
+        1.19,
+        3
+      ],
+      "size": [
+        40,
+        2.42,
+        6
+      ]
+    }
+  },
+  "materials": [
+    "K1_WhiteGray",
+    "K1_LightPanel",
+    "K1_DarkSteel",
+    "K1_JointRubber",
+    "YTC_Orange",
+    "K1_VisorBlue",
+    "LARK_Mint",
+    "Repair_Dark",
+    "Field_Walkable",
+    "Field_WhitePanel",
+    "Field_EdgeDark",
+    "Field_HazardYellow",
+    "Field_DangerRed",
+    "Field_InteractiveBlue",
+    "Field_BackgroundGray",
+    "Field_BackgroundDark",
+    "Field_WindowWarm",
+    "Field_Glass",
+    "Field_Sunset"
+  ]
+}
