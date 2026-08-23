@@ -68,12 +68,6 @@ namespace YTC.Prototype
         private static bool CreateEnvironment()
         {
             var environmentRoot = new GameObject("[YTC] Environment");
-            CreateBlock(
-                "Collision Ground",
-                environmentRoot.transform,
-                new Vector3(0f, -0.15f, 0f),
-                new Vector3(40f, 0.3f, 40f),
-                new Color(0.10f, 0.14f, 0.19f));
 
             GameObject fieldAsset = Resources.Load<GameObject>(DemoFieldResourcePath);
             if (fieldAsset != null)
@@ -81,10 +75,17 @@ namespace YTC.Prototype
                 GameObject field = Instantiate(fieldAsset, environmentRoot.transform);
                 field.name = "DemoField_DesignAsset";
                 field.transform.SetLocalPositionAndRotation(Vector3.zero, Quaternion.identity);
-                PrepareFieldColliders(field);
+                DisableColliders(field);
+                CreateOfficialFieldColliders(environmentRoot.transform);
                 return true;
             }
 
+            CreateBlock(
+                "Collision Ground",
+                environmentRoot.transform,
+                new Vector3(0f, -0.15f, 0f),
+                new Vector3(40f, 0.3f, 40f),
+                new Color(0.10f, 0.14f, 0.19f));
             CreateFallbackField(environmentRoot.transform);
             return false;
         }
@@ -239,25 +240,88 @@ namespace YTC.Prototype
             model.transform.position += Vector3.up * groundOffset;
         }
 
-        private static void PrepareFieldColliders(GameObject field)
+        private static void DisableColliders(GameObject root)
         {
-            SetStaticRecursively(field);
-            if (field.GetComponentsInChildren<Collider>(true).Length > 0)
+            SetStaticRecursively(root);
+            foreach (Collider collider in root.GetComponentsInChildren<Collider>(true))
             {
-                return;
+                collider.enabled = false;
             }
+        }
 
-            foreach (MeshFilter meshFilter in field.GetComponentsInChildren<MeshFilter>(true))
-            {
-                if (meshFilter.sharedMesh == null || meshFilter.GetComponent<Collider>() != null)
-                {
-                    continue;
-                }
+        private static void CreateRampCollider(Transform parent)
+        {
+            const float run = 4.4f;
+            const float rise = 1.1733333f;
+            const float thickness = 0.2f;
+            float angle = Mathf.Atan2(rise, run) * Mathf.Rad2Deg;
+            float length = Mathf.Sqrt(run * run + rise * rise);
+            Vector3 surfaceNormal = new Vector3(
+                -Mathf.Sin(angle * Mathf.Deg2Rad),
+                Mathf.Cos(angle * Mathf.Deg2Rad),
+                0f);
 
-                var meshCollider = meshFilter.gameObject.AddComponent<MeshCollider>();
-                meshCollider.sharedMesh = meshFilter.sharedMesh;
-                meshCollider.convex = false;
-            }
+            var ramp = new GameObject("COLLISION_ASCENT_RAMP");
+            ramp.transform.SetParent(parent, false);
+            ramp.transform.localPosition =
+                new Vector3(7.2f, 0.32f, 0f) - surfaceNormal * (thickness * 0.5f);
+            ramp.transform.localRotation = Quaternion.Euler(0f, 0f, angle);
+            var collider = ramp.AddComponent<BoxCollider>();
+            collider.size = new Vector3(length, thickness, 4.4f);
+            ramp.isStatic = true;
+        }
+
+        private static void CreateOfficialFieldColliders(Transform parent)
+        {
+            CreateBoxCollider(
+                "COLLISION_START_PLATFORM",
+                parent,
+                new Vector3(-10f, -0.15f, 0f),
+                new Vector3(10f, 0.3f, 4.4f));
+            CreateBoxCollider(
+                "COLLISION_MIDDLE_PLATFORM",
+                parent,
+                new Vector3(1.75f, -0.15f, 0f),
+                new Vector3(9.5f, 0.3f, 4.4f));
+            CreateBoxCollider(
+                "COLLISION_GOAL_PLATFORM",
+                parent,
+                new Vector3(12.2f, 0.65f, 0f),
+                new Vector3(5.6f, 0.3f, 4.4f));
+            CreateBoxCollider(
+                "COLLISION_LOW_OBSTACLE",
+                parent,
+                new Vector3(-7.3f, 0.3f, 0f),
+                new Vector3(1f, 0.6f, 1.7f));
+            CreateBoxCollider(
+                "COLLISION_STEP_01",
+                parent,
+                new Vector3(-1.4f, 0.1f, 0f),
+                new Vector3(1.05f, 0.2f, 2.2f));
+            CreateBoxCollider(
+                "COLLISION_STEP_02",
+                parent,
+                new Vector3(-0.3f, 0.2f, 0f),
+                new Vector3(1.05f, 0.4f, 2.2f));
+            CreateBoxCollider(
+                "COLLISION_STEP_03",
+                parent,
+                new Vector3(0.8f, 0.3f, 0f),
+                new Vector3(1.05f, 0.6f, 2.2f));
+            CreateRampCollider(parent);
+        }
+
+        private static void CreateBoxCollider(
+            string name,
+            Transform parent,
+            Vector3 position,
+            Vector3 size)
+        {
+            var colliderObject = new GameObject(name);
+            colliderObject.transform.SetParent(parent, false);
+            colliderObject.transform.localPosition = position;
+            colliderObject.AddComponent<BoxCollider>().size = size;
+            colliderObject.isStatic = true;
         }
 
         private static void SetStaticRecursively(GameObject root)

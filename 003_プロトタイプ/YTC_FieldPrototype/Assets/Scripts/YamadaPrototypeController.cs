@@ -29,6 +29,14 @@ namespace YTC.Prototype
             spawnPoint = initialSpawnPoint;
         }
 
+        public void TeleportTo(Vector3 position)
+        {
+            characterController.enabled = false;
+            transform.SetPositionAndRotation(position, Quaternion.identity);
+            verticalVelocity = 0f;
+            characterController.enabled = true;
+        }
+
         private void Update()
         {
             if (Input.GetKeyDown(KeyCode.R))
@@ -96,10 +104,7 @@ namespace YTC.Prototype
 
         private void ResetToSpawn()
         {
-            characterController.enabled = false;
-            transform.SetPositionAndRotation(spawnPoint, Quaternion.identity);
-            verticalVelocity = 0f;
-            characterController.enabled = true;
+            TeleportTo(spawnPoint);
         }
     }
 }
