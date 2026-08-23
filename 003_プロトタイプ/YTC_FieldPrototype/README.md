@@ -41,7 +41,7 @@ Editorセットアップが正式OBJ／MTLをプロジェクトのResourcesへ�
 
 ## テスト
 
-EditModeテストで、斜め入力の正規化、ジャンプ初速、重力計算を検証します。PlayModeテストでは、正式な山田／フィールド資産のロード、プロトタイプの自動生成、接地、移動、ジャンプ上昇を実際のCharacterControllerで検証します。
+EditModeテストで、斜め入力の正規化、ジャンプ初速、重力計算を検証します。PlayModeテストでは、正式な山田／フィールド資産のロード、プロトタイプの自動生成、接地、移動、0.6m障害物と2mギャップのジャンプ通過を実際のCharacterControllerで検証します。
 
 ```powershell
 & 'C:\Program Files\Unity\Hub\Editor\6000.5.8f1\Editor\Unity.exe' `
