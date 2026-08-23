@@ -1,0 +1,14 @@
+{
+  "name": "YTCPrototype.Runtime",
+  "rootNamespace": "YTC.Prototype",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

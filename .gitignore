@@ -1,1 +1,21 @@
 /100_Qiita記事用フォルダ/
+
+# Unity prototype generated files
+/003_プロトタイプ/YTC_FieldPrototype/[Ll]ibrary/
+/003_プロトタイプ/YTC_FieldPrototype/[Tt]emp/
+/003_プロトタイプ/YTC_FieldPrototype/[Oo]bj/
+/003_プロトタイプ/YTC_FieldPrototype/[Ll]ogs/
+/003_プロトタイプ/YTC_FieldPrototype/[Uu]ser[Ss]ettings/
+/003_プロトタイプ/YTC_FieldPrototype/[Mm]emoryCaptures/
+/003_プロトタイプ/YTC_FieldPrototype/*.csproj
+/003_プロトタイプ/YTC_FieldPrototype/*.sln
+/003_プロトタイプ/YTC_FieldPrototype/*.slnx
+/003_プロトタイプ/YTC_FieldPrototype/TestResults*.xml
+/003_プロトタイプ/YTC_FieldPrototype/EditModeResults.xml
+/003_プロトタイプ/YTC_FieldPrototype/PlayModeResults.xml
+
+# Unity copies these tracked design sources into Resources during project setup.
+/003_プロトタイプ/YTC_FieldPrototype/Assets/Resources/Characters/Yamada/Yamada.obj*
+/003_プロトタイプ/YTC_FieldPrototype/Assets/Resources/Characters/Yamada/prototype_materials_v1.mtl*
+/003_プロトタイプ/YTC_FieldPrototype/Assets/Resources/Environment/DemoField/DemoField.obj*
+/003_プロトタイプ/YTC_FieldPrototype/Assets/Resources/Environment/DemoField/prototype_materials_v1.mtl*
