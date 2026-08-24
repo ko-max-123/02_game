@@ -143,9 +143,9 @@ namespace YTC.Prototype
             player.transform.position = spawnPoint;
 
             var characterController = player.AddComponent<CharacterController>();
-            characterController.height = 1.9f;
+            characterController.height = 1.86f;
             characterController.radius = 0.38f;
-            characterController.center = new Vector3(0f, 0.95f, 0f);
+            characterController.center = new Vector3(0f, 0.93f, 0f);
             characterController.stepOffset = 0.3f;
             characterController.slopeLimit = 48f;
             characterController.skinWidth = 0.04f;
@@ -180,7 +180,7 @@ namespace YTC.Prototype
                 body.detectCollisions = false;
             }
 
-            NormalizeCharacterVisual(model, player.position, 1.8f);
+            NormalizeCharacterVisual(model, player.position, 2.3f);
             return true;
         }
 

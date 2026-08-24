@@ -10,6 +10,14 @@ namespace YTC.Prototype
         [SerializeField, Min(0.1f)] private float jumpHeight = 1.35f;
         [SerializeField] private float gravity = -24f;
         [SerializeField] private float fallResetHeight = -10f;
+        [SerializeField, Min(0.1f)] private float depthLimit = 0.65f;
+
+        private static readonly Vector2[] DepthMovementZones =
+        {
+            new Vector2(-14f, -9.2f),
+            new Vector2(1.7f, 5.3f),
+            new Vector2(10.1f, 14f)
+        };
 
         private CharacterController characterController;
         private Vector3 spawnPoint;
@@ -17,6 +25,8 @@ namespace YTC.Prototype
 
         public bool IsGrounded => characterController != null && characterController.isGrounded;
         public float VerticalVelocity => verticalVelocity;
+        public float DepthLimit => depthLimit;
+        public bool IsDepthMovementAllowed => AllowsDepthMovementAt(transform.position.x);
 
         private void Awake()
         {
@@ -39,7 +49,7 @@ namespace YTC.Prototype
 
         private void Update()
         {
-            if (Input.GetKeyDown(KeyCode.R))
+            if (Input.GetKeyDown(KeyCode.Backspace))
             {
                 ResetToSpawn();
                 return;
@@ -55,7 +65,8 @@ namespace YTC.Prototype
 
         public void Tick(Vector2 moveInput, bool jumpRequested, float deltaTime)
         {
-            Vector3 planarDirection = YamadaMotorMath.PlanarDirection(moveInput.x, moveInput.y);
+            float depthInput = IsDepthMovementAllowed ? moveInput.y : 0f;
+            Vector3 planarDirection = YamadaMotorMath.PlanarDirection(moveInput.x, depthInput);
 
             if (planarDirection.sqrMagnitude > 0.001f)
             {
@@ -80,10 +91,30 @@ namespace YTC.Prototype
             Vector3 velocity = planarDirection * moveSpeed + Vector3.up * verticalVelocity;
             characterController.Move(velocity * deltaTime);
 
+            float clampedDepth = Mathf.Clamp(transform.position.z, -depthLimit, depthLimit);
+            if (!Mathf.Approximately(clampedDepth, transform.position.z))
+            {
+                characterController.Move(
+                    new Vector3(0f, 0f, clampedDepth - transform.position.z));
+            }
+
             if (transform.position.y < fallResetHeight)
             {
                 ResetToSpawn();
             }
+        }
+
+        public static bool AllowsDepthMovementAt(float xPosition)
+        {
+            foreach (Vector2 zone in DepthMovementZones)
+            {
+                if (xPosition >= zone.x && xPosition <= zone.y)
+                {
+                    return true;
+                }
+            }
+
+            return false;
         }
 
         private static float ReadAxis(KeyCode negative, KeyCode positive)

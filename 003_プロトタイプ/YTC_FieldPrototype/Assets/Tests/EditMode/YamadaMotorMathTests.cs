@@ -41,5 +41,16 @@ namespace YTC.Prototype.Tests
 
             Assert.That(velocity, Is.EqualTo(0f).Within(0.0001f));
         }
+
+        [Test]
+        public void DepthMovement_IsLimitedToTheThreeStagingZones()
+        {
+            Assert.That(YamadaPrototypeController.AllowsDepthMovementAt(-12f), Is.True);
+            Assert.That(YamadaPrototypeController.AllowsDepthMovementAt(3f), Is.True);
+            Assert.That(YamadaPrototypeController.AllowsDepthMovementAt(12f), Is.True);
+            Assert.That(YamadaPrototypeController.AllowsDepthMovementAt(-8.5f), Is.False);
+            Assert.That(YamadaPrototypeController.AllowsDepthMovementAt(-4f), Is.False);
+            Assert.That(YamadaPrototypeController.AllowsDepthMovementAt(7f), Is.False);
+        }
     }
 }

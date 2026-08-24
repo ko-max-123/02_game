@@ -27,7 +27,10 @@ namespace YTC.Prototype
             var panel = new Rect(16f, 16f, 430f, 142f);
             GUI.Box(panel, GUIContent.none);
             GUI.Label(new Rect(32f, 28f, 390f, 24f), "YTC / YAMADA FIELD PROTOTYPE", titleStyle);
-            GUI.Label(new Rect(32f, 58f, 390f, 22f), "MOVE: W A S D    JUMP: SPACE    RESET: R", labelStyle);
+            GUI.Label(
+                new Rect(32f, 58f, 390f, 22f),
+                "MOVE: W A S D    JUMP: SPACE    DEBUG RESET: BACKSPACE",
+                labelStyle);
             GUI.Label(
                 new Rect(32f, 84f, 390f, 22f),
                 $"MODEL: {(modelLoaded ? "YAMADA ASSET" : "CAPSULE FALLBACK")}",
