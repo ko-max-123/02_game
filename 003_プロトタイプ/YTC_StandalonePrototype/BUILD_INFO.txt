@@ -1,0 +1,5 @@
+YTC Standalone Combat Prototype
+Built: 2026-08-25 22:10:48
+Unity: 6000.5.8f1
+Executable: YTC_CombatDemo.exe
+Controls: WASD, Space jump/hold jet, Left Click or J fire, R restart, Esc quit

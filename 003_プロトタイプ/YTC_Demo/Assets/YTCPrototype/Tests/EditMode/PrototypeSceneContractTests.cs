@@ -72,6 +72,27 @@ namespace YTCPrototype.Tests
         }
 
         [Test]
+        public void CombatScene_HasWeaponsHealthDirectorAndReadableEnemyShapes()
+        {
+            GameObject player = GameObject.Find("Yamada_K1_Player");
+            Assert.That(player.GetComponent<PrototypePlayerCombat>(), Is.Not.Null);
+            Assert.That(player.GetComponent<PrototypePlayerHealth>(), Is.Not.Null);
+            Assert.That(GameObject.Find("PrototypeCombatDirector").GetComponent<PrototypeCombatDirector>(), Is.Not.Null);
+
+            PrototypeEnemy[] enemies = Object.FindObjectsByType<PrototypeEnemy>(
+                FindObjectsInactive.Exclude,
+                FindObjectsSortMode.None);
+            Assert.That(enemies.Length, Is.EqualTo(3));
+            foreach (PrototypeEnemy enemy in enemies)
+            {
+                Assert.That(enemy.transform.Find("Body"), Is.Not.Null);
+                Assert.That(enemy.transform.Find("LowHead"), Is.Not.Null);
+                Assert.That(enemy.transform.Find("EnemySensorTriangle"), Is.Not.Null);
+                Assert.That(enemy.GetComponent<CapsuleCollider>(), Is.Not.Null);
+            }
+        }
+
+        [Test]
         public void AirborneGroundProbe_ExcludesSelfAndAllowsHeldJet()
         {
             PrototypePlayerController controller = GameObject.Find("Yamada_K1_Player")

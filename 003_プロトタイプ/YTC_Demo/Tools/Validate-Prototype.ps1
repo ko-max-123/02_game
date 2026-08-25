@@ -45,9 +45,18 @@ $requiredFiles = @(
     "Assets\YTCPrototype\Runtime\PrototypePlayerController.cs",
     "Assets\YTCPrototype\Runtime\FixedDepthCamera.cs",
     "Assets\YTCPrototype\Runtime\PrototypeGuideOverlay.cs",
+    "Assets\YTCPrototype\Runtime\PrototypeCombatMath.cs",
+    "Assets\YTCPrototype\Runtime\PrototypeCombatDirector.cs",
+    "Assets\YTCPrototype\Runtime\PrototypePlayerCombat.cs",
+    "Assets\YTCPrototype\Runtime\PrototypePlayerHealth.cs",
+    "Assets\YTCPrototype\Runtime\PrototypeEnemy.cs",
+    "Assets\YTCPrototype\Runtime\PrototypeShotTracer.cs",
     "Assets\YTCPrototype\Editor\PrototypeSceneBuilder.cs",
+    "Assets\YTCPrototype\Editor\PrototypeWindowsBuilder.cs",
     "Assets\YTCPrototype\Tests\EditMode\PrototypeMovementMathTests.cs",
-    "Assets\YTCPrototype\Tests\EditMode\PrototypeSceneContractTests.cs"
+    "Assets\YTCPrototype\Tests\EditMode\PrototypeSceneContractTests.cs",
+    "Assets\YTCPrototype\Tests\EditMode\PrototypeCombatMathTests.cs",
+    "Assets\YTCPrototype\Tests\PlayMode\PrototypeCombatPlayModeTests.cs"
 )
 
 foreach ($requiredFile in $requiredFiles) {
@@ -83,6 +92,13 @@ $guide = "Assets\YTCPrototype\Runtime\PrototypeGuideOverlay.cs"
 $builder = "Assets\YTCPrototype\Editor\PrototypeSceneBuilder.cs"
 $tests = "Assets\YTCPrototype\Tests\EditMode\PrototypeMovementMathTests.cs"
 $sceneTests = "Assets\YTCPrototype\Tests\EditMode\PrototypeSceneContractTests.cs"
+$combat = "Assets\YTCPrototype\Runtime\PrototypePlayerCombat.cs"
+$health = "Assets\YTCPrototype\Runtime\PrototypePlayerHealth.cs"
+$enemy = "Assets\YTCPrototype\Runtime\PrototypeEnemy.cs"
+$director = "Assets\YTCPrototype\Runtime\PrototypeCombatDirector.cs"
+$tracer = "Assets\YTCPrototype\Runtime\PrototypeShotTracer.cs"
+$windowsBuilder = "Assets\YTCPrototype\Editor\PrototypeWindowsBuilder.cs"
+$playModeTests = "Assets\YTCPrototype\Tests\PlayMode\PrototypeCombatPlayModeTests.cs"
 
 Assert-Contains $controller 'ReadAxis\(KeyCode\.A, KeyCode\.D\)' "A/D primary horizontal movement"
 Assert-Contains $controller 'ReadAxis\(KeyCode\.S, KeyCode\.W\)' "W/S limited depth-lane input"
@@ -109,6 +125,28 @@ Assert-Contains $sceneTests 'Player_UsesOfficialVisualAndNarrowDepthLane' "gener
 Assert-Contains $sceneTests 'Field_UsesOfficialVisualAndHiddenCollisionMesh' "generated field scene contract test"
 Assert-Contains $sceneTests 'CameraAndHud_EnforceSideViewContract' "generated camera/HUD scene contract test"
 Assert-Contains $sceneTests 'AirborneGroundProbe_ExcludesSelfAndAllowsHeldJet' "airborne self-collider exclusion/JET scene contract test"
+Assert-Contains $controller 'FacingDirection' "player facing direction contract"
+Assert-Contains $combat 'GetMouseButton\(0\)' "left-click shooting input"
+Assert-Contains $combat 'KeyCode\.J' "J shooting input"
+Assert-Contains $combat 'Physics\.RaycastAll' "aim-direction hit detection"
+Assert-Contains $health 'TakeDamage' "player damage/respawn health contract"
+Assert-Contains $enemy 'maximumHealth\s*=\s*50f' "enemy HP contract"
+Assert-Contains $enemy 'attackTelegraphDuration\s*=\s*0\.32f' "enemy pre-fire telegraph"
+Assert-Contains $enemy 'defeatDisplayDuration\s*=\s*0\.32f' "readable non-gore defeat delay"
+Assert-Contains $director 'KeyCode\.R' "battle restart input"
+Assert-Contains $director 'KeyCode\.Escape' "standalone quit input"
+Assert-Contains $director 'ytc-smoke-test' "direct EXE smoke-test exit path"
+Assert-Contains $guide 'MISSION CLEAR' "victory HUD contract"
+Assert-Contains $guide '残敵' "top-right remaining enemy HUD contract"
+Assert-Contains $tracer 'SpawnPlayerShot' "white-core/orange-tail player tracer"
+Assert-Contains $tracer 'SpawnEnemyShot' "red-core enemy tracer"
+Assert-Contains $tracer 'SpawnTelegraph' "enemy warning tracer"
+Assert-Contains $builder 'EnemySensorTriangle' "angular red enemy sensor"
+Assert-Contains $windowsBuilder 'BuildTarget\.StandaloneWindows64' "Windows x64 player build target"
+Assert-Contains $windowsBuilder 'YTC_StandalonePrototype' "standalone distribution output"
+Assert-Contains $windowsBuilder 'defaultScreenWidth\s*=\s*1920' "1920 default standalone width"
+Assert-Contains $windowsBuilder 'defaultScreenHeight\s*=\s*1080' "1080 default standalone height"
+Assert-Contains $playModeTests 'ShotDamageDefeatVictoryAndRespawn_CompleteCombatLoop' "combat loop PlayMode test"
 
 $sourceFiles = Get-ChildItem -LiteralPath (Join-Path $projectRoot "Assets\YTCPrototype") -Recurse -File -Include *.cs
 $destructivePatterns = 'File\.Delete|Directory\.Delete|AssetDatabase\.DeleteAsset|DestroyImmediate'

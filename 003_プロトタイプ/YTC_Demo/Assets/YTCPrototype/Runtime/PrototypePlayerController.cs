@@ -43,6 +43,7 @@ namespace YTCPrototype
         private float timeSinceJetUse;
         private bool isGrounded;
         private bool isFlying;
+        private float facingSign = 1f;
         private readonly Collider[] groundProbeHits = new Collider[8];
 
         public bool IsGrounded => isGrounded;
@@ -53,6 +54,7 @@ namespace YTCPrototype
         public float CurrentJetEnergy => currentJetEnergy;
         public float MaximumJetEnergy => maximumJetEnergy;
         public float JetEnergyNormalized => maximumJetEnergy <= 0f ? 0f : currentJetEnergy / maximumJetEnergy;
+        public Vector3 FacingDirection => facingSign >= 0f ? Vector3.right : Vector3.left;
 
         private void Awake()
         {
@@ -192,6 +194,11 @@ namespace YTCPrototype
             visualRoot = root;
         }
 
+        public void SetFacingDirection(float horizontalDirection)
+        {
+            UpdateFacing(horizontalDirection);
+        }
+
         private bool ProbeGround()
         {
             if (characterController == null)
@@ -229,12 +236,18 @@ namespace YTCPrototype
 
         private void UpdateFacing(float horizontalInput)
         {
-            if (visualRoot == null || Mathf.Abs(horizontalInput) < 0.01f)
+            if (Mathf.Abs(horizontalInput) < 0.01f)
             {
                 return;
             }
 
-            float yaw = horizontalInput > 0f ? faceRightYaw : faceLeftYaw;
+            facingSign = horizontalInput > 0f ? 1f : -1f;
+            if (visualRoot == null)
+            {
+                return;
+            }
+
+            float yaw = facingSign > 0f ? faceRightYaw : faceLeftYaw;
             visualRoot.localRotation = Quaternion.Euler(0f, yaw, 0f);
         }
 

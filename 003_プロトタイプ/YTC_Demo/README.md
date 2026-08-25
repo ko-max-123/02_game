@@ -1,6 +1,6 @@
-# YTC Movement Prototype
+# YTC Standalone Combat Prototype
 
-`02_タスク.txt`の移動確認用Unityプロトタイプ。正式技術方針のUnity／URP／C#で、山田・K1を中央工業帯デモフィールド内で操作する。
+山田・K1を中央工業帯で操作し、移動、JET、射撃、敵撃破、勝利、被弾・リスポーンを確認する短編戦闘プロトタイプ。Windows配布版はUnity Editor／Unity HubがないPCでも直接起動できる。
 
 ## 実装範囲
 
@@ -13,9 +13,26 @@
 - 地面判定：`CharacterController.isGrounded`と足元Sphere判定を併用し、Player本体・子階層Colliderは除外
 - 落下復帰：Y=-8m未満で開始位置へ自動復帰
 - 手動復帰：`Backspace`
-- 操作ガイド：状態、レーンZ、JET、ENERGY、採用アセットを常時表示
+- `左クリック`：マウス照準方向へ射撃
+- `J`：K1が向いている方向へ射撃
+- 敵：3体、HP50、簡易巡回、0.32秒の赤い予告線後に反撃
+- 敵撃破：HP0で撃破火花、センサー消灯、0.32秒沈下後に非表示
+- プレイヤー：HP100、被弾方向表示、HP0から0.8秒後にリスポーン
+- `R`：敵、勝利表示、Player状態を含めて戦闘を再読み込み
+- `Esc`：アプリ終了
+- HUD：左下HP、右上残敵、照準、JET、被弾方向、中央`MISSION CLEAR`
 
-本タスクでは戦闘、セーブ、オンライン、装備、ストーリーイベントを実装しない。
+セーブ、オンライン、装備変更、ドロップ、シナリオイベントは本タスクでは実装しない。
+
+## Windows版を直接起動する
+
+配布物は隣接フォルダ`003_プロトタイプ/YTC_StandalonePrototype/`にある。
+
+1. `YTC_StandalonePrototype`フォルダ一式を同じ構成のままWindows PCへコピーする。
+2. `YTC_CombatDemo.exe`をダブルクリックする。
+3. Unity Editor、Unity Hub、追加ランタイムの導入は不要。
+
+`YTC_CombatDemo.exe`だけを単独で移動してはならない。`YTC_CombatDemo_Data/`、`UnityPlayer.dll`、`MonoBleedingEdge/`などを含むフォルダ一式が配布単位となる。
 
 ## 正式デザインアセット
 
@@ -39,10 +56,10 @@ EditorセットアップはUnityプロジェクト外の次の正式配置を参
 
 1. Unity Hubからこの`YTC_Demo`フォルダを開く。
 2. Package Managerの処理とスクリプトコンパイル完了を待つ。
-3. メニュー`YTC Prototype > Setup or Refresh Movement Demo`を実行する。
+3. メニュー`YTC Prototype > Setup or Refresh Combat Demo`を実行する。
 4. `Assets/YTCPrototype/Scenes/YTC_Demo.unity`を開き、Playを押す。
 
-メニューはURP Asset、デモシーン、カメラ、ライト、CharacterController、HUD、アセット同期、Build Settings登録をまとめて行う。既存ファイルの削除APIは使用しない。
+メニューはURP Asset、デモシーン、カメラ、ライト、Player、敵、戦闘HUD、アセット同期、Build Settings登録をまとめて行う。`YTC Prototype > Build Windows Standalone`で1920×1080・Windowed・ResizableのWindows x64 Playerを生成する。既存ファイルの削除APIは使用しない。
 
 ## コマンドラインセットアップ
 
@@ -55,23 +72,50 @@ Unity.exe -batchmode `
   -logFile "D:\05_codex\02_game\003_プロトタイプ\YTC_Demo\TestResults\setup.log"
 ```
 
+Windows版ビルド：
+
+```powershell
+Unity.exe -batchmode -quit `
+  -projectPath "D:\05_codex\02_game\003_プロトタイプ\YTC_Demo" `
+  -executeMethod YTCPrototype.Editor.PrototypeWindowsBuilder.BuildFromCommandLine `
+  -logFile "D:\05_codex\02_game\003_プロトタイプ\YTC_Demo\TestResults\windows-build.log"
+```
+
 ## テスト
 
 Unityを使わない静的確認：
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File .\Tools\Validate-Prototype.ps1
+pwsh -NoProfile -File .\Tools\Validate-Prototype.ps1
 ```
 
 Unity EditModeテスト：
 
 ```powershell
-Unity.exe -batchmode -quit `
+Unity.exe -batchmode `
   -projectPath "D:\05_codex\02_game\003_プロトタイプ\YTC_Demo" `
   -runTests -testPlatform EditMode `
   -testResults "D:\05_codex\02_game\003_プロトタイプ\YTC_Demo\TestResults\editmode-results.xml" `
   -logFile "D:\05_codex\02_game\003_プロトタイプ\YTC_Demo\TestResults\editmode.log"
 ```
+
+Unity PlayMode戦闘ループテスト：
+
+```powershell
+Unity.exe -batchmode `
+  -projectPath "D:\05_codex\02_game\003_プロトタイプ\YTC_Demo" `
+  -runTests -testPlatform PlayMode `
+  -testResults "D:\05_codex\02_game\003_プロトタイプ\YTC_Demo\TestResults\combat-playmode-results.xml" `
+  -logFile "D:\05_codex\02_game\003_プロトタイプ\YTC_Demo\TestResults\combat-playmode.log"
+```
+
+Windows配布物確認：
+
+```powershell
+pwsh -NoProfile -File .\Tools\Validate-StandaloneBuild.ps1
+```
+
+両検証スクリプトはWindows PowerShell 5.1でも実行可能。配布物検証は文字コード依存を避けるため、ASCII名`README.txt`を必須確認し、日本語版`README_起動方法.txt`は利用者向けとして併置する。
 
 EditModeテストは次を検証する。
 
@@ -84,10 +128,19 @@ EditModeテストは次を検証する。
 - 落下復帰の閾値
 - 生成シーンが正式モデル、衝突専用OBJ、固定奥行きカメラ、HUDを採用している
 - 離床後の地面判定が自身のCharacterControllerを拾わず、Space長押しJET条件へ移行できる
+- 左クリック／J射撃、敵HP、予告射撃、非流血撃破、勝利HUDの生成契約
+- 実再生状態で射撃命中→HP低下→撃破→残敵0→勝利→リスタート全復元→被弾リスポーン
 
-最終確認結果は静的検証41/41 PASS、Unity EditMode 13/13 PASS。
+最終確認結果：
 
-検証環境はローカル導入済みのUnity 6000.5.8f1／URP 17.5.0。正式条件であるUnity LTS Editorでの再保存・再テスト、キーボードによる目視Play、Playerビルドは次工程で行う。
+- 静的検証72/72 PASS
+- Unity EditMode 19/19 PASS
+- Unity PlayMode 1/1 PASS
+- Windows x64ビルド終了コード0
+- 配布物検証8/8 PASS
+- 完成EXEの直接起動・2秒実行・正常終了コード0
+
+検証環境はローカル導入済みのUnity 6000.5.8f1／URP 17.5.0。正式条件であるUnity LTS Editorでの再保存・再テストと、キーボード・マウスを使った目視プレイ調整は未実施。
 
 ## 実装上の判断
 
@@ -96,3 +149,6 @@ EditModeテストは次を検証する。
 - カメラはプレイヤーのZを追従しない。W/Sは見た目と回避幅を作る限定レーンで、横方向の可読性を崩さない。
 - 正式デザインアセットと操作ルートを分離した。モデル側ColliderやRigidbodyは無効化し、プレイヤー本体のCharacterControllerだけを物理の正とする。
 - ジェットはP0用の暫定消費値だが、操作条件とHUD表示は制作正典のエネルギー共有へ接続できる構造にした。
+- 射撃は短いヒットスキャンと二層LineRendererで実装した。味方は白芯＋橙尾、敵は赤芯＋暗色外縁として静止画でも区別する。
+- 敵攻撃は射程10m以内に制限し、0.32秒の赤いセンサー点滅・予告線後にだけ発射する。カメラ表示幅内の攻撃となるため、P0では画面外マーカーを省略した。
+- 敵撃破は流血を使わず、センサー消灯、低彩度化、撃破火花、短い沈下で表現する。

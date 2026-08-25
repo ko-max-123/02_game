@@ -12,7 +12,7 @@ namespace YTCPrototype.Editor
 {
     public static class PrototypeSceneBuilder
     {
-        private const string MenuPath = "YTC Prototype/Setup or Refresh Movement Demo";
+        private const string MenuPath = "YTC Prototype/Setup or Refresh Combat Demo";
         private const string ScenePath = "Assets/YTCPrototype/Scenes/YTC_Demo.unity";
         private const string ImportedRoot = "Assets/YTCPrototype/ImportedDesignAssets";
         private const string GeneratedRoot = "Assets/YTCPrototype/Generated";
@@ -25,8 +25,8 @@ namespace YTCPrototype.Editor
         {
             BuildOrRefreshScene();
             EditorUtility.DisplayDialog(
-                "YTC Movement Prototype",
-                "Demo scene is ready. Open Assets/YTCPrototype/Scenes/YTC_Demo.unity and press Play.",
+                "YTC Standalone Combat Prototype",
+                "Combat demo scene is ready. Open Assets/YTCPrototype/Scenes/YTC_Demo.unity and press Play.",
                 "OK");
         }
 
@@ -36,7 +36,7 @@ namespace YTCPrototype.Editor
             Debug.Log("YTC prototype command-line setup completed.");
         }
 
-        private static void BuildOrRefreshScene()
+        public static void BuildOrRefreshScene()
         {
             EnsureAssetFolder("Assets/YTCPrototype/Scenes");
             EnsureAssetFolder(GeneratedRoot);
@@ -52,8 +52,22 @@ namespace YTCPrototype.Editor
 
             string fieldLabel = EnsureField(root.transform);
             PrototypePlayerController player = EnsurePlayer(root.transform, out string playerLabel);
-            EnsureCamera(root.transform, player.transform);
-            EnsureGuide(root.transform, player, playerLabel, fieldLabel);
+            Camera camera = EnsureCamera(root.transform, player.transform);
+            EnsureCombat(
+                root.transform,
+                player,
+                camera,
+                out PrototypePlayerHealth playerHealth,
+                out PrototypePlayerCombat playerCombat,
+                out PrototypeCombatDirector combatDirector);
+            EnsureGuide(
+                root.transform,
+                player,
+                playerHealth,
+                playerCombat,
+                combatDirector,
+                playerLabel,
+                fieldLabel);
 
             EditorSceneManager.MarkSceneDirty(scene);
             if (!EditorSceneManager.SaveScene(scene, ScenePath))
@@ -219,7 +233,7 @@ namespace YTCPrototype.Editor
             return controller;
         }
 
-        private static void EnsureCamera(Transform parent, Transform target)
+        private static Camera EnsureCamera(Transform parent, Transform target)
         {
             GameObject cameraObject = EnsureChild(parent, "Main Camera");
             cameraObject.tag = "MainCamera";
@@ -234,17 +248,152 @@ namespace YTCPrototype.Editor
 
             FixedDepthCamera follow = GetOrAdd<FixedDepthCamera>(cameraObject);
             follow.Configure(target, -16f);
+            return camera;
+        }
+
+        private static void EnsureCombat(
+            Transform parent,
+            PrototypePlayerController player,
+            Camera camera,
+            out PrototypePlayerHealth playerHealth,
+            out PrototypePlayerCombat playerCombat,
+            out PrototypeCombatDirector combatDirector)
+        {
+            playerHealth = GetOrAdd<PrototypePlayerHealth>(player.gameObject);
+            playerHealth.Configure(player);
+
+            GameObject muzzleObject = EnsureChild(player.transform, "WeaponMuzzle");
+            muzzleObject.transform.localPosition = new Vector3(0f, 1.25f, 0f);
+            muzzleObject.transform.localRotation = Quaternion.identity;
+
+            playerCombat = GetOrAdd<PrototypePlayerCombat>(player.gameObject);
+            playerCombat.Configure(player, playerHealth, camera, muzzleObject.transform);
+            playerHealth.ConfigureCombat(playerCombat);
+
+            GameObject directorObject = EnsureChild(parent, "PrototypeCombatDirector");
+            combatDirector = GetOrAdd<PrototypeCombatDirector>(directorObject);
+            combatDirector.Configure(player, playerHealth, playerCombat);
+
+            GameObject enemiesRoot = EnsureChild(parent, "Enemies");
+            EnsureEnemy(
+                enemiesRoot.transform,
+                "Enemy_Scout_A",
+                new Vector3(-4f, 0.05f, -1.4f),
+                combatDirector,
+                playerHealth,
+                0.1f,
+                1.55f);
+            EnsureEnemy(
+                enemiesRoot.transform,
+                "Enemy_Scout_B",
+                new Vector3(5f, 0.05f, 0f),
+                combatDirector,
+                playerHealth,
+                2.2f,
+                1.8f);
+            EnsureEnemy(
+                enemiesRoot.transform,
+                "Enemy_Guard_C",
+                new Vector3(13f, 3.5f, 1.4f),
+                combatDirector,
+                playerHealth,
+                4.1f,
+                2.05f);
+        }
+
+        private static void EnsureEnemy(
+            Transform parent,
+            string name,
+            Vector3 position,
+            PrototypeCombatDirector director,
+            PrototypePlayerHealth target,
+            float patrolPhase,
+            float attackInterval)
+        {
+            GameObject enemyObject = EnsureChild(parent, name);
+            enemyObject.SetActive(true);
+            enemyObject.transform.SetPositionAndRotation(position, Quaternion.identity);
+
+            CapsuleCollider collider = GetOrAdd<CapsuleCollider>(enemyObject);
+            collider.height = 1.9f;
+            collider.radius = 0.44f;
+            collider.center = new Vector3(0f, 0.95f, 0f);
+
+            Material bodyMaterial = GetOrCreateMaterial(
+                GeneratedRoot + "/EnemyBody.mat",
+                new Color(0.24f, 0.28f, 0.3f));
+            Material sensorMaterial = GetOrCreateMaterial(
+                GeneratedRoot + "/EnemySensor.mat",
+                new Color(0.9f, 0.1f, 0.1f));
+
+            GameObject body = EnsurePrimitive(enemyObject.transform, "Body", PrimitiveType.Cube);
+            body.transform.localPosition = new Vector3(0f, 0.76f, 0f);
+            body.transform.localRotation = Quaternion.identity;
+            body.transform.localScale = new Vector3(0.92f, 1.18f, 0.72f);
+            AssignMaterial(body, bodyMaterial);
+            DisableCollider(body);
+
+            GameObject head = EnsurePrimitive(enemyObject.transform, "LowHead", PrimitiveType.Cube);
+            head.transform.localPosition = new Vector3(0f, 1.48f, 0f);
+            head.transform.localRotation = Quaternion.identity;
+            head.transform.localScale = new Vector3(0.66f, 0.3f, 0.66f);
+            AssignMaterial(head, bodyMaterial);
+            DisableCollider(head);
+
+            GameObject sensor = EnsureChild(enemyObject.transform, "EnemySensorTriangle");
+            sensor.transform.localPosition = new Vector3(0f, 1.48f, -0.345f);
+            sensor.transform.localRotation = Quaternion.identity;
+            sensor.transform.localScale = Vector3.one;
+            MeshFilter sensorFilter = GetOrAdd<MeshFilter>(sensor);
+            sensorFilter.sharedMesh = GetOrCreateEnemySensorMesh();
+            MeshRenderer sensorRenderer = GetOrAdd<MeshRenderer>(sensor);
+            sensorRenderer.sharedMaterial = sensorMaterial;
+
+            PrototypeEnemy enemy = GetOrAdd<PrototypeEnemy>(enemyObject);
+            enemy.Configure(director, target, patrolPhase, attackInterval);
+        }
+
+        private static Mesh GetOrCreateEnemySensorMesh()
+        {
+            const string meshPath = GeneratedRoot + "/EnemySensorTriangle.asset";
+            Mesh existing = AssetDatabase.LoadAssetAtPath<Mesh>(meshPath);
+            if (existing != null)
+            {
+                return existing;
+            }
+
+            Mesh mesh = new Mesh { name = "EnemySensorTriangle" };
+            mesh.vertices = new[]
+            {
+                new Vector3(-0.16f, 0.12f, 0f),
+                new Vector3(0.16f, 0.12f, 0f),
+                new Vector3(0f, -0.16f, 0f)
+            };
+            mesh.triangles = new[] { 0, 1, 2 };
+            mesh.normals = new[] { Vector3.back, Vector3.back, Vector3.back };
+            mesh.RecalculateBounds();
+            AssetDatabase.CreateAsset(mesh, meshPath);
+            return mesh;
         }
 
         private static void EnsureGuide(
             Transform parent,
             PrototypePlayerController player,
+            PrototypePlayerHealth playerHealth,
+            PrototypePlayerCombat playerCombat,
+            PrototypeCombatDirector combatDirector,
             string playerLabel,
             string fieldLabel)
         {
             GameObject guideObject = EnsureChild(parent, "PrototypeGuideOverlay");
             PrototypeGuideOverlay guide = GetOrAdd<PrototypeGuideOverlay>(guideObject);
-            guide.Configure(player, playerLabel, fieldLabel);
+            guide.Configure(
+                player,
+                playerHealth,
+                playerCombat,
+                combatDirector,
+                playerLabel,
+                fieldLabel);
         }
 
         private static void EnsureLighting(Transform parent)
