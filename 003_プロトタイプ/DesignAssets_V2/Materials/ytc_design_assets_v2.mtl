@@ -1,0 +1,161 @@
+# Original YTC V2 materials. Values are preview/import references.
+
+newmtl K1_CeramicWhite
+Kd 0.7000 0.7000 0.6600
+Ka 0.0300 0.0300 0.0300
+Ks 0.180 0.180 0.180
+Ns 52
+d 1.0
+illum 2
+
+newmtl K1_WarmWhite
+Kd 0.8200 0.8000 0.7400
+Ka 0.0300 0.0300 0.0300
+Ks 0.080 0.080 0.080
+Ns 42
+d 1.0
+illum 2
+
+newmtl K1_Gunmetal
+Kd 0.0900 0.1100 0.1200
+Ka 0.0300 0.0300 0.0300
+Ks 0.620 0.620 0.620
+Ns 60
+d 1.0
+illum 2
+
+newmtl K1_Undersuit
+Kd 0.0250 0.0350 0.0450
+Ka 0.0300 0.0300 0.0300
+Ks 0.050 0.050 0.050
+Ns 16
+d 1.0
+illum 2
+
+newmtl K1_Joint
+Kd 0.0550 0.0650 0.0750
+Ka 0.0300 0.0300 0.0300
+Ks 0.350 0.350 0.350
+Ns 40
+d 1.0
+illum 2
+
+newmtl YTC_Orange
+Kd 0.8800 0.3400 0.0450
+Ka 0.0300 0.0300 0.0300
+Ks 0.120 0.120 0.120
+Ns 56
+d 1.0
+illum 2
+
+newmtl K1_VisorMint
+Kd 0.1800 0.6600 0.5400
+Ka 0.0300 0.0300 0.0300
+Ks 0.100 0.100 0.100
+Ns 78
+d 1.0
+illum 2
+
+newmtl K1_Repair
+Kd 0.1800 0.1900 0.1800
+Ka 0.0300 0.0300 0.0300
+Ks 0.380 0.380 0.380
+Ns 28
+d 1.0
+illum 2
+
+newmtl Field_Walkable
+Kd 0.6900 0.7000 0.6700
+Ka 0.0300 0.0300 0.0300
+Ks 0.060 0.060 0.060
+Ns 22
+d 1.0
+illum 2
+
+newmtl Field_WalkableTop
+Kd 0.8300 0.8200 0.7700
+Ka 0.0300 0.0300 0.0300
+Ks 0.040 0.040 0.040
+Ns 28
+d 1.0
+illum 2
+
+newmtl Field_Edge
+Kd 0.0700 0.0900 0.1100
+Ka 0.0300 0.0300 0.0300
+Ks 0.350 0.350 0.350
+Ns 36
+d 1.0
+illum 2
+
+newmtl Field_Hazard
+Kd 0.7800 0.5200 0.0600
+Ka 0.0300 0.0300 0.0300
+Ks 0.080 0.080 0.080
+Ns 34
+d 1.0
+illum 2
+
+newmtl Field_Danger
+Kd 0.6200 0.0600 0.0600
+Ka 0.0300 0.0300 0.0300
+Ks 0.050 0.050 0.050
+Ns 38
+d 1.0
+illum 2
+
+newmtl Field_Interactive
+Kd 0.0500 0.4200 0.6400
+Ka 0.0300 0.0300 0.0300
+Ks 0.100 0.100 0.100
+Ns 62
+d 1.0
+illum 2
+
+newmtl Field_BackMid
+Kd 0.2800 0.3300 0.3700
+Ka 0.0300 0.0300 0.0300
+Ks 0.080 0.080 0.080
+Ns 18
+d 1.0
+illum 2
+
+newmtl Field_TestWhite
+Kd 0.4300 0.4600 0.4600
+Ka 0.0300 0.0300 0.0300
+Ks 0.040 0.040 0.040
+Ns 16
+d 1.0
+illum 2
+
+newmtl Field_BackFar
+Kd 0.1300 0.1800 0.2100
+Ka 0.0300 0.0300 0.0300
+Ks 0.050 0.050 0.050
+Ns 12
+d 1.0
+illum 2
+
+newmtl Field_Sky
+Kd 0.4200 0.1800 0.1500
+Ka 0.0300 0.0300 0.0300
+Ks 0.000 0.000 0.000
+Ns 0
+d 1.0
+illum 2
+
+newmtl Enemy_Body
+Kd 0.1000 0.1100 0.1200
+Ka 0.0300 0.0300 0.0300
+Ks 0.340 0.340 0.340
+Ns 32
+d 1.0
+illum 2
+
+newmtl Enemy_Telegraph
+Kd 0.7800 0.0600 0.0600
+Ka 0.0300 0.0300 0.0300
+Ks 0.020 0.020 0.020
+Ns 56
+d 1.0
+illum 2
