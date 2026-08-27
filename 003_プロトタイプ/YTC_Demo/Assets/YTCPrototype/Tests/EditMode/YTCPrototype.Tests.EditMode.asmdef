@@ -2,7 +2,8 @@
   "name": "YTCPrototype.Tests.EditMode",
   "rootNamespace": "YTCPrototype.Tests",
   "references": [
-    "YTCPrototype.Runtime"
+    "YTCPrototype.Runtime",
+    "UnityEngine.AnimationModule"
   ],
   "includePlatforms": [
     "Editor"

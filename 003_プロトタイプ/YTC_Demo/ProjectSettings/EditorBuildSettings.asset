@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/YTCPrototype/Scenes/YTC_Demo.unity
     guid: 481d62453077a954f872ed4fc1b119ff
+  - enabled: 1
+    path: Assets/YTCPrototype/Scenes/YTC_Demo_V2.unity
+    guid: 846f02bf64327634faf6ef123a4b8db3
   m_configObjects: {}

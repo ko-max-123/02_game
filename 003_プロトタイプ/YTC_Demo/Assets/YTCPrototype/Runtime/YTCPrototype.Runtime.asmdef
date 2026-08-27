@@ -1,7 +1,9 @@
 {
   "name": "YTCPrototype.Runtime",
   "rootNamespace": "YTCPrototype",
-  "references": [],
+  "references": [
+    "UnityEngine.AnimationModule"
+  ],
   "includePlatforms": [],
   "excludePlatforms": [],
   "allowUnsafeCode": false,

@@ -3137,6 +3137,9 @@ MonoBehaviour:
   visualRoot: {fileID: 1540939378}
   faceRightYaw: 90
   faceLeftYaw: -90
+  useAnimatedTurning: 0
+  turnDuration: 0.3
+  movementScaleWhileTurning: 0
 --- !u!143 &1974133722
 CharacterController:
   m_ObjectHideFlags: 0
