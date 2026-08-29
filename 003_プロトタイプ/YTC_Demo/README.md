@@ -2,6 +2,31 @@
 
 山田・K1を中央工業帯で操作し、移動、JET、射撃、敵撃破、勝利、被弾・リスポーンを確認する短編戦闘プロトタイプ。Windows配布版はUnity Editor／Unity HubがないPCでも直接起動できる。
 
+## V2技術統合（Issue #10）
+
+- 正本`DesignAssets_V2` はUnity glTFast 6.19.0でGLBを直接取り込む。FBX変換は行わない。
+- K1はMecanim / Generic rig / in-place / root motion無効で、13 clipを同名のAnimator stateへ割り当てる。
+- `WeaponSocket_R`にK11を接続し、射撃始点はK11内の`MuzzleSocket`とする。
+- 中央産業帯V2の表示GLBとcollision OBJは同一原点／同一scaleで配置し、collision側Rendererは無効化する。
+- V1は`YTC_Demo.unity`と`YTC_StandalonePrototype/`に保存し、V2は別シーン`YTC_Demo_V2.unity`と別出力`YTC_StandalonePrototype_V2/`を使う。
+
+V2 Windows版の生成：
+
+```powershell
+Unity.exe -batchmode -quit `
+  -projectPath "D:\05_codex\02_game\003_プロトタイプ\YTC_Demo" `
+  -executeMethod YTCPrototype.Editor.PrototypeV2WindowsBuilder.BuildFromCommandLine `
+  -logFile "D:\05_codex\02_game\003_プロトタイプ\YTC_Demo\TestResults\v2-windows-build.log"
+```
+
+V2配布時は`YTC_StandalonePrototype_V2`フォルダ一式を保ったまま`YTC_CombatDemo_V2.exe`を起動する。
+
+V2配布物の検査：
+
+```powershell
+pwsh -NoProfile -File .\Tools\Validate-V2StandaloneBuild.ps1
+```
+
 ## 実装範囲
 
 - `A` / `D`：横方向の主移動

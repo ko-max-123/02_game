@@ -1,0 +1,6 @@
+YTC STANDALONE COMBAT PROTOTYPE V2
+Built: 2026-08-27 13:51:35
+Unity: 6000.5.8f1
+Import: glTFast direct GLB / Mecanim / Generic rig / no root motion
+Executable: YTC_CombatDemo_V2.exe
+Controls: WASD, Space jump/hold jet, Left Click or J fire, R restart, Esc quit

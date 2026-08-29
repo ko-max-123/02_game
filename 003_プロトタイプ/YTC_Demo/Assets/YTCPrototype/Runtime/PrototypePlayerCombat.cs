@@ -16,10 +16,12 @@ namespace YTCPrototype
         private Vector3 currentAimDirection = Vector3.right;
         private float nextShotTime;
         private float shotFeedback;
+        private uint shotSequence;
 
         public Vector3 CurrentAimDirection => currentAimDirection;
         public Vector3 MuzzlePosition => muzzle != null ? muzzle.position : transform.position + Vector3.up * 1.2f;
         public float ShotFeedback => shotFeedback;
+        public uint ShotSequence => shotSequence;
 
         public void Configure(
             PrototypePlayerController playerMovement,
@@ -96,6 +98,11 @@ namespace YTCPrototype
 
         private bool TryFire(Vector3 requestedDirection, bool bypassCooldown)
         {
+            if (!bypassCooldown && movement != null && movement.IsTurning)
+            {
+                return false;
+            }
+
             if (!bypassCooldown && Time.time < nextShotTime)
             {
                 return false;
@@ -106,6 +113,7 @@ namespace YTCPrototype
                 movement != null ? movement.FacingDirection : Vector3.right);
             nextShotTime = Time.time + shotInterval;
             shotFeedback = 1f;
+            shotSequence++;
 
             Vector3 origin = MuzzlePosition;
             Vector3 end = origin + direction * range;

@@ -10,6 +10,36 @@ namespace YTCPrototype.Tests
     public sealed class PrototypeCombatPlayModeTests
     {
         [UnityTest]
+        public IEnumerator V2Scene_AnimatesRigAndRoutesShotsThroughK11Muzzle()
+        {
+            SceneManager.LoadScene("YTC_Demo_V2");
+            yield return null;
+            yield return null;
+
+            PrototypePlayerController movement = Object.FindFirstObjectByType<PrototypePlayerController>();
+            PrototypePlayerCombat combat = Object.FindFirstObjectByType<PrototypePlayerCombat>();
+            K1V2AnimatorDriver driver = Object.FindFirstObjectByType<K1V2AnimatorDriver>();
+            Animator animator = driver != null ? driver.GetComponent<Animator>() : null;
+
+            Assert.That(movement, Is.Not.Null);
+            Assert.That(combat, Is.Not.Null);
+            Assert.That(driver, Is.Not.Null);
+            Assert.That(animator, Is.Not.Null);
+            Assert.That(animator.runtimeAnimatorController, Is.Not.Null);
+            Assert.That(animator.layerCount, Is.EqualTo(2));
+            Assert.That(combat.MuzzlePosition, Is.Not.EqualTo(movement.transform.position));
+
+            uint before = combat.ShotSequence;
+            combat.FireForValidation(Vector3.right);
+            Assert.That(combat.ShotSequence, Is.EqualTo(before + 1));
+            yield return null;
+
+            Assert.That(animator.GetLayerWeight(1), Is.GreaterThan(0.99f));
+            Assert.That(driver.enabled, Is.True);
+            Assert.That(driver.CurrentBaseState, Is.Not.Null.And.Not.Empty);
+        }
+
+        [UnityTest]
         public IEnumerator ShotDamageDefeatVictoryAndRespawn_CompleteCombatLoop()
         {
             SceneManager.LoadScene("YTC_Demo");

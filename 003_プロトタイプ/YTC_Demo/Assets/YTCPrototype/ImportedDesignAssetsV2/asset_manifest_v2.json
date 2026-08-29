@@ -1,0 +1,509 @@
+{
+  "version": "2.0.0",
+  "generatedAt": "2026-08-25T14:35:19.748Z",
+  "license": "Original project asset; see LICENSE.md",
+  "coordinate": {
+    "unitMeters": 1,
+    "up": "+Y",
+    "forward": "+Z",
+    "root": [
+      0,
+      0,
+      0
+    ],
+    "importRotation": [
+      0,
+      0,
+      0
+    ],
+    "importScale": [
+      1,
+      1,
+      1
+    ]
+  },
+  "k1": {
+    "dimensionsMeters": [
+      1.3237069377149384,
+      2.0270156862022795,
+      0.7374322762801397
+    ],
+    "bounds": {
+      "min": [
+        -0.6487975583112263,
+        0.03,
+        -0.39243227628013977
+      ],
+      "max": [
+        0.6749093794037121,
+        2.0570156862022793,
+        0.345
+      ],
+      "size": [
+        1.3237069377149384,
+        2.0270156862022795,
+        0.7374322762801397
+      ]
+    },
+    "rigType": "Generic",
+    "rootMotion": false,
+    "bones": [
+      "K1_Root",
+      "Pelvis",
+      "Spine_01",
+      "Chest",
+      "Neck",
+      "Head",
+      "Clavicle_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Clavicle_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toe_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toe_R"
+    ],
+    "sockets": {
+      "WeaponSocket_R": "Hand_R child",
+      "MuzzleSocket": "K11 WeaponRoot child",
+      "JetSocket_L": "Chest child",
+      "JetSocket_R": "Chest child"
+    },
+    "skin": {
+      "maxInfluences": 4,
+      "normalized": true,
+      "mechanicalArmorWeighting": "rigid"
+    },
+    "clips": [
+      {
+        "name": "Idle_Loop",
+        "length": 1.2,
+        "loop": true
+      },
+      {
+        "name": "WalkForward_Loop",
+        "length": 0.8,
+        "loop": true
+      },
+      {
+        "name": "WalkDepth_Positive_Loop",
+        "length": 0.86,
+        "loop": true
+      },
+      {
+        "name": "WalkDepth_Negative_Loop",
+        "length": 0.86,
+        "loop": true
+      },
+      {
+        "name": "Turn180_L",
+        "length": 0.3,
+        "loop": false
+      },
+      {
+        "name": "Turn180_R",
+        "length": 0.3,
+        "loop": false
+      },
+      {
+        "name": "Jump_Start",
+        "length": 0.24,
+        "loop": false
+      },
+      {
+        "name": "Jump_Loop",
+        "length": 0.45,
+        "loop": true
+      },
+      {
+        "name": "Land",
+        "length": 0.28,
+        "loop": false
+      },
+      {
+        "name": "Jet_Start",
+        "length": 0.18,
+        "loop": false
+      },
+      {
+        "name": "Jet_Loop",
+        "length": 0.5,
+        "loop": true
+      },
+      {
+        "name": "Jet_End",
+        "length": 0.2,
+        "loop": false
+      },
+      {
+        "name": "Shoot_Recoil",
+        "length": 0.15,
+        "loop": false
+      }
+    ],
+    "events": {
+      "WalkForward_Loop": [
+        {
+          "time": 0,
+          "event": "Footstep_L"
+        },
+        {
+          "time": 0.4,
+          "event": "Footstep_R"
+        }
+      ],
+      "WalkDepth_Positive_Loop": [
+        {
+          "time": 0,
+          "event": "Footstep_L"
+        },
+        {
+          "time": 0.43,
+          "event": "Footstep_R"
+        }
+      ],
+      "WalkDepth_Negative_Loop": [
+        {
+          "time": 0,
+          "event": "Footstep_L"
+        },
+        {
+          "time": 0.43,
+          "event": "Footstep_R"
+        }
+      ],
+      "Shoot_Recoil": [
+        {
+          "time": 0,
+          "event": "Fire"
+        }
+      ]
+    },
+    "motionContract": {
+      "forwardSpeedMps": 4.2,
+      "forwardCycleSeconds": 0.8,
+      "depthCycleSeconds": 0.86,
+      "turn180Seconds": 0.3
+    }
+  },
+  "field": {
+    "displayBounds": {
+      "min": [
+        -24,
+        -1.1600000000000001,
+        -4.21
+      ],
+      "max": [
+        24,
+        10.5,
+        12.075
+      ],
+      "size": [
+        48,
+        11.66,
+        16.285
+      ]
+    },
+    "collisionBounds": {
+      "min": [
+        -18,
+        -0.36,
+        -2.6
+      ],
+      "max": [
+        19,
+        1.005,
+        2.6
+      ],
+      "size": [
+        37,
+        1.3649999999999998,
+        5.2
+      ]
+    },
+    "walkableTopY": [
+      0,
+      0.22,
+      0.44,
+      0.66,
+      0.56,
+      0.96,
+      1.005
+    ],
+    "displaySkinTopOffsetMeters": 0.016,
+    "lane": {
+      "centerZ": 0,
+      "minZ": -2.56,
+      "maxZ": 2.56
+    },
+    "markers": {
+      "playerSpawn": [
+        -15,
+        0,
+        0
+      ],
+      "enemySpawns": [
+        [
+          4.2,
+          0,
+          0.25
+        ],
+        [
+          8,
+          1.05,
+          -0.7
+        ]
+      ],
+      "interactiveConsole": [
+        -1.9,
+        1.36,
+        1.25
+      ],
+      "trenchCenter": [
+        1.35,
+        -1.1,
+        0
+      ]
+    },
+    "collisionPolicy": "Only COL_* walkable/step/deck/landing meshes; backdrop, overpass, foreground, markers and hazard display are excluded."
+  },
+  "materials": {
+    "K1_CeramicWhite": {
+      "hex": "#D9D9D2",
+      "baseColorFactor": [
+        0.7,
+        0.7,
+        0.66,
+        1
+      ],
+      "metallic": 0.18,
+      "roughness": 0.48
+    },
+    "K1_WarmWhite": {
+      "hex": "#ECE9DF",
+      "baseColorFactor": [
+        0.82,
+        0.8,
+        0.74,
+        1
+      ],
+      "metallic": 0.08,
+      "roughness": 0.58
+    },
+    "K1_Gunmetal": {
+      "hex": "#343B40",
+      "baseColorFactor": [
+        0.09,
+        0.11,
+        0.12,
+        1
+      ],
+      "metallic": 0.62,
+      "roughness": 0.4
+    },
+    "K1_Undersuit": {
+      "hex": "#161C20",
+      "baseColorFactor": [
+        0.025,
+        0.035,
+        0.045,
+        1
+      ],
+      "metallic": 0.05,
+      "roughness": 0.84
+    },
+    "K1_Joint": {
+      "hex": "#252B2F",
+      "baseColorFactor": [
+        0.055,
+        0.065,
+        0.075,
+        1
+      ],
+      "metallic": 0.35,
+      "roughness": 0.6
+    },
+    "YTC_Orange": {
+      "hex": "#F28C28",
+      "baseColorFactor": [
+        0.88,
+        0.34,
+        0.045,
+        1
+      ],
+      "metallic": 0.12,
+      "roughness": 0.44
+    },
+    "K1_VisorMint": {
+      "hex": "#8DE4D0",
+      "baseColorFactor": [
+        0.18,
+        0.66,
+        0.54,
+        1
+      ],
+      "metallic": 0.1,
+      "roughness": 0.22
+    },
+    "K1_Repair": {
+      "hex": "#696B69",
+      "baseColorFactor": [
+        0.18,
+        0.19,
+        0.18,
+        1
+      ],
+      "metallic": 0.38,
+      "roughness": 0.72
+    },
+    "Field_Walkable": {
+      "hex": "#D8D9D4",
+      "baseColorFactor": [
+        0.69,
+        0.7,
+        0.67,
+        1
+      ],
+      "metallic": 0.06,
+      "roughness": 0.78
+    },
+    "Field_WalkableTop": {
+      "hex": "#F0EFE8",
+      "baseColorFactor": [
+        0.83,
+        0.82,
+        0.77,
+        1
+      ],
+      "metallic": 0.04,
+      "roughness": 0.72
+    },
+    "Field_Edge": {
+      "hex": "#293137",
+      "baseColorFactor": [
+        0.07,
+        0.09,
+        0.11,
+        1
+      ],
+      "metallic": 0.35,
+      "roughness": 0.64
+    },
+    "Field_Hazard": {
+      "hex": "#E7B83E",
+      "baseColorFactor": [
+        0.78,
+        0.52,
+        0.06,
+        1
+      ],
+      "metallic": 0.08,
+      "roughness": 0.66
+    },
+    "Field_Danger": {
+      "hex": "#C93F3F",
+      "baseColorFactor": [
+        0.62,
+        0.06,
+        0.06,
+        1
+      ],
+      "metallic": 0.05,
+      "roughness": 0.62
+    },
+    "Field_Interactive": {
+      "hex": "#39A9DB",
+      "baseColorFactor": [
+        0.05,
+        0.42,
+        0.64,
+        1
+      ],
+      "metallic": 0.1,
+      "roughness": 0.38
+    },
+    "Field_BackMid": {
+      "hex": "#75818A",
+      "baseColorFactor": [
+        0.28,
+        0.33,
+        0.37,
+        1
+      ],
+      "metallic": 0.08,
+      "roughness": 0.82
+    },
+    "Field_TestWhite": {
+      "hex": "#A9B0B1",
+      "baseColorFactor": [
+        0.43,
+        0.46,
+        0.46,
+        1
+      ],
+      "metallic": 0.04,
+      "roughness": 0.84
+    },
+    "Field_BackFar": {
+      "hex": "#46545D",
+      "baseColorFactor": [
+        0.13,
+        0.18,
+        0.21,
+        1
+      ],
+      "metallic": 0.05,
+      "roughness": 0.88
+    },
+    "Field_Sky": {
+      "hex": "#B97364",
+      "baseColorFactor": [
+        0.42,
+        0.18,
+        0.15,
+        1
+      ],
+      "metallic": 0,
+      "roughness": 1
+    },
+    "Enemy_Body": {
+      "hex": "#35393D",
+      "baseColorFactor": [
+        0.1,
+        0.11,
+        0.12,
+        1
+      ],
+      "metallic": 0.34,
+      "roughness": 0.68
+    },
+    "Enemy_Telegraph": {
+      "hex": "#E54848",
+      "baseColorFactor": [
+        0.78,
+        0.06,
+        0.06,
+        1
+      ],
+      "metallic": 0.02,
+      "roughness": 0.44
+    }
+  },
+  "sha256": {
+    "yamada_k1_rigged_v2.glb": "42abc33160822b0e21178db360999f956d1f6ca37ef2453847c5deeebb56260f",
+    "yamada_k1_segmented_v2.obj": "cc30e07cf203df9c0bd575bc478c561939fc578f37afada26da4c4c7f047c2f3",
+    "k11_rifle_v2.glb": "82b0f61850649dcd24680c1227216752202bdc22fa72a0ed05bf9e4e62f5996c",
+    "k11_rifle_v2.obj": "d2e09289ec6d47724cb32fd45e3066245312df67ce8a0af9bd2ccba4432dd445",
+    "central_industrial_belt_v2.glb": "ffe82c02567023e5c40029511382cd8adfdb914d6080aa059b0e225f420792d6",
+    "central_industrial_belt_v2.obj": "b2c261345039aa471d25ecc59a5ebcdaf9bd480eaee0c09844a1e4bdb4c591bc",
+    "central_industrial_belt_collision_v2.obj": "07ebd0c9c05d91c16c107bfd75251edfe5a9cb9a61430d937769243404e50553"
+  }
+}
