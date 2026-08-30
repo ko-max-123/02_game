@@ -51,7 +51,9 @@ namespace YTCPrototype
 
             string state = player == null
                 ? "PLAYER: not assigned"
-                : $"STATE: {(player.IsFlying ? "FLYING" : player.IsGrounded ? "GROUNDED" : "AIRBORNE")}  LANE Z={player.CurrentDepth:0.00}";
+                : player.UsesDepthInput
+                    ? $"STATE: {(player.IsFlying ? "FLYING" : player.IsGrounded ? "GROUNDED" : "AIRBORNE")}  LANE Z={player.CurrentDepth:0.00}"
+                    : $"STATE: {(player.IsFlying ? "FLYING" : player.IsGrounded ? "GROUNDED" : "AIRBORNE")}  SIDE-SCROLL MODE";
             string jet = player == null
                 ? "JET: unavailable"
                 : $"JET: {(player.IsFlying ? "ENGAGED" : player.CurrentJetEnergy <= 0.01f ? "EMPTY" : "READY")}  ENERGY {player.CurrentJetEnergy:0}/{player.MaximumJetEnergy:0}";
@@ -114,10 +116,10 @@ namespace YTCPrototype
                 alignment = TextAnchor.MiddleCenter,
                 fontSize = 17
             };
-            GUI.Label(
-                panel,
-                "A/D 移動   W/S 奥行き   Space ジャンプ/飛行   LMB/J 射撃   R リスタート   Esc 終了",
-                controlStyle);
+            string controls = player != null && player.UsesDepthInput
+                ? "A/D 移動   W/S 奥行き   Space ジャンプ/飛行   LMB/J 射撃   R リスタート   Esc 終了"
+                : "A/D 移動   Space ジャンプ/飛行   LMB/J 射撃   R リスタート   Esc 終了";
+            GUI.Label(panel, controls, controlStyle);
         }
 
         private void DrawDamageFeedback()

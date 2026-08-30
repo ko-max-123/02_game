@@ -20,6 +20,8 @@ namespace YTCPrototype
         public const string JetEndState = "Jet_End";
         public const string ShootState = "Shoot_Recoil";
         public const string LocomotionRateParameter = "LocomotionRate";
+        public const string BaseLayerName = "K1 Base";
+        public const string ShootLayerName = "K1 Shoot";
 
         [SerializeField] private PrototypePlayerController movement;
         [SerializeField] private PrototypePlayerCombat combat;
@@ -35,6 +37,16 @@ namespace YTCPrototype
         private float shootLayerRemaining;
 
         public string CurrentBaseState => currentBaseState;
+
+        public static int BaseStateHash(string stateName)
+        {
+            return Animator.StringToHash($"{BaseLayerName}.{stateName}");
+        }
+
+        public static int ShootStateHash(string stateName)
+        {
+            return Animator.StringToHash($"{ShootLayerName}.{stateName}");
+        }
 
         public void Configure(
             PrototypePlayerController playerMovement,
@@ -149,7 +161,7 @@ namespace YTCPrototype
                 return;
             }
 
-            int stateHash = Animator.StringToHash(stateName);
+            int stateHash = BaseStateHash(stateName);
             if (!animator.HasState(0, stateHash))
             {
                 Debug.LogError($"K1 V2 Animator state is missing: {stateName}", this);
@@ -178,7 +190,7 @@ namespace YTCPrototype
             }
 
             observedShotSequence = combat.ShotSequence;
-            int stateHash = Animator.StringToHash(ShootState);
+            int stateHash = ShootStateHash(ShootState);
             if (animator.layerCount > 1 && animator.HasState(1, stateHash))
             {
                 animator.SetLayerWeight(1, 1f);
