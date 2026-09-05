@@ -294,7 +294,7 @@ namespace YTCPrototype.Editor
 
             PrototypePlayerController movement = player.GetComponent<PrototypePlayerController>()
                 ?? throw new InvalidOperationException("Player movement is missing.");
-            movement.ConfigureV2Motion(4.2f, 3.5f, -2.56f, 2.56f, 0.30f);
+            movement.ConfigureV2Motion(4.2f, 0.24f);
 
             Transform visualRoot = playerTransform.Find("PlayerVisualRoot")
                 ?? throw new InvalidOperationException("PlayerVisualRoot is missing.");
@@ -369,9 +369,22 @@ namespace YTCPrototype.Editor
                 return;
             }
 
-            SetWorldPosition(enemies, "Enemy_Scout_A", new Vector3(4.2f, 0.05f, 0.25f));
-            SetWorldPosition(enemies, "Enemy_Scout_B", new Vector3(8f, 1.10f, -0.70f));
-            SetWorldPosition(enemies, "Enemy_Guard_C", new Vector3(14f, 3.5f, 1.4f));
+            ConfigureV2Enemy(enemies, "Enemy_Scout_A", new Vector3(4.2f, 0.05f, 0f));
+            ConfigureV2Enemy(enemies, "Enemy_Scout_B", new Vector3(8f, 1.10f, 0f));
+            ConfigureV2Enemy(enemies, "Enemy_Guard_C", new Vector3(14f, 3.5f, 0f));
+        }
+
+        private static void ConfigureV2Enemy(Transform parent, string childName, Vector3 position)
+        {
+            Transform child = parent.Find(childName);
+            if (child == null)
+            {
+                return;
+            }
+
+            child.position = position;
+            PrototypeEnemy enemy = child.GetComponent<PrototypeEnemy>();
+            enemy?.ConfigureV2Combat(0.55f, 9f);
         }
 
         private static void ConfigureGuide(Transform root, PrototypePlayerController movement, string fieldLabel)

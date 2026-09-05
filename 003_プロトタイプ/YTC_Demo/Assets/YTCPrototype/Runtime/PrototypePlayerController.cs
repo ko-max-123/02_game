@@ -11,6 +11,7 @@ namespace YTCPrototype
         [SerializeField, Min(0f)] private float depthSpeed = 3.5f;
         [SerializeField] private float minimumDepth = -2.5f;
         [SerializeField] private float maximumDepth = 2.5f;
+        [SerializeField] private bool horizontalOnly;
 
         [Header("Jump and flight")]
         [SerializeField, Min(0f)] private float jumpHeight = 2.2f;
@@ -80,6 +81,8 @@ namespace YTCPrototype
             : Mathf.Clamp01(turnElapsed / turnDuration);
         public bool JustLanded => justLanded;
         public bool UsesAnimatedTurning => useAnimatedTurning;
+        public bool UsesDepthInput => !horizontalOnly;
+        public float MovementScaleWhileTurning => movementScaleWhileTurning;
 
         private void Awake()
         {
@@ -165,8 +168,10 @@ namespace YTCPrototype
                 flightAcceleration,
                 maximumFlightSpeed);
 
-            horizontalInput = ReadAxis(KeyCode.A, KeyCode.D);
-            depthInput = ReadAxis(KeyCode.S, KeyCode.W);
+            horizontalInput = ResolveHorizontalInput(
+                Input.GetKey(KeyCode.A),
+                Input.GetKey(KeyCode.D));
+            depthInput = horizontalOnly ? 0f : ReadAxis(KeyCode.S, KeyCode.W);
             Vector2 planarInput = PrototypeMovementMath.ClampPlanarInput(horizontalInput, depthInput);
 
             UpdateFacing(planarInput.x);
@@ -232,20 +237,26 @@ namespace YTCPrototype
             ApplyFacingRotation();
         }
 
-        public void ConfigureV2Motion(
-            float forwardSpeed,
-            float laneDepthSpeed,
-            float laneMinimum,
-            float laneMaximum,
-            float animatedTurnSeconds)
+        public void ConfigureV2Motion(float forwardSpeed, float animatedTurnSeconds)
         {
             horizontalSpeed = Mathf.Max(0f, forwardSpeed);
-            depthSpeed = Mathf.Max(0f, laneDepthSpeed);
-            minimumDepth = Mathf.Min(laneMinimum, laneMaximum);
-            maximumDepth = Mathf.Max(laneMinimum, laneMaximum);
+            horizontalOnly = true;
+            depthSpeed = 0f;
+            minimumDepth = transform.position.z;
+            maximumDepth = transform.position.z;
             useAnimatedTurning = true;
             turnDuration = Mathf.Max(0.05f, animatedTurnSeconds);
-            movementScaleWhileTurning = 0f;
+            movementScaleWhileTurning = 1f;
+        }
+
+        public static float ResolveHorizontalInput(bool moveLeft, bool moveRight)
+        {
+            if (moveLeft == moveRight)
+            {
+                return 0f;
+            }
+
+            return moveLeft ? -1f : 1f;
         }
 
         public void SetFacingDirection(float horizontalDirection)
@@ -300,6 +311,14 @@ namespace YTCPrototype
 
             if (useAnimatedTurning)
             {
+                if (isTurning && Mathf.Approximately(desiredFacingSign, facingSign))
+                {
+                    isTurning = false;
+                    turnElapsed = 0f;
+                    turnDirection = 0f;
+                    return;
+                }
+
                 if (!isTurning && !Mathf.Approximately(desiredFacingSign, facingSign))
                 {
                     isTurning = true;
@@ -327,7 +346,7 @@ namespace YTCPrototype
                 return;
             }
 
-            facingSign = turnDirection > 0f ? 1f : -1f;
+            facingSign = desiredFacingSign;
             isTurning = false;
             turnElapsed = turnDuration;
             ApplyFacingRotation();

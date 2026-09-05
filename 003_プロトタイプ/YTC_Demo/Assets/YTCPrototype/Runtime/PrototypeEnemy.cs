@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 
 namespace YTCPrototype
@@ -11,7 +10,9 @@ namespace YTCPrototype
         [SerializeField, Min(1f)] private float attackRange = 10f;
         [SerializeField, Min(0.1f)] private float attackInterval = 1.6f;
         [SerializeField, Min(0f)] private float attackDamage = 12f;
-        [SerializeField, Range(0.25f, 0.4f)] private float attackTelegraphDuration = 0.32f;
+        [SerializeField, Range(0.25f, 0.8f)] private float attackTelegraphDuration = 0.32f;
+        [SerializeField, Min(1f)] private float projectileSpeed = 9f;
+        [SerializeField, Range(0.03f, 0.2f)] private float projectileRadius = 0.09f;
         [SerializeField, Range(0.2f, 0.5f)] private float defeatDisplayDuration = 0.32f;
         [SerializeField] private PrototypeCombatDirector director;
         [SerializeField] private PrototypePlayerHealth target;
@@ -27,11 +28,14 @@ namespace YTCPrototype
         private float defeatTimer;
         private bool isTelegraphing;
         private bool defeated;
+        private Vector3 lockedAimDirection = Vector3.left;
 
         public float CurrentHealth => currentHealth;
         public float MaximumHealth => maximumHealth;
         public float HealthNormalized => maximumHealth <= 0f ? 0f : currentHealth / maximumHealth;
         public bool IsDefeated => defeated;
+        public Vector3 LockedAimDirection => lockedAimDirection;
+        public float ProjectileSpeed => projectileSpeed;
 
         public void Configure(
             PrototypeCombatDirector combatDirector,
@@ -44,6 +48,13 @@ namespace YTCPrototype
             patrolPhase = phase;
             attackInterval = enemyAttackInterval;
             patrolCenter = transform.position;
+        }
+
+        public void ConfigureV2Combat(float telegraphSeconds, float shotSpeed)
+        {
+            attackTelegraphDuration = Mathf.Clamp(telegraphSeconds, 0.25f, 0.8f);
+            projectileSpeed = Mathf.Max(1f, shotSpeed);
+            projectileRadius = 0.09f;
         }
 
         private void Awake()
@@ -135,7 +146,7 @@ namespace YTCPrototype
                 hitFlash = Mathf.PingPong(Time.time * 12f, 1f);
                 if (telegraphTimer <= 0f)
                 {
-                    FireAtPlayer(origin, targetPoint, delta.normalized);
+                    FireAtPlayer(origin, lockedAimDirection);
                     isTelegraphing = false;
                     nextAttackTime = Time.time + attackInterval;
                 }
@@ -150,39 +161,20 @@ namespace YTCPrototype
 
             isTelegraphing = true;
             telegraphTimer = attackTelegraphDuration;
-            PrototypeShotTracer.SpawnTelegraph(origin, targetPoint);
+            lockedAimDirection = delta.normalized;
+            PrototypeShotTracer.SpawnTelegraph(origin, targetPoint, attackTelegraphDuration);
         }
 
-        private void FireAtPlayer(Vector3 origin, Vector3 targetPoint, Vector3 direction)
+        private void FireAtPlayer(Vector3 origin, Vector3 direction)
         {
-            Vector3 end = targetPoint;
-
-            RaycastHit[] hits = Physics.RaycastAll(
-                origin,
+            PrototypeProjectile.SpawnEnemy(
+                origin + direction * 0.16f,
                 direction,
+                projectileSpeed,
                 attackRange,
-                ~0,
-                QueryTriggerInteraction.Ignore);
-            Array.Sort(hits, (left, right) => left.distance.CompareTo(right.distance));
-
-            foreach (RaycastHit hit in hits)
-            {
-                if (hit.transform.IsChildOf(transform))
-                {
-                    continue;
-                }
-
-                end = hit.point;
-                PrototypePlayerHealth hitPlayer = hit.collider.GetComponentInParent<PrototypePlayerHealth>();
-                if (hitPlayer != null)
-                {
-                    hitPlayer.TakeDamage(attackDamage, transform.position);
-                }
-
-                break;
-            }
-
-            PrototypeShotTracer.SpawnEnemyShot(origin, end);
+                projectileRadius,
+                attackDamage,
+                transform);
         }
 
         private void UpdateVisualFeedback()
