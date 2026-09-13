@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 
 namespace YTCPrototype
@@ -12,6 +11,8 @@ namespace YTCPrototype
         [SerializeField, Min(1f)] private float damagePerShot = 25f;
         [SerializeField, Min(1f)] private float range = 42f;
         [SerializeField, Min(0.01f)] private float shotInterval = 0.14f;
+        [SerializeField, Min(1f)] private float projectileSpeed = 26f;
+        [SerializeField, Range(0.03f, 0.2f)] private float projectileRadius = 0.07f;
 
         private Vector3 currentAimDirection = Vector3.right;
         private float nextShotTime;
@@ -90,19 +91,10 @@ namespace YTCPrototype
                 requested,
                 movement != null ? movement.FacingDirection : Vector3.right);
 
-            if (movement != null && Mathf.Abs(currentAimDirection.x) > 0.05f)
-            {
-                movement.SetFacingDirection(currentAimDirection.x);
-            }
         }
 
         private bool TryFire(Vector3 requestedDirection, bool bypassCooldown)
         {
-            if (!bypassCooldown && movement != null && movement.IsTurning)
-            {
-                return false;
-            }
-
             if (!bypassCooldown && Time.time < nextShotTime)
             {
                 return false;
@@ -116,37 +108,15 @@ namespace YTCPrototype
             shotSequence++;
 
             Vector3 origin = MuzzlePosition;
-            Vector3 end = origin + direction * range;
-            bool hitEnemy = false;
-            RaycastHit[] hits = Physics.RaycastAll(
-                origin,
+            PrototypeProjectile projectile = PrototypeProjectile.SpawnPlayer(
+                origin + direction * 0.14f,
                 direction,
+                projectileSpeed,
                 range,
-                ~0,
-                QueryTriggerInteraction.Ignore);
-            Array.Sort(hits, (left, right) => left.distance.CompareTo(right.distance));
-
-            foreach (RaycastHit hit in hits)
-            {
-                if (hit.transform.IsChildOf(transform))
-                {
-                    continue;
-                }
-
-                end = hit.point;
-                PrototypeEnemy enemy = hit.collider.GetComponentInParent<PrototypeEnemy>();
-                if (enemy != null)
-                {
-                    enemy.ApplyDamage(damagePerShot);
-                    hitEnemy = true;
-                    PrototypeShotTracer.SpawnImpact(hit.point);
-                }
-
-                break;
-            }
-
-            PrototypeShotTracer.SpawnPlayerShot(origin, end);
-            return hitEnemy;
+                projectileRadius,
+                damagePerShot,
+                transform);
+            return projectile != null;
         }
     }
 }

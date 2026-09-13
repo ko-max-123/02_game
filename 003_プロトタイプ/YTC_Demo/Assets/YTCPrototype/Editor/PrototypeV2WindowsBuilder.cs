@@ -93,13 +93,15 @@ namespace YTCPrototype.Editor
                 + $"Unity: {Application.unityVersion}\n"
                 + "Import: glTFast direct GLB / Mecanim / Generic rig / no root motion\n"
                 + $"Executable: {ExecutableName}\n"
-                + "Controls: WASD, Space jump/hold jet, Left Click or J fire, R restart, Esc quit\n");
+                + "Controls: A/D move, Space jump/hold jet, Left Click or J fire, R restart, Esc quit\n"
+                + "Combat: finite projectiles with locked enemy telegraphs; shots can be dodged.\n");
             File.WriteAllText(
                 Path.Combine(outputRoot, "README.txt"),
                 "YTC STANDALONE COMBAT PROTOTYPE V2\n\n"
                 + "Copy this entire folder to a Windows PC, then double-click YTC_CombatDemo_V2.exe.\n"
                 + "Unity Editor and Unity Hub are not required. Keep the EXE, Data folder, DLL files, and runtime folders together.\n\n"
-                + "A/D: Move, W/S: Depth lane, Space: Jump/hold Jet, Left Mouse/J: Fire, R: Restart, Esc: Quit\n");
+                + "A/D: Move, Space: Jump/hold Jet, Left Mouse/J: Fire, R: Restart, Esc: Quit\n"
+                + "Enemy aim locks when the dashed warning appears. Move or jump before the projectile arrives.\n");
 
             Debug.Log(
                 $"YTC V2 Windows build succeeded. Path={executablePath}, "

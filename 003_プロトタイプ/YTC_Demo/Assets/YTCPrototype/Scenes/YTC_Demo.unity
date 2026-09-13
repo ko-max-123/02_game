@@ -2094,6 +2094,8 @@ MonoBehaviour:
   attackInterval: 1.8
   attackDamage: 12
   attackTelegraphDuration: 0.32
+  projectileSpeed: 9
+  projectileRadius: 0.09
   defeatDisplayDuration: 0.32
   director: {fileID: 1122186732}
   target: {fileID: 1974133724}
@@ -2827,6 +2829,8 @@ MonoBehaviour:
   attackInterval: 2.05
   attackDamage: 12
   attackTelegraphDuration: 0.32
+  projectileSpeed: 9
+  projectileRadius: 0.09
   defeatDisplayDuration: 0.32
   director: {fileID: 1122186732}
   target: {fileID: 1974133724}
@@ -2908,6 +2912,8 @@ MonoBehaviour:
   attackInterval: 1.55
   attackDamage: 12
   attackTelegraphDuration: 0.32
+  projectileSpeed: 9
+  projectileRadius: 0.09
   defeatDisplayDuration: 0.32
   director: {fileID: 1122186732}
   target: {fileID: 1974133724}
@@ -3120,6 +3126,7 @@ MonoBehaviour:
   depthSpeed: 3.5
   minimumDepth: -2.5
   maximumDepth: 2.5
+  horizontalOnly: 0
   jumpHeight: 2.2
   gravity: -24
   flightHoldDelay: 0.18
@@ -3217,6 +3224,8 @@ MonoBehaviour:
   damagePerShot: 25
   range: 42
   shotInterval: 0.14
+  projectileSpeed: 26
+  projectileRadius: 0.07
 --- !u!1 &2010679794
 GameObject:
   m_ObjectHideFlags: 0

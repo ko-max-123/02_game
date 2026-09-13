@@ -11,37 +11,36 @@ namespace YTCPrototype
         private float lifetime;
         private float remaining;
 
-        public static void SpawnPlayerShot(Vector3 start, Vector3 end)
+        public static void SpawnTelegraph(Vector3 start, Vector3 end, float duration)
         {
-            SpawnComposite(
-                "PlayerShot",
-                start,
-                end,
-                new[] { new Color(0.95f, 0.42f, 0.06f), Color.white },
-                new[] { 0.085f, 0.032f },
-                0.11f);
-        }
+            Vector3 delta = end - start;
+            float distance = delta.magnitude;
+            if (distance <= 0.01f)
+            {
+                return;
+            }
 
-        public static void SpawnEnemyShot(Vector3 start, Vector3 end)
-        {
-            SpawnComposite(
-                "EnemyShot",
-                start,
-                end,
-                new[] { new Color(0.12f, 0.02f, 0.02f), new Color(1f, 0.12f, 0.1f) },
-                new[] { 0.085f, 0.038f },
-                0.12f);
-        }
+            Vector3 direction = delta / distance;
+            const float segmentLength = 0.26f;
+            const float segmentSpacing = 0.56f;
+            int segmentCount = Mathf.Clamp(Mathf.CeilToInt(distance / segmentSpacing), 1, 20);
+            for (int i = 0; i < segmentCount; i++)
+            {
+                float segmentStartDistance = i * segmentSpacing;
+                if (segmentStartDistance >= distance)
+                {
+                    break;
+                }
 
-        public static void SpawnTelegraph(Vector3 start, Vector3 end)
-        {
-            SpawnComposite(
-                "EnemyTelegraph",
-                start,
-                end,
-                new[] { new Color(1f, 0.08f, 0.06f, 0.58f) },
-                new[] { 0.022f },
-                0.34f);
+                float segmentEndDistance = Mathf.Min(segmentStartDistance + segmentLength, distance);
+                SpawnComposite(
+                    "EnemyTelegraphDash",
+                    start + direction * segmentStartDistance,
+                    start + direction * segmentEndDistance,
+                    new[] { new Color(1f, 0.08f, 0.06f, 0.62f) },
+                    new[] { 0.024f },
+                    Mathf.Max(0.1f, duration));
+            }
         }
 
         public static void SpawnImpact(Vector3 point)

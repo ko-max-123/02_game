@@ -99,9 +99,11 @@ namespace YTCPrototype.Tests
             Assert.That(capsule.radius, Is.EqualTo(0.31f).Within(0.0001f));
 
             PrototypePlayerController movement = player.GetComponent<PrototypePlayerController>();
-            Assert.That(movement.MinimumDepth, Is.EqualTo(-2.56f).Within(0.0001f));
-            Assert.That(movement.MaximumDepth, Is.EqualTo(2.56f).Within(0.0001f));
+            Assert.That(movement.MinimumDepth, Is.EqualTo(0f).Within(0.0001f));
+            Assert.That(movement.MaximumDepth, Is.EqualTo(0f).Within(0.0001f));
+            Assert.That(movement.UsesDepthInput, Is.False);
             Assert.That(movement.UsesAnimatedTurning, Is.True);
+            Assert.That(movement.MovementScaleWhileTurning, Is.EqualTo(1f).Within(0.0001f));
 
             Transform visual = player.transform.Find("PlayerVisualRoot/YamadaK1RiggedV2");
             Assert.That(visual, Is.Not.Null);
@@ -133,6 +135,23 @@ namespace YTCPrototype.Tests
             Assert.That(states, Is.SupersetOf(ExpectedClips));
             Assert.That(controller.parameters.Select(parameter => parameter.name),
                 Does.Contain(K1V2AnimatorDriver.LocomotionRateParameter));
+            Assert.That(animator.HasState(0, K1V2AnimatorDriver.BaseStateHash(K1V2AnimatorDriver.IdleState)), Is.True);
+            Assert.That(animator.HasState(0, K1V2AnimatorDriver.BaseStateHash(K1V2AnimatorDriver.WalkState)), Is.True);
+            Assert.That(animator.HasState(1, K1V2AnimatorDriver.ShootStateHash(K1V2AnimatorDriver.ShootState)), Is.True);
+        }
+
+        [Test]
+        public void Enemies_StayOnCombatPlaneAndUseDodgeableProjectiles()
+        {
+            PrototypeEnemy[] enemies = Object.FindObjectsByType<PrototypeEnemy>(
+                FindObjectsInactive.Include,
+                FindObjectsSortMode.None);
+            Assert.That(enemies.Length, Is.EqualTo(3));
+            foreach (PrototypeEnemy enemy in enemies)
+            {
+                Assert.That(enemy.transform.position.z, Is.EqualTo(0f).Within(0.0001f));
+                Assert.That(enemy.ProjectileSpeed, Is.EqualTo(9f).Within(0.0001f));
+            }
         }
 
         [Test]

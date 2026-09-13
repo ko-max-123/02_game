@@ -5,6 +5,20 @@ namespace YTCPrototype.Tests
 {
     public sealed class PrototypeMovementMathTests
     {
+        [TestCase(true, false, -1f)]
+        [TestCase(false, true, 1f)]
+        [TestCase(false, false, 0f)]
+        [TestCase(true, true, 0f)]
+        public void HorizontalInput_AAndDResolveSymmetrically(
+            bool moveLeft,
+            bool moveRight,
+            float expected)
+        {
+            Assert.That(
+                PrototypePlayerController.ResolveHorizontalInput(moveLeft, moveRight),
+                Is.EqualTo(expected));
+        }
+
         [Test]
         public void PlanarInput_DiagonalMagnitudeDoesNotExceedOne()
         {
